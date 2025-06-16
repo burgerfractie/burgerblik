@@ -1,0 +1,266 @@
+[00:00]
+3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Ik heropen.
+
+[23:39]
+Ik heropen. Het woord is aan de minister-president.
+
+[23:47]
+Voorzitter. Eh De velen van u eh hebben op diverse eh vormen en manieren gevraagd eh op welke manier eh eh het demissionair kabinet eh zijn werk graag zou willen voortzetten. En gerelateerd aan de onderwerpen van defensie tot stikstof en van wonen tot eh eh andere onderwerpen.
+
+[24:12]
+Eh ik heb in het begin eh van mijn verklaring en van het debat de hoop uitgesproken dat Kamer en kabinet samen willen blijven werk aan onderwerpen die niet kunnen wachten. Ik heb vandaag de Kamer ruimschoots die bereidheid gevoeld. Met het kabinet heeft goed geluisterd naar de onderwerpen die hierbij vandaag in de Kamer zijn genoemd. Bijvoorbeeld de ziel, bijvoorbeeld stikstof, bijvoorbeeld woningbouw, bijvoorbeeld perspectieven voor boeren. Ik hoorde ook onderwerpen terug die ik heel expliciet zelf noemde.
+
+[24:40]
+Namelijk veiligheid, zowel nationaal als internationaal, waaronder de steun aan de Oekraïne en alles wat nodig is voor de defensie, inclusief de NAVO-top. En de internationale economische verhoudingen en de belangrijke hersteloperaties als ook de begrotingen van 2026. U mag erop rekenen dat het kabinet dit gevoelen in de kamer ter harte neemt bij zijn werkzaamheden in het overleg met het parlement.
+
+[25:05]
+Dan vroeg de heer Eertmans: "Komen er nieuwe ministers of staatssecretarissen bij in het demissionaire kabinet of blijft dat in de huidige ploeg?" Eh, daar zullen we ons de komende dagen op raden, zeg ik via de voorzitter aan de heer Eertmans. Proost. De heer Klaver. Dankjewel. Eh en voor de korte termijn dat heeft u gezien en ik denk voor de komende dagen hebben we eh de taken onderling verdeeld.
+
+[25:30]
+Dan heeft de Eertmans gevraagd: "Mag ik erop rekenen dat ook onder de demissionair kabinet de motie Eertmans in Eurobonds heilig blijft?" Voorzitter, eh de motie is toendertijd aangenomen en heeft u dan ook voor mij de oordeelkamer gekregen.
+
+[41:59]
+Ik voel het als mijn verantwoordelijkheid om samen met uw kamer te blijven werken ook op dit onderwerp. Er ligt op dit moment geen voorzitter stel voor Eurobonds en over de inhoud kunnen we natuurlijk het gesprek met minister Heijn aangaan in de aanloop naar de eerstvolgende ecofin. Dan is er een onderwerp dat door velen van u genoemd is en dat is ook mijn laatste onderwerp hebt, namelijk de komende verkiezingen. Eh, uit de bijdrage van de Kamer is duidelijk dat de steun is voor vervroegde verkiezingen van de Tweede Kamer. Staat u mij toe daar nog kort wat over te zeggen? Het kabinet zal zo spoedig mogelijk een besluit nemen wanneer de verkiezingen plaatsvinden. De minister van BZK zal in overleg met de kiesraad en gemeente nagaan welke data in aanmerking komen voor de verkiezingen en hiervoor een voorstel doen aan het kabinet. Vervolgens zal de regering op basis van artikel 24 van de Grondwet een besluit tot ontbinding van de Tweede Kamer nemen. Voorzitter, en daarmee ben ik aan het eind van mijn bijdrage gekomen. Ja, dank u wel. Ik begrijp nu best dat u er even 20 minuten over moest nadenken. Dat wou ik zeggen. Deen van Waal. Ja, voorzitter, want ik had deze minister president had ik in mijn uit haar bijdrage uitgebreid bevraagd over de situatie in Gaza. En voorzitter, het is zo dat deze minister-president op dit moment geen enkel politiek excuus meer zou hebben in de vorm van een samenwerking met de heer Wilders om gewoon geen maatregelen te nemen tegen Israël. En voorzitter, als we zien wat Israël nu doet, de misdaden in Gaza en tegelijkertijd ook de conclusie trekken dat wat Nederland pretendeert zoveel te doen dat dat nog geen deuk in een pakje boter slaat, vraag ik deze meneer minister gewoon. Kunnen we verwachten dat hij komt met sancties tegen Israël? Dat hij gaat bepleiten tegen scherpe Europese maat voor scherpe Europese maatregelen tegen Israël? Of blijft hij de koers varen die hij nu vaart? Voorzitter eh Zoals u zelf ook al zei eh eh is dit eh niet een debat over Israël Gaza, maar een debat over eh de val van het kabinet. Eh en eh eh de de vraag is zoals nu gesteld eh ook door de heer van Baalen. Ze zullen ongetwijfeld in de komende debatten eh bijvoorbeeld eh rondom de Europese Raad van 17 en 18 juni nog eh eh ongetwijfeld een bad aan bod komen. En dan eh zal het kabinet ook in staat zijn geweest zich daar weer opnieuw over te beraden en met een eh opvatting te komen. Afrondend. Ja, voorzitter, dit dit is niet zomaar een onderwerp. Dit is voor heel veel Nederlanders een onderwerp. Dat dat dat ze door de ziel snijdt Al die mensen die in Den Haag stonden tegen dit kabinet zeiden: "Pas de koers aan." En dat deze minister-president vandaag daar gewoon geen boodschap aan heeft en zegt: "We gaan daar nog maar even rustig over nadenken." Terwijl al die mensen in Gaza in dit moment op dit moment lijden. Ik zeg tegen deze premier en deze regering: "U bent medeplichtig door het niets doen." En u heeft nog de mogelijkheid om ervoor te zorgen dat Nederland een greintje van zelf gesprek kan hebben om het internationale toneel en in relatie tot het internationaal gericht door iets te doen. Doe iets. Voorzitter, eh in de eerste plaats het is denk ik, als ik even snel reken, 8 + 24, 32 uur geleden dat het kabinet eh gevallen is. Ehm eh eh we zijn vervolgens bezig om te kijken hoe we eh demissionair verder kunnen gaan. Eh dat betekent dat we ons op een aantal vraagstukken echt moeten beraden. Ik deel met de heer van Baalen dat eh eh de De dat heb ik ook vaker gezegd dat alles wat er in Gaza gebeurt en de beelden die je daar ziet en de zorgen die mensen daarover hebben dat ik die absoluut in alle opzichten meevoel. Maar om binnen 32 uur van een demissionair kabinet te verwachten terwijl ik hier in het parlement sta in het kader van de val van het kabinet is echt een vraag die wat mij betreft op dit moment veel te vroeg komt. De heer Ertmans. Dank voorzitter. Was de val van het kabinet te voorkomen geweest? Ja, dat vind ik een eh hele ingewikkelde vraag. Laat ik zeggen, ik heb gezegd ik vond het onnodig en onverantwoord en ik heb mij de dagen voorafgaand aan gisterochtend ten opzicht van alle vier de fractievoorzitters heb ik daar gesprekken mee gevoerd of appjes over gewisseld of etcetera op alle manieren in contact om te proberen de val te voorkomen, maar uiteindelijk was het een vraagstuk wat lag bij de vier fractievoorzitters. Maar is er iets Want ik heb het geprobeerd op te helderen in het debat. En nou heb ik toch de indruk dat het lek boven is. Denk ik dat de NRC uiteindelijk echt de grootste problemen had met dat 10-puntenplan en dat daarin op voor mij onbegrijpelijke wijze VVD en BBB in mee zijn gegaan. Ehm maar klopt die analyse? Of ziet de premier dit anders? Ja, voorzitter, eh hoe ik het zie is denk ik niet zo interessant. Eh wat denk ik belangrijk is is het debat wat u net ook onderling heeft gehad met eh de vier fractievoorzitters die eh eh het eh nog op dat moment missionaire kabinet steunde en dat die met elkaar tot conclusie zijn gekomen. Eh, dat wil zeggen één partij eh de partij eh eh van de heer Wilders dat ze het kabinet niet meer zouden steunen en dat was een gesprek en een overleg wat zij met elkaar hadden. Oké. Afrondend, ziet de premier iets in de eh recente geschiedenis eh zeg maar deze week waarin hij anders had kunnen of moeten handelen eh als premier, als vader van deze eh hele constellatie, zeg maar, om dit voor mij betreft op totaal onnodige eh onnodige crisis eh te hebben kunnen voorkomen. Voorzitter. Leuk muziekje, meneer Timmermans.
+
+[31:41]
+Muziekje, is niet zo eh eh voor Voorzitter, eh, serieus. Ehm, ik heb mij, eh, de de laatste dagen eh, voor de val van de kabinet intensief naar de vier fractievoorzitters, eh, gewend eh, te kijken wat ik kon doen om een val van het kabinet te voorkomen. Eh, en vervolgens heb ik, eh, eh, achteraf geconstateerd onnodig en onverantwoord. De Boude. Wel.
+
+[32:06]
+Wat ik heel goed zou kunnen begrijpen is een kabinetsval op basis van een inhoudelijke fundamentele onenigheid, hè. Dat dat Dat dat kan zo zijn dat je zegt: "Ja, hier zijn wij het gewoon echt niet eens. Hier kunnen we het niet uitkomen." En dat vind ik ook legitiem en dan moet je opnieuw naar de kiezer en dan dan schrijf je nieuwe verkiezingen uit enzovoort.
+
+[32:27]
+Maar wat zo mysterieus is aan wat we nu meemaken is dat de heer Wilders zegt: "Ja, er viel over migratie niks te bereiken met dit kabinet." Terwijl op al die punten die die noemt de andere voor coalitiepartijen zeggen: "Maar dat wilden wij ook." En ik heb ook net in mijn speech ook laten zien. Het Het De basis daarvan, overgrote deel, stond ook in het hoofdlijnenakkoord. Werd Was in de uitvoering.
+
+[32:54]
+Eh, de minister van asiel en immigratie kwam van de PVV. Had alle vrijheid om op dat ministerie zelf te komen met allerlei voorstellen, wetsvoorstellen, noem het allemaal maar op, beleidsnotities. Dus wat wij denk ik en ik denk heel veel mensen in Nederland, maar we heel graag willen weten is hoe beoordeelt de premier of de de minister premier vanaf vandaag. Eh, nou deze breuk, is dit een menselijk tragedie?
+
+[33:21]
+Waren er gewoon botsende karakters waardoor het toch ja, op op dat niveau niet werkte? Is dat het verhaal? Of lag er een inhoudelijk meningsverschil? Zo ja, kan hij dat dan toelichten wat dan dat inhoudelijke meningsverschil was? Want ja, hij hij is de afgelopen wat hij de afgelopen drie drie vier dagen is de minister-president bezig geweest om het te te lijmen. En dan kom je toch tegen: Waar ging het nou om? Wat is er nou gebeurd.
+
+[33:46]
+Eh, voorzitter, aan een een weging van de voorstellen is het kabinet eh eh niet aan toegekomen, omdat er eh in het kabinet eh geen voorstellen van dienaar zijn ingediend. Het gesprek heeft zich eh volstrekt tot eh de eh beperkt tot de vier fractievoorzitters. Zij hebben dat eh debat gevoerd. En ik moet daar ook over de de achtergronden, de analyse eh en wat het ook is, echt verwijzen naar eh de eh het debat wat u hiervoor heeft gehad ook onderling eh met eh de vier fractievoorzitters die tot verkort dit kabinet steunde.
+
+[34:16]
+Eh en daar zult u uw conclusie aan moeten ontlenen en en als ik me daar aan ga wagen dan eh ga ik me aan eh ernstige speculatie eh gewacht doen en dat lijkt mij niet verstandig. Dat is heel interessant. Dus de Dus u zegt eigenlijk dat dat u niet betrokken was bij dit gesprek. Dat u eigenlijk ook niet weet. Ze hebben het buiten uw om hebben ze dit eh besloten en besproken. Nee, dit De vier fractievoorzitters hebben op het initiatief van de heer Wilders het eh gesprek met elkaar gevoerd over het team puntenplan.
+
+[34:45]
+Dat was ook een gesprek van de vier partijleiders die dit eh kabinet eh eh steunen. Dat lijkt me ook de enige juiste plek waar eh dat gesprek kon plaatsvinden. Gelet op het feit dat eh de fractievoorzitter van de VVD dat plan heeft ge- eh lanceerd. Ehm en eh vervolgens eh constateer ik dat eh die plannen niet eh die hebben we als kabinet niet hoeven wegen, want ze zijn nooit aan ons voorgesteld. Afrondend. Dit is toch wel een novum wat hier naar voren komt.
+
+[35:13]
+Dus de De premier van dit opmerkelijke kabinet en ook de de ministersploeg als zodanig is volstrekt niet betrokken bij de besprekingen over dit deze deze 10 punten die grotendeels gewoon voort kwamen uit het hoofdleidenakkoord waar niet zoveel mee aan de hand was. En en het besluit om de boel te laten klappen is dus ook buiten de ministersploeg als zodanig en buiten u als premier genomen.
+
+[35:43]
+Is dat een correcte samenvatting? Ehm, gelet op het feit dat ik eh partij ongebonden ben en daarmee ook geen partijleider ben, is het logisch dat de vier partijleiders met elkaar het gesprek hadden over eh eerste inhoud. Ook eh refereer het aan het hoofdlijnenakkoord wat ook van de vier partijleiders was. En vervolgens hebben de vier partijleiders met elkaar is één van de vier tot conclusie gekomen dat die het kabinet niet meer steunt. Dat is ook aan de partijleiders. Dat is niet aan het kabinet om daarover te beslissen. Eh en eh daarover heeft de heer Wilders mij gisterochtend eh geïnformeerd.
+
+[36:12]
+De heer Jette. Ja, voorzitter, ehm de minister-president en een groot aantal van de ministers gaat de komende tijd demissionair door en ik spreek uit ervaring dat het niet per se een dankbare taak, maar het is wel belangrijk dat het gebeurt. En ik ben heel erg benieuwd benieuwd hoe het kabinet eh of eigenlijk met welk kompas het kabinet de komende tijd dat de missionaire werk gaat doen.
+
+[36:33]
+Is daarbij het hoofdlijnenakkoord leidend met grote invloed nog van de PVV op de afspraken of kijkt het kabinet vooral ja, welke meerderheden zijn er nou per onderwerp hier in dit huis te vinden? Eh voorzitter, ik denk dat eh de eh de heer Jetten eh een terechtpunt aangeeft als hij eh terugkoppelt eh op op het parlement. En ook het eh debat van vandaag omdat u bepaalt eh de ruimte die dit kabinet heeft.
+
+[37:01]
+Eh en en daar moet ik dus in die zin bescheiden in zijn. Tegelijkertijd heb ik ook in mijn bijdrage gezegd dat eh de eh de de eh ministers die eh nu het kabinet vormen eh met eh grote eh nou ook nog steeds passie en betrokkenheid het werk voor Nederland eh willen doen. En dat wordt dus met elkaar uitzoeken waar we elkaar gaan vinden. Eh ik praat de komende dagen met de drie fractievoorzitters samen met de collega's zoals u hier aan tafel zit met de drie vice premiers.
+
+[37:28]
+Eh, om te kijken wat eh eh we kunnen doen indachtig datgene wat u als Kamer ons ook meegeeft wat eh de ruimte is die we eh ons daar eh mogen veroorloven van uw Kamer. Ja, voorzitter, wat wat deze inzet betreft hoeft er niet heel veel controversieel te worden verklaard. Kunnen we de komende tijd gewoon op de inhoud het debat met elkaar voeren en wij zullen telkens beoordelen vinden we een voorstel van het demissionair kabinet een stap in de goede richting, dan steunen we het en anders eh niet.
+
+[37:56]
+Eh, maar laat ik als voorbeeld voorbeeld nemen, een onderwerp waar ook de demissionair premier intensief bij betrokken is, die ministeriële commissie op stikstof, hè. Ondernemers zijn echt te trappelen om helderheid en voorspelbaarheid over de vergunningverlening, over het terugdringen van de stikstofuitstoot. Maar ja, PVV en BBB willen echt iets anders ten aanzien van stikstof dan eigenlijk de rest van de kamer. Dus demissionair kabinet zou hele grote stappen kunnen zetten op stikstof de komende tijd, maar niet als het hoofdlijnenakkoord daar het kompas blijft.
+
+[38:24]
+Dus ehm ja, het ja, het is voor deel aan de Kamer, maar ik ben ook benieuwd in hoever het kabinet ehm zelf nog met nieuwe voorstellen wil gaan komen om af en toe een doorbraak te forceren.
+
+[38:36]
+Ja, voorzitter eh de eh met betrekking tot de stikstof aanpak eh in ieder geval zal de ministeriële commissie absoluut eh blijven bestaan, want dat onderwerp is eh te belangrijk om eh zeg maar niet geïntegreerd op alle onderdelen die eh het stikstofvraagstuk eh raakt om daarmee aan de slag te gaan, maar eh eh ik denk tegelijkertijd eh het ook fair is om te zeggen dat aantal specifieke punten die in het hoofdlijnenakkoord dat punt zijn genoemd. Met name daar waar het gaat over gedwongen krimp dat die natuurlijk ongewijzigd zullen blijven.
+
+[39:05]
+Eh tenzij daar allemaal hele andere besluiten over worden genomen, maar dat verwacht ik op dit moment niet en dat betekent dat we dus volle kracht vooruit in het kabinet zullen eh gaan werken aan de stikstofaanpak eh maar wel grotendeels in lijn op dat punt met wat er ook in het hoofdlijnenakkoord over is gezegd. Voorzitter, afrondend. Ehm, volle kracht vooruit eh kan natuurlijk alleen als het kabinet ook voldoende rekening Houdt met de nieuwe dynamiek die hier in de Tweede Kamer is ontstaan, maar ook mogelijk in de meerderheden in de eerste Kamer.
+
+[39:34]
+In het vorige demissionaire kabinet is er nog best wel wat wetgeving het door beide kamers heen geloodst, maar niet als je op dezelfde route doorgaat als voor de kabinet valt, dus dat geef ik graag aan de premier mee. Met dank voorzitter. De heer Dassen. Ja voorzitter, daar op doorgaan. Ehm want inderdaad er zijn nieuwe verhoudingen. Eh dat betekent ook dat het kabinet niet meer gebonden is aan de wensen van Geert Wilders en de PVV. Dat betekent ook dat er ruimte komt.
+
+[39:59]
+En ik was benieuwd waar de eh minister-president de ruimte ziet om juist met een groter gedeelte van de Kamer op te trekken en hoe die van plan is om dat de komende tijd te gaan benutten. Ja, voorzitter, ik gaf eerder aan 32 uur. Eh dus eh de eh we moeten ons echt eh intern eh op dat punt beraden. Twee, met de fractievoorzitters, de drie fractievoorzitters ook kop eh beraden. Ik heb ook in mijn eh openingstatement eh gezegd dat we ons zeer bewust zijn van eh de de zeg maar het zoeken naar meerderheden voor datgene wat dat we willen bereiken.
+
+[40:28]
+En dat gaan we ook de komende periode doen. Nou voorzitter, dan misschien eh één één vervolgvraag daarop. Eh want stel de minister-president zit hier nog een half jaar, misschien eh zeven maanden. Laten we hopen dat we snel nieuwe verkiezingen hebben. Maar wat is nou hetgeen wat hij nog heel graag voor Nederland zou willen bereiken? Ehm en en dat mag even iets verder gaan dan wat er in het hoofdlijnenakkoord staat of in het regeerprogramma. Wat zou deze minister-president nou in het komende half jaar willen bereiken? En dan even niet asiel.
+
+[40:57]
+Want dat hebben we volgens mij wel gedaan. Voorzitter, eh nee, ik neem niet aan dat eh eh nu gevraagd wordt naar een politiek manifest van een eh partij eh eh eh ongebonden premier die bovendien demissionair is. Want dat zou wel eh de eh zeg maar alle wetten takten die hier in het parlement eh gelden volgens mij. Eh eh wat ik eh toen ik een eh een jaar geleden ben gevraagd eh heb ik ja gezegd omdat ik echt iets wil doen voor Nederland en echt geloof in de publieke zaak. Eh en eh daar goed over nagedacht.
+
+[41:25]
+Voor mij een onverwachte en eh volgens velen ook ongebruikelijke stap eh en daar heb ik me met hart en ziel voor ingezet. Dat wil ik ook de komende periode ook met de collega's niet alleen de collega's die hier zitten, maar ook de andere collega's doen en natuurlijk op de grote onderwerpen onderwerpen waar we toen ook voor hebben gekozen. Dat gaat over wonen. Dat gaat over bestaanszekerheid. Dat gaat over het oplossen van de stikstofproblematiek. Dat gaat eh overigens ook over veiligheid en het gaat gelet op de veranderende geopolitieke omstandigheden ook heel nadrukkelijk over de economie en natuurlijk over de bestaanszekerheid van mensen.
+
+[41:55]
+Dus het blijft echt een vol pakket, maar in volle volle bewustzijn dat uw kamer de marsjes van dit kabinet, dit demissionaire kabinet bepaalt. Tot zover de eerste termijn. Ik geef graag in tweede termijn. Het woord aan de heer Timmermans van de fractie GroenLinks partij van de Arbeid wordt te zijn.
+
+[42:19]
+Dank voorzitter voor het indienen van een motie omdat ik merk dat het gevoel van urgentie groot is in de kamer om zo snel mogelijk verkiezingen te kunnen organiseren en daarom deze motie. De Kamer grote beraadslaging overweegt dat Nederland zo snel mogelijk een nieuwe regering nodig heeft die grote problemen kan oplossen.
+
+[42:36]
+Overwegende dat volgens de grondwet maximaal drie maanden zitten tussen verbindingsbesluit en de samenkomst van de nieuwgekozen kamer verzoekt de regering de kamer zo snel als mogelijk te ontbinden en op kortste mogelijke termijn die de kiesraad toelaat verkiezingen uit te schrijven. Verzoekt de regering daarvoor financiële middelen beschikbaar te stellen aan gemeente en gaat over tot de orde van de dag. Mede ondertekend door de collega's Jette Bontebal, Dijk Bikker, Dassen en Jessel Gus.
+
+[43:02]
+Voorzitter, ik wilde daar nog een punt eh van orde met uw permissie eh aan toevoegen. Ehm, het is mijn liefding waard als we nog vandaag over deze motie fractiegewijs eh zouden kunnen stemmen, let op het gevoel van urgentie. Dus met eh uw permissie en hopelijk met steun van de collega's, misschien kunnen we hierover meteen naar eh einde van dit debat stemmen. Ja, ik begrijp uw verzoek. Eh ik denk ook even aan de motie Hamer. We hadden het net over moties die heilig verklaard waren.
+
+[43:31]
+Maar de motie Hamer is ook heilig namelijk, wij zullen op dinsdag stemmen. Dus u wilt dat blijkbaar nu al stemmen, dan moet ik gewoon even kijken of daar een meerderheid voor bestaat. Dus u doet het voorstel wel om aansluitend aan dit debat, neem ik aan, te stemmen. Fractiegewijs, ja. Fractiegewijs, dus niet hoofdelijk, maar fractiegewijs. Goed dat u het even toevoegt. Eh, ik ga even kijken of daar een meerderheid voor staat. De heer Dassen. Sorry, u stond niet daar mijn fout. Voorzitter, lijkt me een goed idee. Laten we dat eh straks meteen doen. Mevrouw Jezilkus. Prima. De heer Baudet.
+
+[44:01]
+Ja, maar ook over alle moties dan, toch? Nee, het was alleen over deze De heer motie. De heer Jetten. Ja, eh eh dat wil ik graag. Het voorstel is alleen over deze motie. Het verbreden? Nee, het voorstel is alleen over Maar kan ik dat niet amenderen? Nee, dat kunt u niet amenderen. Ja of nee? Nee, hij steunt het niet. De heer Bontebal. Eens goed. De Jette. Steun. Mevrouw Bikker. Wijs Steun. De van Baarle. Logisch verzoek Steun. Van de Plas. Mevrouw Steun. Mevrouw Oudehand. Steun.
+
+[44:30]
+De heer Wilders. Nou. Steun. Ik denk dat we het wel een beetje zijn. Steun. Mevrouw Franhove. Mijn steun niet meer nodig. Ik kan me niet aan de indruk contracten dat u meerderheid heeft. Dus dan gaan we aansluitend op dit debat en dat zal heel snel zijn Ja. gaan we erover stemmen. Want een aantal leden ziet af van het spreken. Daarom is de heer Jetten de volgende spreker. Als hij dat wil tenminste. Dat wil hij. Het wordt dus aan hem.
+
+[45:03]
+Deheer Jetten heeft planken koord, zegt hij. Nee hoor, hij Hij wacht op een printje en we hebben een motie altijd in papieren vorm nodig. De heer Dassen.
+
+[45:28]
+Voorzitter, als je doet wat je deed, dan krijg je wat je kreeg. Vandaag zagen we veel oud-Haagse kibbel over het verleden in plaats van nieuwe ideeën voor de toekomst. Jij bent een schandvlek. Nee, jij bent een schandvlek. Mensen zijn klaar met deze stemmen van het verleden en snakken naar een stem van de toekomst. En ik voelde aan de toekomst die ik schetste die deed wat in de zaal en vooral bij kweekvlees dacht ik bij mevrouw van der Plas even wat lichte paniek te zien. Voorzitter, ik snap dat oude partijen lachen om onze vergezichten.
+
+[45:58]
+Die zijn namelijk zeldzaam geworden in Den Haag. Maar terwijl de status quo lacht kunnen we bouwen aan die toekomst en dat is volgens mij ook wat Nederlanders van ons mogen verwachten. Nieuwe problemen hebben nieuwe ideeën nodig. die de oude politiek nog niet aandurft, dan kunnen we aan de toekomst bouwen. Dat is volgens mij waar de campagne straks over mag gaan. Dus op naar nieuwe verkiezingen. De bontebal van het CDA ziet af van zijn spreektijd. De heer van Baarle.
+
+[46:35]
+Dank, voorzitter. De kamer hoort de braadslaghand constaterende dat Israël de toevoer van humanitaire hulp naar Gaza blokkeert overwegen dat er een nijpend tekort aan medicijnen en voedsel is in Gaza. Overwegen dat er 930.000 kinderen in Gaza het risico lopen op acute hongersnood volgens de Integrated Food Security Phase Classification. Overwegen dat de groeiend aantal landen, internationale organisaties het handelen van de Israëlische regering veroordelen, verzoekt de regering om sancties te bepleiten tegen de Israëlische regering en gaat over tot de orde van de dag.
+
+[47:02]
+De kamer gehoord de beraadslaging constaterende dat een levensvatbare Palestijnse staat al decennia het steegpunt van de Nederlandse regering is, maar dat Israël openlijk zegt die levensvatbaarheid tegen te zullen werken, constaterende dat het Palestijnse zelfbestrijdingsrecht hiermee bedreigd wordt en steeds meer Europese staten daarom de Palestijnse staat erkennen, verzoekt de regering om de Palestijnse staat te erkennen en gaat over tot de orde van de dag.
+
+[47:24]
+De kamer, gehoord de beraadslaging, verzoekt de regering ter stond en definitief het onderzoek te staken over wanneer de Nederlandse ambassade naar Jeruzalem verplaatst kan worden en gaat over tot de orde van de dag. En tot slot, voorzitter, de kamer gehoord de beraadslaging, verzoekt de regering om een algeheel wapenembargo als defensief in te stellen tegen Israël en alle militaire samenwerking en uitwisseling van militaire technologie met Israël te staken zowel offensief als defensief.
+
+[47:49]
+Als deze premier niet bereid is aan te geven wat de regering doet op het gebied van maatregelen tegen Israël, dan moeten wij als Kamer maar gaan bijsturen. Mevrouw Jezilkus van de VVD.
+
+[48:09]
+Dank u wel, voorzitter. En ik wil de minister-president ook danken voor al zijn inzet van de afgelopen tijd en ook eh de tijd die nu gaat komen en dat geldt ook voor de vicepremiërs en de andere bewindslieden. Ongelooflijk veel dank eh dat jullie op deze manier doorblijven blijven gaan je inzetten voor Nederland. En in het belang daarvan en ook in blijven zitten voor alle belangrijke onderwerpen heb ik één motie. De Kamer goedgekeurd de beraadslaging. Constateren dat Nederland nationaal en internationaal voor grote uitdagingen staat waarbij besluitvaardigheid meer dan ooit noodzakelijk is.
+
+[48:37]
+Overwegende dat het onverantwoord is om tot aan de volgende verkiezingen een stilstand te krijgen. Verzoekt het kabinet vol door te gaan met cruciale onderwerpen voor Nederland die niet kunnen wachten, waaronder tenminste asiel en migratie, defensie en weerbaarheid, steun aan Oekraïne, veiligheid, stikstof, ruimtelijke keuzes, woningbouw, hersteloperaties, verdienvermogen en de portemonnee. Verzoekt het kabinet daarvoor draagvlak te vergaren in het parlement en gaat over tot de orde van de dag. Mede ondertekend door mevrouw van der Plas, mevrouw van Frono, voor de heer Bontebal en mevrouw Bikker. Dank u wel, voorzitter. Dank u wel.
+
+[49:06]
+Het goede nieuws is dat de printer van de heer Jetten het weer doet. We zijn erg benieuwd wat er uit het apparaat is gekomen. Dank, voorzitter. Na twee jaar stilstand, chaos en ruzie wil deze 60 zo snel mogelijk verkiezingen, want de probleem problemen zijn gebleven. De woningnood, het klimaat, de verdeeldheid, maar oplossingen zijn uitgesteld. En wat na vandaag misschien nog wel het meest wrinkelt is dat er voor ons nog geen enkel lerend vermogen is van dit mislukte experiment.
+
+[49:35]
+De VVD blijft ondanks alle harde woorden over Wilders de deur richting de PVV nog altijd openhouden voor een nieuwe poging. Maar de opluchting over de kabinetsval bij de mensen in het land is groot en voelbaar. Ze snakken namelijk naar politiek die wel werkt. En laat het demissionaire kabinet net niet stilzitten, maar doorwerken. En wij zullen daarbij steeds de plannen beoordelen op de inhoud. En om ze daarbij een klein beetje te helpen de volgende motie.
+
+[50:02]
+De kamer gehoort de beraadslaging constaterende dat de secretaris-generaal voorstelt op basis van de capaciteitsdoelstellingen te groeien naar een NAVO-norm van minimaal 3,5% voor defensie-investeringen. Overwegende dat Nederland als gastland van de NAVO-top een bijzondere verantwoordelijkheid heeft in het vormgeven van de discussie over de nieuwe NAVO-norm. Verzoekt het kabinet zich te committeren aan het verhogen van de defensie uitgaven tot 3,5% van het BBP en gaat over tot de orde van de dag mede ondertekend door mevrouw Bikker.
+
+[50:29]
+En voorzitter, deze motie is gisteren nog weggestemd, maar na alle mooie woorden vandaag hoop ik dat we hier in ieder geval een doorbraak voor elkaar kunnen krijgen. Mevrouw van Vroonhoven, nieuw sociaal contract.
+
+[50:48]
+Voorzitter, nu in de tweede termijn staan we op het punt van hoe nu nu verder. Eh en eh eh wat dat betreft heeft mevrouw de motie ingediend eh eh ook namens mevrouw van der Plas en mij. En ik zou daar eigenlijk nog even een paar puntjes uit willen lichten. In die motie staat benoemd eh dat we inderdaad voort moeten gaan met eh met het migratiebeleid. En dan heb je het wat ons betreft ook uitdrukkelijk over de arbeidsmigratie en de studiemigratie. Als er staat dat we ons moeten richten op eh defensie en de weerbaarheid, wil ik vooral dat laatste ook goed benadrukken.
+
+[51:18]
+Het gaat echt om hoe hoe we de Nederlanders hier in eh in Nederland ook gewoon weer warm maken voor de onzekere toekomst die er is. En als het gaat over de eh hersteloperaties wil ik in het bijzonder ook eh de Via noemen. We hebben er bij de eh voorjaarsnota onderhandeling ons daar hard voor gemaakt. Eh de eh perikelen die je hebt ook bij eh bij het UWV als het gaat over arbeidsongeschikten. We zijn ontzettend blij dat we dat eh nu bij de kop hebben. Het zou doodzonde zijn als we dat niet kunnen verder zetten.
+
+[51:44]
+En als het staat over de portemonnee, dan is het wat ons betreft echt uitdrukkelijk de bestaanszekerheid. Voorzitter, tot slot ehm hoe nu verder de komende tijd te kijken naar meneer Dassen. Laten we daar een hele bevlogen campagne van maken met elkaar en dat we het fair en open met elkaar doen. Dank u wel. Mevrouw Bikker van de Christenunie. Ja, voorzitter, dank u wel.
+
+[52:13]
+Helder is de kamer is de komende maanden aan zet en het land moet nog steeds van het slot, want mensen zitten te wachten op dat nieuwe huis wat je wel kan betalen. De ondernemer die wel kan investeren. Al die plekken meer. En daarom eh voorzitter, van harte steun ook aan het kabinet schoof om weer op te staan om dat goede te doen. Te beginnen bij die NAVO-top. Eh, dat de minister-president daar met een stevig en vol mandaat kan staan, want dat is heel hard nodig.
+
+[52:41]
+En ik wil het kabinet ook wijsheid wensen, ook in de komende tijd. De missionair zijn is niet makkelijk, maar weet dat er in ieder geval voor mijn fractie geldt dat we altijd constructief en kritisch met u aan de slag willen gaan om goed te zorgen voor ons land. En ja, voorzitter, er mag een frisse wind gaan waaien in Nederland. Maar te lang zitten we al in een moeras waar politiek elkaar wel de maat neemt, maar niet de oplossingen brengt. En ik zet me er graag voorin naar die verkiezingen toe. dat we die frisse wind meer in dit parlement gaan brengen. Dank u wel.
+
+[53:10]
+De heer Dijk van de SP.
+
+[53:22]
+Dank u wel, voorzitter. Ik heb eh goed geluisterd in de eerste termijn met name naar de woorden van eh nieuw sociaal contract over de huurbevriezing en daarom de volgende motie. De Kamer grote beraadslaging constaterende dat alle sociale huren op 1 juli 2000 25 met maximaal 5% stijgen spreekt uit dat de huurlasten te hoog zijn en de belofte in de voorjaarsnota voor een huurbevriezing moeten worden nagekomen.
+
+[53:44]
+Verzoekt het demissionaire kabinet dit per ministeriële regeling te doen door alle sociale huren zowel bij corporaties als bij private verhuurders vanaf 1 juli te bevriezen en de corporaties hiervoor te compenseren en gaat over tot orde vandaag. Een vraag van mevrouw van Froonhoven. Voorzitter, eh ik kijk even naar eh de heer Dijk. We hebben die eh dat eh interruptie debatje met elkaar eh gevoerd. gevoerd. Eh eh, ik wil het nog even nazoeken in het eh in het stenogram.
+
+[54:09]
+Volgens mij heb ik echt zo gezegd dat ik u heb gezegd van we moeten kijken hoe we met elkaar ook die eh de eh de huur gaan matigen. Eh en eh dat hoeft wat mij betreft niet te zijn op basis van die oude plannen die we toen hadden voorliggen, maar dat we naar elkaar moeten kijken hoe we dat eh eh allemaal in het kader van de bestaanszekerheid, zo heb ik dat echt gezegd, eh met elkaar eh recht moeten houden. Dat zeker. Voorzitter, ik heb de woorden van mevrouw van Vroonhoven letterlijk uit het eh uit het stenogram gehaald en daar heeft u letterlijk gezegd: dat u de belofte wil standhouden die u bij de voorjaarsnota heeft gedaan.
+
+[54:38]
+Als u het kan terugkijken, dan ziet u ook de vrolijke eh het vrolijke gezicht van de heer Wilders en de wat minder vrolijke gezicht van mevrouw eh Keizer. Eh dus er is een reden. Ik hoop dat u zich aan uw belofte gaat houden. Het is bijna 1 juli. Eh laten we dat gaan doen en dan ook inderdaad met genoeg geld voor woningbouwcorporaties om te kunnen investeren in genoeg woningen voor jonge mensen en gezinnen. Ook dat is een vorm van bestaanszekerheid. Wie A zegt, moet ook B kunnen zeggen.
+
+[55:02]
+Voorzitter, ik ga het stemdiagram even nalopen, maar ik Ik hoop ik ik meen echt dat ik heb gezegd: "Het gaat inderdaad over dat we met elkaar de huren moeten maken." Ik app u de letterlijke tekst zo meteen. Geen enkel probleem. Voorzitter, eh motie twee. Vorige keer toen we een demissionair kabinet hadden eh werden ook bezuinigingen op de zorg geschrapt. Lijkt me ongelooflijk goed om te doen. De Kamergrote Braadslag constateren dat vanaf 2026 bijna 500 miljoen aan bezuiniging op de ouderenzorg en ruim 150 miljoen op de gehandicaptenzorg en de GGZ gepland staan.
+
+[55:28]
+constateren dat dit jaar al 350 miljoen wordt weggehaald bij de ouderenzorg, gehandicaptenzorg en de GGZ. constateren dat vanaf volgend jaar vier €250 miljoen wordt bezuinigd. Op de jeugdzorg het oploopt tot €1,8 miljard en ook een eigen bijdrage wordt ingevoerd. constateren dat vanaf 2027 een bezuiniging van €225 miljoen ingeboekt zou op de WMO en de eigen bijdrage stijgen. Verzoekt de regering om deze bezuinigingen te schrappen en gaat over tot het orde van de dag. Voorzitter, tot slot nog één motie. Er zitten hier mensen die beslissen over andermans WW en die zitten zelf op een torenhoge wachtgeld regeling.
+
+[55:56]
+De Kamer Grote Braadslag constateren dat Kamerleden zelf kunnen rekenen op 38 maanden WW met een totaal van €334.000 aan wachtgeld. constateren constaterende dat deze Kamerleden nu in meerderheid hebben besloten om de WW-duur te verkorten van 24 naar 18 maanden. Voor gewone mensen spreekt het uit dat WW-duur niet verkort moet worden. Verzoekt de regering de voorgenomen WW-verkorting terug te draaien bij het opstellen van de miljoenennota 2026 en gaat over tot het orde van de dag. Dank u wel. Mevrouw van der Plas, BBB.
+
+[56:32]
+Dank u wel. Dank voor eh de minister-president en zijn woorden in het debat. En de aanwezigheid van de andere andere drie oeh god ik zit nog helemaal in vier modus. Eh de andere drie bewindspersonen. Ehm ik heb twee moties. De Kamer gehoord de beraadslaging overwegen dat de noodzaak groot is om door te gaan met de inzet van het kabinet om de natuurvergunning om de vergunningverlening weer op gang te krijgen overwegen dat Nederland zo snel mogelijk van het stikstofslot moet om ruimte te krijgen voor onder andere boeren, vissers, woningbouw, infrastructuur en defensie.
+
+[57:01]
+Overwegen dat het kabinet hiervoor een goede start heeft gemaakt met de brief van 5 20 april, verzoekt de regering voortvarend door te gaan met de uitvoering van alle vier sporen, zoals die zijn geformuleerd in de ministeriële commissie economie en natuurherstel en gaat over tot de orde van de dag. Kamer gehoord op beraadslaging. Overwegende dat de asielmigratie naar Nederland moet worden aangepakt. Overwegende dat landen als Duitsland hun grensbewaking hebben geïntensiveerd.
+
+[57:27]
+Overwegende dat dankzij de extra controles aan de Duitse grens 47.000 mensen bij de grens zijn tegenhouden onder wie 1900 mensensmokkelaars. Overwegen dat het aantal asielaanvragen in Duitsland sindsdien flink is gedaald. Verzoekt de regering zo snel als mogelijk bijvoorbeeld via het dienjaar bij Defensie extra capaciteit te creëren voor de Marechaussee voor taken zoals grensdoenzicht en gaat over tot de orde van de dag. Dat schrijf ik er nog even bij. Ik heb nog één seconde. Ja.
+
+[57:57]
+Van de dag. Dank u wel. Ja, daar hechten we aan. Het wordt gewaardeerd. De bonte bal. Een interruptie voor mevrouw van de Plas. Ik zou bijna zeggen merci, maar dat mag dan weer niet. Ehm. Ja hoor. Ik noem het alleen tralala. Ehm. De eerste motie, ehm, in de motie van mevrouw Juul eh CS wordt een aantal thema's genoemd waar het kabinet voor het vaderland op mee door moet gaan en daar staat stikstof ook gewoon bij.
+
+[58:27]
+Ja. Dus die eerste motie van u lijkt me dan overbodig, want die zit geïncludeerd in die van de VVD. Ja. Dus kunnen we die gewoon niet schrappen, het scheelt minder stemmen. Nee, dank u wel.
+
+[58:40]
+Deirdre Eertmans, jaar 21.
+
+[58:47]
+Ja. Voorzitter, dank eh aan de de premier voor voor de gegeven antwoorden. Ik ben niet helemaal gerust op het Eurobonds eh antwoord, maar eh wel goed. Ja. Ik had de vraag of het heilig is. Eh ik hoop dat hij heilig blijft die motie Eerkamp. Voorzitter, ehm ehm de Kamer hoort de raadslaging. Verzoekt het kabinet het 10-puntenplan over asiel van Wilders uit te voeren. Gaat over tot de orde van de dag. De Kamer hoort de raadslaging.
+
+[59:15]
+Verzoekt het kabinet de spreidingswet uiteindelijk op 1 februari 2026 in te trekken gaat over tot de orde van de dag. Voorzitter, Kamer gehoord, beraadslaging spreekt uit het asielbeleid niet controversieel te verklaren. Gaat over tot de orde van de dag. Dank u wel. Laatste spreker, de heer Baudet, Forum voor Democratie.
+
+[59:41]
+Sorry, ik ben mevrouw meneer Baudet, ik ben mevrouw Oudehand vergeten. Ja, dat gebeurt mij ook wel eens. U bent een heer. Excuses mevrouw Auwhand, bent u net terug? Zie ik u nu al over het hoofd. Dat is toch ook niet onaardig. Nou, ik zou maar zeggen er komen nieuwe verkiezingen en dus misschien ook een nieuwe kamervoorzitter. Oh. Ja. Hopsakee. Wat bent u hard vandaag? Bent u terug? Ik dacht u bent wat softer geworden. Niks ervan.
+
+[01:00:12]
+Niks ervan. Ik wilde mijn tweede termijn eh benoemen dat er dus ook positief nieuws is en deze had ik echt niet zien aan aankomen en niet voorbereid, maar het was wel eh Maar kwam wel uit de grond van uw hart volgens mij. Wel een beetje. Ja. Ja. Voorzitter, nieuwe verkiezingen. Er is positief nieuws. Er zijn heel veel eh puinhopen gecreëerd en de schade die is ontstaan is ook niet zomaar weg.
+
+[01:00:36]
+Maar we krijgen een kans om opnieuw te gaan werken met zijn allen aan goede oplossingen. Want Nederland snakt naar een kabinet dat de problemen aanpakt waar mensen zich zorgen over maken.
+
+[01:00:49]
+We hebben schone lucht nodig, een groene omgeving, gezond, betaalbaar voedsel voor iedereen, een rechtvaardige aanpak van de klimaatcrisis waar niet de grote vervuilers worden beland, maar gewone burgers worden geholpen en mensen snaken ook naar een consequent buitenlands beleid en daarin moet ik toch wel zeggen dat de eh antwoorden van de minister president op vragen over de genocide in Gaza ehm niet bepaald geruststellen.
+
+[01:01:14]
+De minister president zegt net letterlijk: "Ja, maar het is 32 uur geleden dat het kabinet viel, dus we hebben nog geen tijd gehad. De urgentie is als volgt: Er zijn al 50.000 onschuldige burgerslachtoffers gevallen. De honger is nu. Het gebrek aan water is nu. Het gebrek aan medicijnen is nu.
+
+[01:01:36]
+Het demissionaire kabinet had makkelijk gisteravond even de koppen bij elkaar kunnen steken en kunnen bedenken: Wat gaan we doen? Wat kunnen wij op dit moment doen om die genocide daar te stoppen. Dus ik druk de minister-president op zijn hart. Doe dit nu alsnog. We kunnen Dank wel. geen seconde langer wachten Dank u wel. Laatste spreker reeds aangekondigd. Oh, een vraag van mevrouw Jezilgus. Oh, een mededeling van mevrouw Jezilgus. Ik ik eh ben een beetje Ik loop achter, voorzitter, want ik had één vraag aan de heer Eertmans.
+
+[01:02:04]
+En voordat u helemaal afsloot en het gaat over zijn motie, zou het onhandig, maar toch liever nu mogen, anders wordt het echt Om nu nog een vraag. Nou, de heer Eertmans is reeds geweest. De termijn Dat is weet ik, maar ik wil in ieder geval kijk Hij kunt hem niet zelf even aanschieten, want Jawel, maar ik wil zijn ehm ehm motie die tekst vragen of hij die iets zou willen verduidelijken zodat het voor ons ook makkelijk wordt om voor te stemmen. Ja, maar schiet hem zelf even aan zou ik zeggen, want als we daaraan gaan beginnen dan dan dan dan blijven we aan de gang dat we mensen moeten terugroepen en Dan dan zal ik hier zeggen voor de collega's die dat horen.
+
+[01:02:31]
+Ik zal zo meteen aan de heer Ertmans vragen, want hij zegt uitvoerder van de 10 punten en ik zou graag willen toevoegen uitwerken en uitvoeren. En ik zie hem knikken, dan heb ik het hierbij gezegd. De heer Baudet. We eh we zijn eh getuigen van een politieke who done it. Hè, het is een eh eh buitengewoon merkwaardig spelletje. Wie loopt er nou te jokkebrokken? Is het zo dat eh Geert daadwerkelijk is dwarsgezet achter de schermen? schermen.
+
+[01:03:00]
+En dat VVD en NRC en BBB daarover aan het liegen zijn nu. Of is het zo dat Geert er eigenlijk gewoon helemaal geen zin meer in had en een aanleiding heeft gezocht eh om het te laten klappen op een onderwerp waar hij de meeste credibility heeft onder de bevolking, namelijk migratie. En er is maar één manier om daar achter te komen. Dat is heel simpel.
+
+[01:03:20]
+Door een motie in stemming te brengen die als volgt luidt: De kamer gehoord de beraadslaging verzoekt het demissionaire kabinet om alsnog met de 10 punten van Wilders betreffend van de inperking van de immigratie aan de slag te gaan en deze zoveel mogelijk uit te werken tot realistische concrete voorstellen en gaat over tot de orde van de dag. We zullen bij de stemmingen zien wie er gelijk heeft en ik wil net als de heer Timmermans en eh ik vraag de voorzitter om de orde te handhaven in het hart van de democratie.
+
+[01:03:52]
+Eh ja, ik verzoek u om wel opletten. Eh ik verzoek eh net als de heer Timmermans eh om dit gewoon vandaag in stemming te brengen, want het is evident in het belang van de democratie en de beraadslaging. We gaan zo meteen toch al fractiegewijs stemmen. Het is volgens mij geen enkel probleem om ook deze motie in stemming te brengen. En het is in het belang van Nederland en van de democratie dat we direct uitsluitsel hebben. Zeker, maar we hebben net met z'n allen een besluit genomen over die ene motie.
+
+[01:04:20]
+Daar gaan we inderdaad aansluitend op over stemmen. Eh, ik breng dan het voorstel van de heer Baudet even in eh stemming. En ik hoor graag van u agter leden of zij willen dat deze motie ook meteen eh over daarover wordt gestemd. De heer Bontebal, de heer Dijk, de Dijk. Ja, voorzitter, sorry, maar ik heb ook een verzoek. Eh en dat gaat over de motie die ik heb ingediend over huurbevriezing. Die gaat over de datum 1 juli. Ja, maar laten we Ja, de ja ja, dat kan, maar dat Dat is wel 1 juli is wel een datum die vrij belangrijk is voor huurders.
+
+[01:04:48]
+En ik heb net wel meerderheid aan partijen gehoord die dat willen, dus. Ja. Eh ik Nee nee nee, u u u Nee, uw microfoon staat niet aan. Man man man, mag het even rustig? Ontspan ontspan ontspan. Ehm, ik breng nu het verzoek in stemming van de heer Baudet. Dat gaan we eerst even doen. Daarna gaan we over de huurbevriezings eh motie praten als u dat wilt. En ik ga even kijken of daar een meerderheid is. Dus ik ga even kijken of er een meerderheid is voor het verzoek om zijn om zijn eh motie meneer Baudet even stil om zijn motie toe te voegen aan de stemminglijst. De heer Dassen.
+
+[01:05:19]
+Voorzitter eh volgens mij is daar geen haast voor, dus dat kan gewoon dinsdag, dus geen steun. Dat is geen steun, de heer Bontebal. Wij willen alleen over de motie Timmermans stemmen en de rest niet. Dat is geen steun, de heer van Baarle. Nou, voorzitter zitten. Kijk, wij steunden het verzoek om snel te stemmen over de motie over verkiezingen, omdat het dat moet snel voorbereid worden. Als er al het verzoek is om ook de andere moties in behandeling te brengen, zou mijn voorstel zijn: stem dan over alle moties.
+
+[01:05:44]
+Want ik vind mijn motie ook heel erg belangwekkend, maar dat kunnen we niet alleen omdat de heer Bode vindt zijn inhoudelijke moties van belang, daar moeten we nu over stemmen. Dus dan zou ik zeggen: "Laten we alles doen. Geen steun om er één uit te pikken." Dat is geen steun. Dat is het enige wat ik eigenlijk wilde horen met alle respect. Eh, meneer Bode, ik Ik stel voor dat behalve uzelf dat behalve uzelf niemand uw voorstel steunt. Ik ben Ik ga nu uw microfoon aanzetten, let op. Ik ben Ik ben verbijsterd. Ik ben werkelijk verbijsterd dat Nou hier nu gebeurt.
+
+[01:06:13]
+met het verwerken van dit verlies. Ik schors 5 minuten. Ik schors het 4:30 en dan gaan we luisteren naar de minister-president.
+
+[01:06:30]
+3 9 1 2 1 3 1 3 1 2
