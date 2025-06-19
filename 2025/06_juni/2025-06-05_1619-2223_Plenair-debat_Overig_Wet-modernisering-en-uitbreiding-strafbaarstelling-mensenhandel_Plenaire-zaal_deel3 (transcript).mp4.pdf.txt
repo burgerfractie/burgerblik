@@ -1,0 +1,353 @@
+[00:00]
+3 7 1 7 1 4 1 3 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 4 5 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 2 3 9 1 2 3 9 1 2 3 9 1 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 4 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 Ik heropen eh de vergadering.
+
+[01:05:32]
+Zou graag iedereen willen vragen om plaats te nemen. Aan de orde is de wijziging van het wetboek van strafrecht en het wetboek van strafwerkbes en andere wetten. Ehm we zijn aangekomen bij de eerste termijn van eh het kabinet. En als eerste zal beginnen eh minister eh van Sociale Zaken en de heer van Heim. En nu het woord of minister van Heim moet ik eigenlijk zeggen, hè? Ja, dank u wel eh voorzitter.
+
+[01:06:02]
+Ik zie een aantal van u eh verrast kijken, maar laat ik ehm mijn collega danken voor de collegialiteit eh omdat aan mijn adres een beperkt aantal vragen zijn eh gesteld die ik eh met plezier beantwoord. Ehm eh maar dan kan hij daarna dat eh zeg maar dat dikke mapje wat hier eh ligt eh met u doornemen. Eh en heb ik de gelegenheid om nog een aantal andere zaken eh verplichtingen na te komen. Eh bedankt voor de gelegenheid eh voorzitter.
+
+[01:06:28]
+Ook dank in de richting mijn van mijn collega zeg ik het nogmaals niet alleen voor de gelegenheid om hier eh het onderdeel eh arbeidsuitbuiting met u eh te bespreken, maar ook eh voor het indienen van dit eh voorstel eh van JNV is hier eh in de lead, maar het is voor eh sociale zaken kan ik u verzekeren een een belangrijk eh thema. Voorzitter.
+
+[01:06:50]
+Ja, voorzitter, even even dat ik het goed begrijp. Eh ik neem aan dat we wel gewoon appreciaties kunnen verwachten van de minister van de S2 in de tweede termijn. Ja, dat dat is mijn vraag aan het kabinet. Kijk, als de minister zegt: "Ik ga dit debat niet afwachten, ik ga eerder weg." Ja, u krijgt appreciaties op alle amendementen. Uiteraard. Eh ja, maar er zullen in de tweede termijn mogelijk moties worden ingediend. Die zullen mogelijk op het terrein van arbeidsmigratie plaatsvinden. Het is vrij ongebruikelijk, zeg ik maar even ehm om gewoon te vertrekken voordat de kamer in de tweede termijn eh haar woordvoerder doet.
+
+[01:07:20]
+Dus ik dus ik wil het even te zoeken. Ik ik vind het prima, Ja maar dan wil ik wel zeker weten dat er gewoon daar heeft de heer Krol gelijk in. Nou ja, voorzitter, het is voor mij ook geen principieel punt. Het was het is een aanbod wat mij uit collegial Ik kijk even naar het kabinet als kabinet oordeelt van dat het spreekt met één mond, heb ik altijd geleerd. Maar dat laat ik dan aan bewijs personen eh over. Heer Krul, laatste keer op dit punt. Is ook zeker voor mij geen principieel punt.
+
+[01:07:47]
+Ik zou zeker zeggen als minister Elders nuttiger kan zijn voor het land graag. Ehm maar ik wil alleen eens even zeker weten dat er wel gewoon geapprocheerd kan worden op moties ook op het terrein van de LSC. Zeker, zeker. Dat kan Dat kunnen we u eh garanderen. Nou, volgens mij bent u gerustgesteld, heer Krul. Nou, ook dank voor die eh coulance dan eh voorzitter. Ehm en laat ik toch zeggen eh toch even met de persoonlijke noot beginnen, want ik heb eh van velen van u ook eh persoonlijke betrokkenheid gehoord bij dit thema of eh in ieder geval benadrukt worden worden hoe belangrijk dit onderwerp eh is.
+
+[01:08:17]
+En ik kan eh zeggen dat ik ook ook echt ehm eh persoonlijk dat onderschrijf. Ik heb de afgelopen maanden eh veel werkbezoeken mogen afleggen op het terrein van sociale zaken waar eh arbeidsmigratie aan de orde was. Eh heb heel veel eh verschrikkelijke eh wantoestanden gezien. Als het ging om eh situaties op de werkvloer.
+
+[01:08:38]
+Eh voorbeelden gehoord over hoe eh eh misstanden eh hoe uitbuiting plaatsvindt, onderbetaling, arbeidsomstandigheden die eh ontzettend slecht zijn, huisvesting die abominabel is. Dus eigenlijk mijn ehm eerste opmerking ook in de richting heer van Dijk die eigenlijk vroeg van: "Ja, moeten we hier dan eigenlijk wel spreken over eh mensenhandel?" Nou, dit is Je komt af en toe echt moderne vormen van slavernij tegen waarbij misbruik wordt gemaakt ook van de kwetsbare positie waarin mensen eh zitten.
+
+[01:09:06]
+En daarom denk ik ook dat het zeer terecht is dat in dit perspectief, in dit wettelijk kader, ook aandacht is voor de vraag hoe je dat niet alleen bestuursrechtelijk, maar ook strafrechtelijk van eh het eh de nodige antwoorden kunt eh eh voorzien. Dus ik ben ook oprecht verheugd om samen met de minister van J&V eh dit wetsvoorstel ehm te bespreken. Want het voorziet echt in een maatschappelijke behoefte om die strafrechtelijke aansprakelijkheid van ernstige misstanden in de arbeidssfeer te verruimen.
+
+[01:09:33]
+En dat past goed bij een aantal andere thema's waar ik me als minister van SSW ook hard voor maak. Aan de voorkant zijn we namelijk hard bezig om die arbeidsmisstanden te voorkomen. En u kent ongetwijfeld de aanbevelingen van de commissie Roemer Aiach team bescherming arbeidsmigranten. Dat hele pakket voeren wij als kabinet uit. Staat ook in het hoofdlijnakkoord, hoewel het niet meer misschien helemaal geldig is, maar is het nog steeds het kompas in dat opzicht.
+
+[01:09:57]
+Ehm eh en daar zetten we ons ook in om kwetsbaarheid voor uitbuiting en andere misstanden te verminderen door arbeidsmigranten minder afhankelijk te maken ook voor hun werkgever. Onlangs hebben we hier in deze kamer ook de wet toelating ter beschikkingstelling van arbeidskrachten eh behandeld. Dat is ten behoeve van de bescherming van arbeidskrachten in de uitzendsector en het weren van malafide partijen van de markt. En dat voorstel is inmiddels aangenomen door de Kamer en ligt nu bij de Eerste Kamer.
+
+[01:10:25]
+We zijn gestart met het bieden van toegankelijke informatie voor hulp, dienstverlening aan arbeidsmigranten via het project Work in NL. En ik heb onlangs ook in eh het juridisch loket in Den Haag mogen zien hoe ehm hoe dat werkt en hoe op die manier ook arbeidsmigranten worden geïnformeerd over hun rechten. En op die manier eh is er binnenkort in alle arbeidsmarktregio's hulp beschikbaar voor arbeidsmigranten. En juist ook voor die arbeidsmigranten die tegen zeer schrijnende misstanden aanlopen.
+
+[01:10:52]
+Waar toch zich misstanden voordoen komt er met dit wetsvoorstel extra instrumentarium beschikbaar om hier gericht en daadkrachtig tegen op te treden. En dat is wat dat betreft een strafrechtelijk eh sluitstuk in een set van maatregelen om misstanden op de arbeidsmarkt aan te pakken. En ik heb recent ook met de Arbeidsinspectie wat dieper gesproken over het wetsvoorstel en waar zij straks echt strafrechtelijk op kunnen gaan handhaven in de toekomst.
+
+[01:11:16]
+En de Arbeidsinspectie heeft ook eh in mijn richting nogmaals weer nadrukkelijk aangegeven dat zij geholpen zijn met dit wetsvoorstel. Door een extra treden toe te voegen aan de strafrechtelijke ladder zal de Arbeidsinspectie minder vaak onderzoek voortijdig hoeven te beëindigen en kunnen ze meer zaken strafrechtelijk oppakken. Ook biedt de voordeel trekkers bepaling de ruimte om meer randfiguren in een onderzoek aan te pakken, bijvoorbeeld inleners.
+
+[01:11:43]
+En de Arbeidsinspectie heeft ook benadrukt dat zij voortvarend op weg is om klaar te zijn zodra de wet in werking treedt. In de afgelopen jaren is de capaciteit om de wet uit te voeren al uitgebreid. Het pakket van Roemer voorzag ook in de financiële middelen daarvoor. En de nieuwe collega's van die Arbeidsinspectie zijn ook grotendeels opgeleid inmiddels op het thema arbeidsuitbuiting en die worden net als de zittende rechters opgeleid om het voorliggende voorstel uit te voeren.
+
+[01:12:08]
+Ook heeft de opsporingsdienst sinds 2023 een aparte afdeling arbeid uitbuiting waarmee de strafrechtelijke aanpak van de arbeidsuitbuiting is gebundeld, geïntensiveerd en ook geprofessionaliseerd. Dus met dit nieuwe instrumentarium en de strafrechtelijke opsporing door de Arbeidsinspectie, want dat is door een aantal van u zeer terecht benadrukt. Je kunt de wet hebben, maar je moet het vooral ook de naleving organiseren. Zijn we op de goede weg om de daders aan te pakken en die aanpak te verbeteren.
+
+[01:12:38]
+Dank eh voorzitter en dank aan de minister. Maar hij zegt dus ja, de Arbeidsinspectie inspectie geeft aan eh dat men dat men tevreden is met deze toevoeging van het begrip ernstige benadeling, maar daar is natuurlijk ook veel kritiek op geweest. Onder andere nationaal rapporteur die zegt Nee, je kunt beter uitbuiting afzonderlijk strafbaar stellen vanwege alle redenen die we al hebben genoemd in het debat. Ehm, maar wat is eh hoe hoe ziet die minister dat dan?
+
+[01:13:03]
+En ziet die niet ook het risico dat velen zien dat als je nu ernstige benadering toevoegt dat het dan dat veel vervolgingen zich daar dan op gaan richten omdat dat makkelijker rond is te krijgen, maar dan heb je een lage strafmaat en dat mensen afzien van vervolging voor uitbuiting.
+
+[01:13:17]
+Nee, voorzitter, ik heb eh ook daarover over zelf ook met de rapporteur gesproken ook in de aanwezigheid van de Arbeidsinspectie en ik zal u nog even meenemen maar ook in in wat ook de overwegingen van de Arbeidsinspectie zijn om te zeggen: "Nee, wij zijn hier juist met deze bepaling geholpen en niet eh met het apart eh eh strafbaar stellen van uitbuiting." Eh sterker nog, de Arbeidsinspectie geeft aan dat het eerder moeilijker wordt eh om te handhaven, omdat uitbuiting en arbeidsuitbuiting dan te dicht op elkaar zit en ook het onderscheid moeilijk te maken is.
+
+[01:13:46]
+Ehm ze geven aan dat voor beide vereist is dat er sprake is ehm ehm eh van eh van uitbuiting, dus dat het zelf het beoordelingskader eh voor beide begrippen geldt. En in tegenstelling tot dat wel eens wordt gezegd, in de rechtspraak is de wijze waarop de invulling wordt gegeven aan het beoordelingskader niet uitgekristalliseerd. Hè, dus eh ik meen dat dat ook de heer van Dijk was die zei van: "Er is toch wel heel veel jurisprudentie over." Nou, blijkt dat juist die uitspraken toch nog heel veel kanten opgaan. Grillig is. Feiten en omstandigheden worden niet altijd hetzelfde eh gewogen.
+
+[01:14:17]
+En bij uitbuiting zijn weliswaar geen middelen vereist, maar spelen ze via de achterdeur vaak toch een rol, omdat uitbuiting in de rechtspraak wordt beoordeeld aan de hand van omstandigheden die ook op die middelen duiden. En de Arbeidsinspectie zegt: "Ja, om die reden hebben wij eigenlijk juist behoefte aan een vangnet eh bepaling." Ehm, omdat in de praktijk heel veel zaken de lat net niet halen waardoor onderzoeken voortijdig moeten worden beëindigd of worden afgerond op een ander strafbaar feit.
+
+[01:14:44]
+En de ernstige benadering zit als het ware tussen het bestuursrechtelijk instrumentarium wat de Arbeidsinspectie heeft en toezicht op de naleving van de arbeidswetten. En eh de arbeidsuitbuiting waarvoor de lat, de bewijslast in de praktijk te hoog wordt gevonden om zaken rond te krijgen. En daarvoor voorziet dus die ernstige eh benadering in een belangrijke ehm eh ja, heeft een belangrijke toegevoegde waarde. Kort een geval, vraag je Bomansma.
+
+[01:15:13]
+Maar er is toch jurisprudentie sinds 2005 over dat begrip uitbuiting en voor ernstige benadering hoe hoe wordt dat dan verder eh ingevuld? Wat hoe wordt hoe worden arbeidsomstandigheden erbij betrokken? Dan is toch toch nog heel veel onduidelijkheid over. Daar zal eh eh zeker ook weer nieuwe jurisprudentie over moeten ontstaan, maar ik wijs er wel even op dat ook in de memorie van toelichting aan de hand van hele concrete casus en voorbeeld eh normen en ook praktijknormen wordt geschetst eh waar de gradaties eh zich bevinden.
+
+[01:15:40]
+Dus je hebt Het verschil zit hem eigenlijk in de mate van proportionaliteit van van een overtreding eh die ook gekoppeld is bijvoorbeeld aan de mate waarin er geen eh waarin de eh eh de beloningsverplichtingen niet worden nagekomen. Hè, je ziet dat bij eh als 2/3 eh van dat loon niet is bepaald eh betaald gedurende een periode van 2 maanden wordt automatisch aangenomen dat er sprake is van ehm eh uitbuiting.
+
+[01:16:07]
+Eh onder die 1/3 eh wordt er zelfs ernstige benadeling niet aannemelijk geacht en daar tussenin wel. Hè, dus er zit een gradatie, een oploop in ehm de bewijslast. En daarmee heeft de Arbeidsinspectie ook handvaten gekregen om eerder en makkelijker tot veroordeling op dat als althans tot het aanhangig maken van de zaak eh over te gaan. Tot slot.
+
+[01:16:30]
+Ehm ehm Maar wat daar wat ik ook heb begrepen is omdat dat zich puur richt op de op de op het inkomen dat dat ook juist verwarrend is omdat andere omstandigheden er niet duidelijk is hoe die dan worden gewogen als het gaat om de arbeidsomstandigheden en dergelijke, de overnachtingen. Terwijl als je juist zegt dat ja, je moet minimaal twee maanden zoveel hebben onderbetaald, dat dan ook weer het risico is dat er vanuit gaat dat je dan twee maanden lang, dus bijna twee maanden lang iemand kan onderbetalen.
+
+[01:16:56]
+Nee, dat is dat is voorzitter dat is met alle respect dat is alleen het dat specifieke eh onderdeel. Uiteindelijk gaat het om het samenstel van eh omstandigheden wat maakt natuurlijk of er sprake is van ernstige benadering. Dat kun je niet op voorhand precies eh duiden. En misschien voorzitter mag ik toch ook nog één voorbeeld eh noemen.
+
+[01:17:14]
+Eh wat mij ook is eh aangereikt ehm een voor waaruit blijkt dat arbeidsuitbuiting eh niet aannemelijk gemaakt kon worden, maar waarvan eigenlijk iedereen zegt als je nou die ernstige benadeling toevoegt, dan kun je die omstandigheden of kun je deze situaties toch eh eh aanpakken. Vonnis over ehm eh arbeidsuitbuiting in een autowasstraat. Dat ging over Hongaarse werknemers die gemiddeld zes dagen in de week werkten van 11-12 uur per dag tegen een dagloon van €35.
+
+[01:17:42]
+En die werknemers waren gehuisvest boven de autowasstraat. Pauzes werden nauwelijks toegestaan. Men moest doorwerken bij ziekte. Weigeren om te werken betekende direct verlies van huisvesting. Ze hadden weliswaar een eigen bankrekening maar geen beschikking over hun bankpas. Was geen vrije tijd om op zoek te gaan naar ander werk of een andere woning. Maar volgens de rechtbank was er slechts sprake van zeer slecht werkgeverschap en niet van arbeidsuitbuiting. En in deze situatie volgde vrijspraak.
+
+[01:18:09]
+Nou, voor dit soort situaties zegt de eh ook de Arbeidsinspectie: "Heb je ja, toch die tussenbepaling nodig om dit soort zaken niet terug te hoeven gooien en op voorhand te zeggen: "Nou ja, dit is waarschijnlijk kansloos voor de strafrechter. Dus laten we het maar bij een eh een boete houden." Ehm, nou, ik hoop dat dat daarmee concreet wordt eh wat in ieder geval de toegevoegde waarde is ook voor de Arbeidsinspectie in de uitvoeringspraktijk.
+
+[01:18:34]
+Mevrouw het Zegai vroeg mij nog: "Hoe wordt het werkterrein van van de OM en de Arbeidsinspectie afgebakend. Ehm, wanneer eh strafbaarheid mensenhandel en wanneer geen strafbaarheid maar overtreding van de arbeidswetten. Nou, precieze afbakening is op voorhand niet te geven of sprake is van arbeidsuitbuiting dan wel een overtreding van arbeidswetten is afhankelijk van de omstandigheden van het geval. Meldingen van arbeidsuitbuiting en straks ook ernstige benadeling worden door de opsporingsdienst eh opgepakt.
+
+[01:19:04]
+En daartoe is de opsporingsdienst ook verplicht op grond grond van de aanwijzing mensenhandel van het OM. En dat betekent dat de opsporingsdienst die meldingen verrijkt en beoordeelt. Als een melding onvoldoende informatie bevat die duidt op arbeidsuitbuiting, dan kan de melding worden doorgezet naar toezicht. Het OM en de Arbeidsinspectie bekijken gezamenlijk de impact van het wetsvoorstel en omdat de opsporingsdienst onder gezag van het OM acteert, vindt frequent overleg plaats over de resultaat afspraken en over eh operationele eh kwesties.
+
+[01:19:35]
+Ehm ook de heer van Nispen hier eh Boosma vroeger eigenlijk ook wel een beetje naar die vroeg hoe ik kijk naar de kritiek van de nationale rapporteur en of het wetsvoorstel nou dat gat oplost tussen eh het groot aantal slachtoffers en een beperkt aantal eh zaken. Ehm laat ik toch ook wel beginnen met een aantal nuanceringen. Ik heb zei dat ik heb ook gesproken met de nationale rapporteur. Die is ook echt positief.
+
+[01:19:58]
+Ehm de nieuwe eh afdeling arbeidsuitbuiting eh daarvan zeggen zij ook: "Dat is echt een goede stap dat dat wordt eh gezet." Ja, we hoeven straf van straf Rechtelijk onderzoek doet die afdeling veel meer dan alleen tactisch onderzoek. Bijvoorbeeld bijna 100 intakes met potentiële slachtoffers, ruim 30 zaken in vooronderzoek ook op dit moment. En in 2024 zijn ook zo'n 70 restprocessen verbale verstrekt aan de toezicht en andere ketenpartners.
+
+[01:20:24]
+En onderzoeken die de lat van artikel 273 F strafrecht niet halen worden nog alles voortgezet op mensensmokkel. Met deze wet zullen straks meer strafrechtelijke onderzoeken worden af. grond, ook op het gebied van ernstige benadeling en ook zet de Arbeidsinspectie in op verdere verbeteringen, bijvoorbeeld door meer proactief op te sporen. Dat wil ook zeggen door het maken van informatiebeelden. Eh dan probeert men eh verdachte in het vizier te krijgen om zo bij een slachtoffer eh uit te komen in plaats van andersom.
+
+[01:20:54]
+En daarnaast ook ehm eh arbeidsuitbuiting tijdens inspecties te onderkennen. Ik heb een aantal keren met dat soort inspecties mee eh gelopen en je ziet ook hoe de inspecteurs op dat punt echt op al die eh juridische ehm identificaties scherp eh proberen te zijn. Ehm de heer Boomstra vroeg of de controles van de Arbeidsinspectie eh ook wel eens onaangekondigd zijn, niet maar één alleen maar administratief.
+
+[01:21:19]
+Ik herken eh ook echt het beeld niet dat er alleen maar op basis van eh papier wordt ehm eh gescreend en en zaken worden opgepakt. Ik kan hem wat dat betreft echt eh geruststellen. Ehm wat hij wil is ook echt werkwijze van de Arbeidsinspectie. Zowel van de opsporingsdienst als bij het bestuursrechtelijke toezicht gezicht. Alle meldingen van arbeidsuitbuiting worden in behandeling genomen en waar mogelijk opgevolgd. Als er zicht is op mogelijke slachtoffers vindt altijd met hun een gesprek plaats om mogelijke arbeidsuitbuiting vast te stellen.
+
+[01:21:48]
+En de feiten en omstandigheden in de praktijk zijn altijd bepalend en niet hoe alles op papier is vormgegeven. Laat onverlet dat je af toe natuurlijk wel eh een check doet in je databases ehm op feiten en hoe die ook matchen met eh gegevens en eerdere eh constateringen. Alle controles bovendien zijn onaangekondigd zodat mogelijke overtreders en daders geen bewijsmateriaal kunnen wegmaken. Waar is de inspectie dan nog meer mee geholpen om misstanden bij arbeidsmigranten beter aan te pakken?
+
+[01:22:18]
+Vraagt ook de heer Boomstra. Nou, ik heb al aangegeven dat ehm het mogelijk maken van een harde strenge aanpak eh echt prioriteit heeft. Arbeidsuitbuiting is schrijnend. Het gebeurt veel te veel op de Nederlandse arbeidsmarkt. Eh we bespreken vandaag deze wet, maar er zijn flink aantal zaken opgepekt.
+
+[01:22:37]
+pakt in de afgelopen periode die complementair de Arbeidsinspectie eh mogelijkheden geven om eh misstanden aan te pakken zoals ik noemde net al even de wet ter beschikking stelling eh van arbeid die we 1 januari 2027 gaan invoeren. Eh het wetsvoorstel meer zekerheid voor flexwerkers ook onlangs ingediend bij de Tweede Kamer. Voor de zomer informeer ik de Kamer nog over de wens om boetes in de arbeidswetgeving te indexeren.
+
+[01:23:04]
+En we ondersteunen arbeidsmigranten ook breed via de Work in the NL punten samen met organisaties die slachtoffers van arbeidsuitbuiting helpen zoals Fairwork en de stichting Barca ehm proberen we ook mensen aan de voorkant hun te attenderen op hun rechten. Overigens heb ik begrepen dat de Stichting Fairwork vandaag haar 25 jubileum eh 25-jarig jubileum viert, dus waarmee van harte gefeliciteerd.
+
+[01:23:30]
+Eh de heer Zeden vroeg mij nog ehm wat ik doe om in de EU grip te krijgen op migratie. Wij zijn echt actief. We hebben die discussie overigens ook eerder met elkaar gehad in andere debatten eh maar echt actief met andere eh eh lidstaten in gesprek om de schaduwkanten van het vrijverkeer te adresseren, maar dat vrijverkeer is wel een randvoorwaarde waarmee we in Europa natuurlijk in de Europese Unie te maken hebben.
+
+[01:23:52]
+Maar een hele concrete opbrengst hiervan is dat het position paper dat ik namens zes andere lidstaten aan de Eurocommissaris heb overhandigd over het tegengaan van oneigenlijke detachering van derde landers, dat dat nu ook eh op de agenda van de commissie staat en de komende periode ook verdergebracht eh gaat worden. En dan gaat het over ehm eh verduidelijking in de richtlijn en dan gaat het over ook het gezamenlijk optrekken in het kader van de ELA, de Europese Arbeidsinspectie. Interruptie van heer van Nispen.
+
+[01:24:21]
+Ja, voorzitter, toch nog even op dat vorige punt hè, over de kritische vragen die zijn gesteld over de arbeidsinspectie, de de passieve houding, het verwijt dat zij te weinig op de werkvloer de onaangekondigde inspecties uitvoeren, te weinig spraken met de buren, te veel vertrouwde op de administratie en de papieren werkelijkheid. Hoorde ik nou net de minister zeggen: "Nou, dat dat dat waren misschien wel problemen, maar inmiddels is het allemaal verbeterd en behoort dat tot het verleden." Of hoor ik nou de minister zeggen: "Dat is eigenlijk gewoon nooit het geval geweest." Eh tenminste.
+
+[01:24:50]
+Nou, ik ken sowieso niet dat dat hè alleen maar je baseer op de papieren werkelijkheid dat dat überhaupt ooit het geval is geweest. Ehm eh maar ik zie ook wel dat er natuurlijk eh flink wordt gewerkt om eh de informatie die je nodig hebt om tot eh vervolging te komen, ook uit de praktijk, dat ook daadwerkelijk wordt opgehaald samen met toezichthouders, maar zeker ook op de werkvloer. Eh en ook de uitbreiding van van capaciteit heeft daar eh aan aan bijgedragen. Korte vervolgvraag, heer van Nispen.
+
+[01:25:18]
+Nou goed, dan hoop ik dat we daar inderdaad de resultaten ook eh zichtbaar van gaan zien en dat dat ook erkend en gedeeld wordt door partijen die kritisch meekijken en daar en dat ook echt kunnen weten. Dat kan ik alleen maar hopen. Eh maar ik heb ook nog een vraag over wat de minister daarvoor zei in het interruptiedebatt met de heer Boomsma. Want dat ging toch eigenlijk al in op het amendement. Eh inmiddels nummer wat is het? 26 heeft gekregen. Ik dacht was ook in de veronderstelling misschien komt de minister van Justitie daar ook nog op terug.
+
+[01:25:48]
+Eh maar wat ik deze minister dan wel alvast wil vragen. Als hij zegt: "Ja, de Arbeidsinspectie is enorm geholpen met het begrip ernstige benadering." Dat dat kan zijn. Eh, maar dat is natuurlijk ook wel het halve verhaal, omdat er ook heel veel kritiek is op die term ernstige benadering en juist een aantal partijen ook de Kamer heeft opgeroepen om juist het bredere begrip uitbuiting te gebruiken, omdat je niet alleen dan het vangnet organiseert voor arbeidsuitbuiting, maar ook voor andere vormen van uitbuiting waarbij je niet het oogmerk hoeft te bewijzen en die hoge lat van de mensenhandel net niet haalt. De minister.
+
+[01:26:18]
+Nee, voorzitter, ik ik heb inderdaad ook met minister afgesproken dat hij op die juridische afbakening ook nog wat nader zal ingaan. Ik heb hier inderdaad vooral het signaal willen geven dat in ehm dat dat die grote afstand die er is nu tussen het bestuursrechtelijk instrument wat je kunt inzetten en wat je ervoor nodig hebt om dat effectief te maken en aan de andere kant eh het huidige strafrecht waarin het over arbeidsuitbuiting gaat echt een heel groot gat zit. En dat de Arbeidsinspectie zit zegt eh met dat kader moeten wij heel veel zaken teruggooien.
+
+[01:26:46]
+Lopen wij aan tegen een hele hoge bewijslast en de ernstige nadelen is precies het goede begrip en ja, dat moet zich natuurlijk ook weer verder uitkristalliseren, maar is precies het goede begrip waarmee wij denken in dat dat eh dat tussengebied meer zaken daadwerkelijk voor de rechter te kunnen brengen.
+
+[01:27:03]
+En daarmee eh ja, hopen we echt dat we natuurlijk ook eh de afschrikkende werking van eh dit soort wantoestanden kunnen kunnen eh vergroten en het economisch voordeel wat heel veel werkgevers natuurlijk hebben bij eh het toepassen van dit soort situaties eh toelaten van dit soort situaties eh ook daadwerkelijk te verminderen. Tot slot. Dan hervatten we zo de discussie met de andere minister, maar dit is precies ook het doel wat ons abonnement ook heeft.
+
+[01:27:33]
+Eh we hebben niet hetzelfde begrip, want het oogmerk van uitbuiting hoeft niet meer bewezen te worden en dat gaat er wel om dat politie en OM hiermee uit de voeten kunnen. Natuurlijk op basis van dossiervorming van onder andere de arbeidsinspectie dat dat begrijp ik helemaal. Eh maar we kunnen hier dus niet enkel afgaan op de zeer gewaardeerde kijk van de arbeidsinspectie ook Overigens hoor ik hoor ik dan ook graag een positief appreciatie op het andere abonnement waar de Arbeidsinspectie juist om gevraagd heeft, maar dat eh dat gaan we dan ook zo eh zo horen om misleiding toe te voegen.
+
+[01:27:59]
+Maar ik vind ook dat we heel serieus moeten nemen de kritiek die er juist vanuit andere hoeken op is gekomen. En het is dat ik niet de Arbeidsinspectie die vervolgt ehm en de zaken voor de rechter brengt, dat zal toch het OM moeten doen. De minister? Ja, voorzitter. Maar het eh dat snap ik. Eh daar zal dan ook zo dadelijk worden op worden ingegaan. Ik weet overigens ook dat als het gaat over die misleiding dat dat ook een element in de discussie is waar misschien eh iets genuanceerder op gereageerd eh kan worden eh de hè wat als als het om de duiding eh gaat.
+
+[01:28:27]
+Ehm maar het gaat er natuurlijk ook om dat we de misstanden die in de praktijk zich voordoen en de mensen die op de werkvloer komen en die moeten signaleren en ehm eh de goede instrumentenkoffer moeten hebben om die eh te duiden en aan te pakken dat die daarmee uit de voeten kunnen. Dus voor mij is zo'n signaal van de Arbeidsinspectie wel buitengewoon eh belangrijk.
+
+[01:28:48]
+Ehm en wat wij de afgelopen maanden voortdurend hebben gedaan is kijken hoe we van eh van de meest lichte eh sancties tot en met eh de zwaarste eh en dan hebben we het over de strafrechtelijke aanpak, die instrumentenkoffer echt maximaal kunnen vullen. Ook door boetes eh op verschillende terreinen te verhogen. En nogmaals eh ja, ik geloof echt dat dit eh een aanvulling is eh in die koffer.
+
+[01:29:13]
+U kunt uw beantwoording vervolgen. Eh ik zie dat toch nog een ja Even keuren, interruptie. Dank u wel, voorzitter. Ik Ik moet zeggen ik steun u in die lijn omdat ik denk van ja, kijk het alternatief is dat dat ze vrijuitgaan. Dat is eigenlijk eh de resultaten en wat we hier willen vanavond is dat er een effectieve aanpak eh komt.
+
+[01:29:36]
+Ehm, maar ik heb nog een andere vraag aan u en die zit veel meer in het voorbeeld wat ik net gaf in dat hotel waarin eh mensen achter de balie gewoon dondersgoed doorhebben wat er gebeurt. Heeft u nou het idee dat de inspectie dat scherp heeft en worden daar ook wel eens boetes aan organisaties opgelegd die dat eigenlijk nalaten om te melden? De minister. Die dat nalaten om te melden.
+
+[01:29:58]
+Ehm, nou ja, in ik zou u niet precies de casussen kunnen eh eh toelichten waarin die boetes wel of niet worden op eh gelegd. Maar ik weet wel dat op grond van eh alle arbeidswetten eh de Arbeidsinspectie natuurlijk eh toezicht eh houdt eh en ook mogelijkheden om heeft om boetes op te leggen. Dus ik ik kan ik weet niet of dat in de specifieke casus zoals u hem nu duidt eh aan de orde is. Ja, eh voorzitter, dank voor dat antwoord zover, maar wat ik bedoel zijn meer de degene die het faciliteren.
+
+[01:30:28]
+Hè, dus er zijn organisaties Kijk de werkgever die uitbuit, dat's evident, dan kan de inspectie handig hè kan direct optreden. Maar het gaat met name om een faciliterende organisatie die dondersgoed kennis heeft van dat zit dat zich dit zich voltrekt en is de arbeids eh inspectie dan ook bij machten om daar boetes voor uit te Ja, doen. ik bedoel dat echt de inlenende eh organisatie.
+
+[01:30:52]
+Kijk ja, en daar is natuurlijk eh ook de wet die we onlangs hebben aangenomen die over de toelating van arbeids eh krachten gaat een hele belangrijke in, want dan wordt ook de inlener wordt het makkelijker om ook de inlener aan te pakken, omdat die inlener geacht wordt alleen nog maar zaken te doen met uitzendbedrijven of met detacheerders of welke uitleeners dan ook die een certificaat hebben. Doen ze dat niet, dan eh is er automatisch de mogelijkheid om eh boetes op te leggen.
+
+[01:31:19]
+Dus die wet die helpt ook bij het identificeren van die eh situaties. Hopelijk zuivert die de markt. Het is echt een marktordenings eh instrument. Ehm en of dat dus de afgelopen periode eh is gebeurd. Nou, ik hoop het wel, maar ik weet wel dat deze wet het voor de arbeidsinspectie in ieder geval makkelijker maakt om dan ook echt stevig op te treden. U kunt uw bijdrage vervolgen of uw beantwoording. Ja, voorzitter, volgens mij heb ik de meeste vragen hiermee beantwoord. Dus ik kijk nog even of ik eh mensen heb overgeslagen.
+
+[01:31:49]
+Ik zie dat er niemand eh zo in één keer in de benen springt om naar voren te rennen. Dus ik denk inderdaad dat dat het geval is. En dan ehm gaan we nu naar de beantwoording van eh de minister van J&V. Dank u wel. Zie je morgen. Dank voorzitter en dank ook aan de leden voor hun vragen en inbreng in de eerste termijn en amendementen. Ik begin met een korte inleiding.
+
+[01:32:13]
+Dan heb ik blokjes voor arbeidsuitbuitingen, ernstige benadeling in aanvulling op wat de minister van SZW al heeft verteld. Eh, een blok opsporing, een blok eh mensenhandel, dan meer de juridische zijde daarvan eh en dan eindig ik met slachtoffers en aan het einde van mijn termijn zal ik ook de amendementen eh appreciëren zoals ze nu u zijn ingediend. Ehm, we bespreken vandaag een actueel onderwerp. In 2023 werden 863 mensen slachtoffer van mensenhandel.
+
+[01:32:42]
+Zo blijkt uit de monitor mensenhandel van de Nationale Rapporteur Mensenhandel. En dat zijn alleen de geregistreerde slachtoffers. Het zijn er naar verwachting nog veel meer. Mensenhandel vormt een grote schending van mensenrechten. Van het recht op lichamelijke integriteit. Het recht op persoonlijke vrijheid en het recht op menselijke waardigheid. En stactoffers van mensenhandel verkeren vaak in een afhankelijkheidssituatie van kwetsbare positie waarvan op grove wijze misbruik wordt gemaakt.
+
+[01:33:10]
+Het kan gaan over minderjarigen die gedwongen wordt om zich te prostitueren en waaraan anderen dan grof geld verdienen. Maar het kan ook gaan om een basisschoolleerling die onder druk wordt gezet om drugspakketjes rond te brengen. Of een arbeidsmigrant die gedurende lange tijd onder slechte omstandigheden moet werken voor veel te weinig loon. En al deze vormen van uitbuiting zijn onrechtvaardig. betaald. Ze vragen om een effectief strafrechtelijk instrumentarium dat daders stopt en bestraft en tegelijkertijd slachtoffers beschermt.
+
+[01:33:41]
+En het huidige strafrechtelijke normen kader is hiertoe op onder de reden ontoereikend gebleken. Met name waar het gaat om ernstige misstanden in de arbeidssfeer. De rechtspraktijk, waaronder de Nederlandse Arbeidsinspectie en het Openbaar Ministerie, geven aan dat zij het huidige strafrechtelijke instrumentarium als onvoldoende ervaren om de huidige misstanden effectief aan te pakken.
+
+[01:34:04]
+En ook in het rapport van de Algemene Rekenkamer, genaamd Daders Vrijuit: Slachtoffers niet geholpen uit 2021, is geconcludeerd dat de huidige instrumenten om arbeidsuitbuiting een ernstige benadering aan te pakken niet effectief zijn. En één van de belangrijkste doelstellingen van dit wetsvoorstel is dan ook om die strafrechtelijke bescherming tegen arbeidsuitbuiting te verruimen.
+
+[01:34:27]
+En daartoe wordt in de eerste plaats en ik kom daar zo nog uitgebreider op terug, ernstige benadering als nieuw delict geïntroduceerd, waarmee ruimere mogelijkheden ontstaan om strafrechtelijk op te kunnen treden tegen ernstige misstanden in de arbeidssfeer. En in de tweede plaats voor de strafbaarstelling, die ziet op het trekken van voor uit mensenhandel verruimt en verbreed, zodat profiteurs van mensenhandel of ernstige benadeling van een persoon effectiever kunnen worden vervolgd en bestraft.
+
+[01:34:55]
+Daarnaast is de afgelopen jaren in toenemende mate gebleken dat de huidige mensenhandelbepaling op verschillende andere terreinen tekortschiet. Het is een langwets artikel met veel overlap en gebrek aan samenhang tussen de verschillende onderdelen, waardoor de bepaling in de praktijk als ontoegankelijk wordt ervaren. Ook omdat niet alle voorwaarden voor strafrechtelijke aansprakelijkheid in de wet staan. En uit het oogpunt van rechtszekerheid is dat onwenselijk.
+
+[01:35:22]
+Daarom wordt de wettelijke regeling hiermee toegankelijker gemaakt. Er wordt meer samenhang gebracht in het geheel van strafbare gedragingen. Alle voorwaarden van strafbaarheid worden in de wet neergelegd en juridische kwalificaties en strafmaxima worden beter aangesloten op het specifieke karakter van de gedragingen waaraan deze zijn verbonden.
+
+[01:35:42]
+En om deze redenen en op deze manieren wil ik met dit wetsvoorstel de wettelijke regeling van mensenhandel moderniseren en verruimen zodat de vervolging van daders en de bescherming van slachtoffers wordt verbeterd. En dat brengt mij aan het einde van mijn inleiding en naar het eerste blokje. Arbeidsuitbuiting en ernstige benadeling. Ik loop ze allemaal af, want er zijn verschillende vragen door eh velen van u gesteld in verschillende vormen, dus ik eh eh eh als u niet direct uw eigen vraag herkent, dan komt hij waarschijnlijk nog, want het luistert allemaal nauw en het zit hem in de nuances.
+
+[01:36:11]
+Ehm, maar die Heer Verkuilen eh van Nispen en mevrouw Wijdenas eh hebben onder andere gevraagd of we nog een keer kunnen reflecteren of ik kan reflecteren op het onderscheid tussen ernstige benadeling en mensenhandel in de vorm van arbeidsuitbuiting. En de minister van SZW heeft daar al het een en ander over verteld, maar ik ga daar graag nog wat uitgebreider vloeien op in. Bij uitbuiting of benadeling zal het vaak gaan om een combinatie van financieel nadeel en andersoortig nadeel.
+
+[01:36:39]
+En daarbij kunt u denken aan lange werkweken, zeer lage betalingen om een slechte werkomstandigheden Eh huisvestingsomstandigheden, een opgelegde vrijheidsbeperkingen kunnen relevant zijn als deze onderdeel zijn van de arbeidsrelatie. En daarvoor gaf de minister van SZW net een voorbeeld. Voor de beoordeling of er sprake is van mensenhandel in de vorm van arbeidsuitbuiting of ernstige benadeling is de mate van disproportionaaliteit van belang.
+
+[01:37:04]
+En in de memoi van toelichting daar werd al aan gerefereerd, zijn daar vuistregels geformuleerd die in de rechtspraktijk houvast zullen geven bij welke mate van financiële benadeling mensenhandel of grenzen benadering ofwel bestuursrechtelijke handhaving in beeld komt. En het werd al genoemd, heel kort gezegd, als het gaat om het financiële voordeel, maar nogmaals dat is niet het enige criterium.
+
+[01:37:25]
+Dan geldt bij een onderbetaling van 2/3 of meer gedurende minimaal twee maanden eh eh als indicatie voor het van toepassing zijn van arbeidsuitbuiting. Eh hebben we het over een onderbetaling tussen een derde en 2/3 eh gedurende minimaal twee maanden, dan is dat de vuistregel voor het van toepassing zijn van van ernstige benadeling.
+
+[01:37:46]
+En bij geringere onderbetaling, dus onder het 1/3 en van belang zonder bijkomend andersoortig nadeel vallen buiten eh eh vallen deze buiten het bereik van eh eh ernstige benadeling. Eh en dan kan bij overtreding van de arbeidswetten bestuursrechtelijk worden gehandhaafd. Omdat daders doorgaans via onderbetaling financieel voordeel willen behalen, verwacht ik dat de vuistregels in veel gevallen ook daadwerkelijk zullen worden toegepast. En daarmee voor de praktijk een richtinggevende de functie zullen hebben.
+
+[01:38:16]
+Maar in aanvulling op deze vuistregels bevatten de parlementaire stukken ook diverse concrete voorbeelden van situaties waarin sprake is van een combinatie van financieel en ander soortig nadeel, waarbij steeds is aangegeven of arbeidsuitbuiting ofwel ernstige benadeling daarbij al dan niet in beeld komt.
+
+[01:38:36]
+Dus in antwoord op een aantal van uw vraag: Er is zoveel mogelijk geconcretiseerd bij welke mate van disproportionaiteit over het algemeen sprake is van ofwel arbeids uitbuiting of wel ernstige benadeling. Het OM had er ook nadrukkelijk om gevraagd in het consultatieadvies en bij het ronde tafel gesprek hebben uiteindelijk het OM, de politie en al eerder genoemd de Nederlandse Arbeidsinspectie aangeven dat deze vuistregels en de voorbeelden voldoende aanknopingspunten bieden voor de restpraktijk.
+
+[01:39:04]
+En dat sterkt mij en ook de minister van SZW in het vertrouwen dat in de praktijk op een goede manier toepassing kan worden gegeven aan zowel arbeidsuitbuiting, maar ook de ernstige benadering zoals hij hier wordt geïntroduceerd. In En daarmee heb ik deze vraag ook beantwoord. Zo gaan we er iets sneller doorheen dan Dat ik alles moet eh oplezen.
+
+[01:39:31]
+De heer Krul vroeg eh of het strafmaximum van 6 jaar gevangenisstraf voor ernstige benadeling wenselijk is, gelet op het strafmaximum van 12 jaar gevangenisstraf, dat is gesteld op eh eh arbeidsuitbuiting. Ik ben het ben hem eens dat ernstige benadeling wel degelijk een ernstig misdrijf is. Eh en dit misdrijf kan een vangnet vormen voor situaties die juist net iets minder zwaar zijn dan situaties van arbeidsuitbuiting.
+
+[01:39:57]
+Eh ik Ik ben al ingegaan op het verschil tussen beide misdrijven en ik denk dat daarmee eh ook deels een verklaring wordt gegeven voor het verschil dat eh er bestaat in de strafmaximum tussen beide delicten. Er is sprake van eh een oploper van eh eh eh eh proportionaliteit. Eh we geven met de zes jaar wel degelijk een signaal af over de ernst van het desbetreffende misdrijf en de ernst in verhouding tot de andere misdrijven. Eh en hierbij wordt aangesloten bij het strafmaximum dat oorspronkelijk gold voor mensenhandel.
+
+[01:40:27]
+En deze strafbedreiging biedt de rechter na ons oordeel voldoende armslag eh om in een concrete geval met daar afweging van alle relevante feiten en omstandigheden een passende straf op te leggen. Mevrouw Tsjakaj die vroeg niet zozeer om het onderscheid tussen eh eh eh ernstige benadeling en eh eh arbeidsuitbuiting, maar juist de andere kant op naar beneden. Wanneer staat het bestuursrecht van toepassing? Eh ik noemde net al eh eh de vuistregel die daar in financiële zin voor geldt.
+
+[01:40:56]
+Eh dus dat bij een onderbetaald lager dan 1/3. Eh, in de regel geen sprake zal zijn. Zeker niet als er geen andere nadelen aan eh zijn verbonden dan financiële eh eh geen sprake zal zijn van ernstige benadeling en dan kom je dus terecht in het bestuursrecht en alle eh maatregelen die daar eh eh eh daar binnenvallen. En ja, wat zijn dat dan? Dat kan zijn binnen de wet minimumloon en eh minimumvacantiebijslag, de arbeidstijdenwet, de arbeidsomstandighedenwet werd al even genoemd door de minister van de eh SZW.
+
+[01:41:26]
+Eh, en de wet Arbeidsvreemdeling dingen daar waar het gaat om onvergunde eh arbeiders. Dus de overtreding van deze voorschriften kan op verschillende wijze worden gehandhaafd. Eh bijvoorbeeld eh het opleggen van een eis tot naleving, een bestuurlijke boete of via het stilleggen van de werkzaamheden als er sprake is van ernstig gevaar of residuen. Ehm de heer Krul vroeg nog: Hoe zit dat dan als mensen uit andere landen komen waar de lonen veel lager liggen dan in Nederland? Eh en in hoeverre is er dan sprake van eh eh arbeidsuitbuiting?
+
+[01:41:55]
+Hele begrijpelijke vraag, maar ik kan ook heel kort zeggen zijn in eh de beantwoording. Bij de beoordeling of er sprake is van arbeidsuitbuiting zijn de in de Nederlandse samenleving geldende maatstaven maatgevend. En dit is ook de bestendige eh jurisprudentie, dus het is daarbij ook irrelevant of het slachtoffer wel of niet heeft ingestemd eh met het naar Nederlandse maatstaven te lage loon.
+
+[01:42:16]
+Eh en dat maakt dus ook niet uit of het slachtoffer wel eh doorhad dat hij of zij werd eh werd uitgebuit en dat is ook geëxpliciteerd in het 7e lid van artikel 273 F. Interruptie van mevrouw Tsakai. Ja, eh dank u wel voorzitter. Meer een verhelderende vraag, want eh de minister heeft het over eh de financiële vuistregel, maar zijn er nog andere eh vuistregels eh bij andere vormen van arbeidsmisstanden die niet zozeer financieel zijn?
+
+[01:42:45]
+Minister. Zeker. Daar zijn er ook een aantal van in de memorie van toelichting opgenomen die eh eh aangeven wat bijvoorbeeld het verschil is tussen eh eh de de de de eh eh arbeidsuitbuiting en ertsge benadeling. Eh ja, daarbinnen wordt ook gezegd dat als er alleen maar sprake is van financieel nadeel eh minder dan een derde eh ja, dan val je dus onder die laag en kom je in bestuursrecht te pas.
+
+[01:43:13]
+Maar het kan wel degelijk zijn dat ondanks dat de onderbetaling wellicht niet meevalt, maar andere omstandigheden, dus of wel de huisvestingsomstandigheden of het feit dat mensen geen beschikking hebben over het geld eh eh dat aan ze wordt betaald. Eh het voorbeeld van de bank eh zoals het werd net genoemd. Dan kan het nog steeds zijn dat ondanks dat die financiële vuistregel niet wordt gehaald, dat er toch sprake is van ernstige benadeling en dan schuift het dus weer van het bestuursrecht naar het strafrecht.
+
+[01:43:41]
+Dan eh kom ik op eh de vraag van de heer van Nispen eh ehm die niet alleen hij heeft gesteld, maar ook anderen, maar die gaat over waarom is er nou gekozen voor ernstige benadeling eh en niet voor een aparte strafbaarstelling van uitbuiting. En ik ik vul daarbij aan op wat de minister van SZW al heeft verteld namens de de Nederlandse Arbeidsinspectie eh voornamelijk. Eh maar ik zal daar ook theoretische argumentatie voor eh voor geven zoals wij die hebben gewogen bij het opstellen.
+
+[01:44:09]
+Ehm Het korte antwoord is hierbij eh voorzitter eh omdat de strafrechtelijke aansprakelijkheid met een uitbuiting delict niet of nauwelijks zou worden verruimd. Eh op een onderdeel wordt hij zelfs beperkt en dat ga ik u zo eh toelichten. Het centrale strafrechtelijke verwijt bij mensenhandel is namelijk de beoogde of de daadwerkelijke uitbuiting van een persoon. En dat komt tot uitdrukking in het vereiste oogmerk van uitbuiting. Hij noemde dat zelf ook al in een interruptie.
+
+[01:44:38]
+En in de praktijk wordt de drempel hiervoor bij arbeidsuitbuiting lang niet altijd gehaald. Dat is het dilemma waar de minister van SZW bij stilstaat. Als je een aparte strafbaarstelling voor uitbuiting zou eh eh eh invoeren, dan zou je moeten worden bewijzen dat iemand daadwerkelijk is uitgebuit. Want je maakt immers uitbuiting strafbaar.
+
+[01:45:00]
+Dus je gaat van ehm het oogmerk wat al strafbaar kan zijn eh in het kader van mensenhandel, ga je nu naar daadwerkelijk moeten bewijzen eh dat er sprake is van uitbuiting. Eh en eh eh de beoogde uitbuiting of of het oogmerk zou dan niet meer voldoende zijn. Dus een aparte strafbaarstelling van uitbuiting eh voorziet naar onze mening dus niet in de gewenste verruiming van de strafrechtelijke rechtelijke bescherming.
+
+[01:45:26]
+Eh maar in een zeker opzicht kan het zelfs leiden tot een beperkter bereik eh dan mensenhandel waarbij het oogmerk alleen al van de uitbuiting eh voldoende is. Interruptie van heer Van Nispen. Ja, dank voorzitter. En eh eh vooropgesteld, dat is natuurlijk ook niet de bedoeling van ons abonnement, maar volgens mij is het ook niet zo klinkt misschien wat al te pretentieus, maar ik ik ik ik bedoel het serieus. Het is zeker niet de bedoeling. We proberen juist een ruime vangnet te maken. We komen daar nog uitgebreider op terug, maar specifiek op dit punt.
+
+[01:45:54]
+Hoe zit het dan met bijvoorbeeld de poging tot uitbuiting? Dat zou ook ehm binnen ons abonnement, zoals wij dat nu gemaakt hebben, 18,45 strafrecht, dus de poging tot dan hoeft niet dat oogmerk bewezen te worden. Kan teruggevallen worden op de poging, zodat die uitbuiting zich niet eh verwezenlijkt hoeft te hebben. De minister. Ehm.
+
+[01:46:20]
+Daarover vraagt u me. Eh, daar kom ik op terug in de tweede termijn. Ik wil dit wel secuur doen. Ja, voor eerst kort verduidelijken Oké. Dank u wel. Dank u wel, voorzitter. Heel heel kort. Eh, dat dat waardeer ik. Dit dit luistert ook heel nauw. Dit moet ook heel zorgvuldig. Maar probeer echt goed te benadrukken mede namens de mede-indieners dat dat eh en ik hoop dat de minister dat ook van ons aanmeld neemt. We proberen nou juist eh dat ruimere vangnet eh te eh te bieden. Dus we pogen op geen enkele manier eh het te beperken.
+
+[01:46:49]
+Dus ik waardeer het dat de minister dat ook zo serieus neemt en gaat bekijken. Ja, ik ik neem dat mee. Ik krijg al al al flarden van assistentie natuurlijk, maar die ga ik u onthouden. Eh want daarmee doe ik uw eh interruptie geen recht. Eh eh er is wel degelijk ook gekeken naar het amendement eh met het oogmerk dat hij ermee heeft.
+
+[01:47:09]
+Eh eh alleen betoogd wordt door ons dat juiste ernstige benadering eh eh omvat datgene wat u wilt bereiken met uitbuiting en meer eh en dat er een risico bestaat dat je juist de lat hoger legt eh eh als je uitbuiting als zodanig eh eh zou opnemen in plaats van ernstige benadering. Maar ik zal dat in tweede termijn eh aangaande de poging nog eh nog verder toelichten.
+
+[01:47:41]
+Eh de heer Diederik van Dijk vroeg nog eh de heer Emiel van Dijk die vroeg nog waarom het noodzakelijk is om het delict ernstige benadering te introduceren. Ik denk dat ik daarmee eh in combinatie met wat de minister van SZW heeft gezegd eh invulling aan heb gegeven.
+
+[01:47:54]
+Kortweg komt het erop neer dat er tussen de bestuursrechtelijke eh eh eh mogelijkheden en het bewijzen van arbeidsuitbuiting eigenlijk een leemte was, waarbij vaak eh de drempel niet kon worden gehaald en er dus niet strafrechtelijk kon worden bestraft, terwijl dat wel wenselijk bij Dat is de reden geweest voor het introduceren van het nieuwe eh begrip. Ehm dan kom ik bij het blokje opsporing.
+
+[01:48:23]
+En eh dat begon met een eh eh vrij feitelijke vraag van de heer Diederik van Dijk eh of het wetsvoorstel nog steeds in 2026 in werking kan treden. Korte antwoord is eh ja. Eh eh de ketenorganisaties die achten dat haalbaar. Eh maar eh dat hebben u en ik eh en u collega's in de Eerste Kamer natuurlijk ook in de hand. Eh dus het hangt wel af van hoe spoedig we de behandeling en eh en de stemmingen in eh eh beide kamers kunnen kunnen doorlopen.
+
+[01:48:51]
+Ehm de vraag was ook eh welke intensiveringen worden doorgevoerd eh bij bijvoorbeeld politie, OM en de rechtspraak om voldoende toegerust te zijn om deze verscherping eh aan te kunnen. Eh er zijn middelen vrijgemaakt voor de verschillende uitvoering organisaties, zo'n €10 miljoen structureel. Eh en de ketenorganisaties en werd al verteld voor de Arbeidsinspectie die zijn al bezig met de tref van voorbereidingen op de inwerking training van deze wet.
+
+[01:49:13]
+Dus het gaat inderdaad om het werk van mensen eh zowel bij de NLA maar ook bij het OM eh en daar is men mee bezig. En na de en werking trading gaan we natuurlijk de effecten voor alle ketenpartners blijven monitoren en zo nodig eh bijsturen. Ehm, dan kom ik op eh de toepassing van het non eh punishment beginsel. En een aantal van nu hebben daar eh vragen over gesteld en ik kom er natuurlijk in de appreciatie van amendementen eh ook nog op terug.
+
+[01:49:40]
+Ehm, zowel volgens het OM eh eh eh als politie als de rechtspraak eh voorziet het Nederlandse rechtssysteem al in eh het faciliteren van van het beginsel van ons punishment. En ik noem dat een beginsel omdat het een beginsel is. Het is geen vereiste om dat wettelijk te verankeren. Er moet voldaan worden aan een invulling van het beginsel.
+
+[01:50:04]
+En bij ons geldt dat eh eh eh in algemene zin ehm eh dat eh de officier van justitie, maar ook een rechter eh bij weging van alle feiten en omstandigheden eh ook kan meenemen dat eh de verdachte die ook slachtoffer is van mensenhandel deze strafbare feiten mogelijk onder dwang heeft gepleegd. Dat kan leiden tot het staken van het opsporingsonderzoek. Het kan leiden tot het seponeren van de zaak.
+
+[01:50:33]
+En als het onderzoek van het eh naar het strafbare feit wordt gestaakt, vindt ook geen registratie plaats in de systemen van eh het OM.
+
+[01:50:42]
+Ehm als de verdachte wel wordt gedagvaard, bijvoorbeeld eh bij een ernstig strafbaar feit, dan kan de officier van justitie bij de rechter vorderen dat de strafuitsluiting is grond zoals psychische overmacht, zoals we die kennen in ons rechtssysteem wordt toegepast en vorderen dat de rechter weliswaar de verdachte schuldig verklaart maar geen oplegging van straf eh eh of eh strafvermindering eh vordert daarbij. Eh en als in de strafzaak van de officier of in het vonnis van de rechter rekening wordt gehaald met dwang, dan wordt het niet geregistreerd.
+
+[01:51:10]
+Dus in de algemene zin wordt er gezegd dat er weinig gebruik wordt gemaakt van het non-punishment beginsel. Ja, dat herkennen eh de keten organisaties niet. Eh alleen het wordt niet eenduidig geregistreerd. Het hangt af van elke zaak aan zich en het kan dus ook zijn dat een zaak op verschillende momenten in die strafrechtketen eh eh wordt afgedaan of op een andere manier wordt afgedaan, juist vanwege het non-punishment beginsel. Dus eh het beeld dat daar geen gebruik van zou worden gemaakt eh dat wordt bestreden.
+
+[01:51:38]
+Ik moet wel daarbij zeggen dat als u zou vragen eh en ik wil geen moties uitlokken eh eh maar maar toch eh als u zou vragen van kan er in het kader van de invoering van deze wet meer aandacht worden besteed bij de opleiding van zowel opsporing instanties eh als het OM eh als de eh rechtspraak om eh hier aandacht voor te vragen om zeker te weten dat dat Montange beginsel nou juist iets is wat hier een een rol heeft dan eh zou ik daar wel willen tegenover kunnen staan.
+
+[01:52:12]
+Maar dit is een puur hypothetische situatie.
+
+[01:52:22]
+Ehm, de vraag van een vraag van mevrouw Wijnas was: "Welke straffen leggen rechters nu op?" Eh, kennen ook kan ook iets over de verwachting van de opgelegde straffen na de inwerkingstraining worden gezegd. Eh, de National Rapporteur Mensenhandel heeft in december vorig jaar een monitor mensenhandel gepubliceerd. Eh, en daarin is het aantal straffen over de periode van 2019 tot 2023 geanalyseerd.
+
+[01:52:50]
+Eh, en wordt ook nader ingegaan op de opgelegde straffen en de bijkomende straffen. Eh naar dat rapport zou ik u graag willen verwijzen voor een uitgebreide analyse. Eh en het is moeilijk voor mij om te zeggen wat het effect zou zijn van de inwerkingtreding van deze wet eh op eh op die analyse. Dat zou echt na de inwerkingtreding eh moeten werken. Eh een heel ander onderwerp: klanten van mensenhandel. Mevrouw TSG eh vroeg daar en vroeg: "Wat gaat het kabinet doen om klanten van mensenhandel aan te pakken?
+
+[01:53:17]
+Eh gaat er meer aandacht naar de vervolging van de klanten en of ik daarover in overleg wil treden met het openbare ministerie?" ministerie. Eh, enkele van de acties uit het actieplan richten zich op het vergroten van de aanpak van klanten. Eh, onder andere wordt er ingezet op het verkrijgen van media aandacht waarin wordt uitgelegd dat en waarom een eh klant daar door wordt vervolgd. En daarnaast moet de klant zich natuurlijk bewust zijn van wat mensenhandel is. Ze moeten kunnen signaleren en ze moeten ook een handelingsperspectief hebben. Eh, er is al een aantal succesvolle zaken geweest waarin ook media aandacht is gegenereerd.
+
+[01:53:47]
+En daarnaast organiseert de OM en de politie jaarlijks één landelijke actiedag in het kader van de aanpak van klant. En die actiedagen zijn erop gericht om preventief te handelen door mogelijke klanten of klanten indien bekend te waarschuwen dat ze strafbaar zijn met wat ze doen. En als een actiedag voldoende opsporingsindicaties oplevert dan wordt die ook ingezet op strafrechtelijke vervolging en de eerste van dit soort actiedagen heeft eind 2024 plaatsgevonden.
+
+[01:54:16]
+Ehm de heer Zeder die vroeg hoe leest de minister de conclusies van de nationaal rapporteur waarin wordt aangekaart dat er opsporing tekort schiet. Ik ben bekend met het rapport uiteraard. Dat is ook aan mij aangeboden en ik ben het er ook mee eens dat opsporing instanties een hele belangrijke rol spelen in het bestrijden van mensenhandel en dat van slachtoffers. Ehm, ik ben het niet helemaal eens met de nationale rapporteur dat eh met de korte conclusie dat de opsporing tekortschiet.
+
+[01:54:44]
+Eh, maar er worden wel verbeterpunten in het signaleringsproces aangedragen door de nationale rapporteur en daar zal ik wel serieus op ingaan in mijn beleidsreactie op dat rapport eh wat ik hoop nog voor het zomerreces met uw kamer te kunnen delen. Dus daar zal ik een nadere ingaan. Interruptie van mevrouw Tsikai. Eh, ja, ik wilde nog even terug naar de eh klanten die ik inderdaad in mijn een eh inbreng aangehaald heb.
+
+[01:55:07]
+Ehm, want de minister noemt op zich eh allerlei eh sympathieke maatregelen, maar die zitten meer in de communicatie en voorlichting en preventie. Maar waar waar ik eigenlijk naar op zoek ben is eh welke maatregelen gaat de minister nemen als het gaat om strafvervolging van klanten? Nee, voorzitter, het gebeurt al. Eh, ik noemde het al als één van eh eh de punten. Er zijn ook zaken geweest waarbij klanten zijn vervolgd, waarbij de media-aandacht is gegenereerd.
+
+[01:55:35]
+en hopelijk gaat daar ook weer een afschrikwekkende werking vanuit dat eh ook eh klanten eh kunnen en zullen worden aangepakt. Ik noemde het als één van de mogelijke opvolgingen van eh de actiedagen eh die worden georganiseerd. Dus als daar opsporinginformatie uit voortkomt die daar aanleiding voor geeft, dan zal het tot vervolging worden aangeeh eh eh gaan. Ehm dus de mogelijkheden zijn er. Eh het wordt gedaan. Eh eh we proberen de aandacht erop te vestigen en in het kader van het actieplan eh komen we daar ook over te spreken.
+
+[01:56:04]
+Ook ook in het volgende debat wat we daarover zullen hebben eh in het kader van eh mensenhandel en eh en prostitutie. Ik heb het idee dat het niet eh zit in de mogelijkheden die ik als eh medewetgever met u kan schetsen. Eh ehm het is een kwestie van doen en daar is het actieplan denk ik de aanjager van. Korte vervolgvraag mevrouw Ja, voorzitter, ik vind het op zich fijn dat de minister zegt dat hij eh geen probleem
