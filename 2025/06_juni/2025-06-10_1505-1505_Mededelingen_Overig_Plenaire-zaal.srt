@@ -1,0 +1,14 @@
+1
+06:12:17,120 --> 06:12:17,320
+Ik heropen de vergadering.
+
+2
+06:12:17,500 --> 06:12:20,100
+Ik deel aan de Kamer mee dat
+er geen afmeldingen zijn.
+
+3
+06:12:20,140 --> 06:12:23,480
+Deze mededeling wordt voor
+kennisgeving aangenomen.
+
