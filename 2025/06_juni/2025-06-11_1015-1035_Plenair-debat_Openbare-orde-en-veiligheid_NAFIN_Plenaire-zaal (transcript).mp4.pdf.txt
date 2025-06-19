@@ -1,0 +1,98 @@
+[00:00]
+natuurlijk aan de staatssecretaris van Defensie. Eh we hebben vier sprekers die zich hebben aangemeld en de eerste spreker is mevrouw Katman van GroenLinks PVDA.
+
+[00:16]
+Voorzitter, twee moties. De Kamer gehoord de beraadslaging constaterende dat het ministerie van Defensie beschikt over ruime kennis en ervaring op het gebied van digitale infrastructuur, maar niet structureel wordt betrokken bij besluitvorming over de digitale soevereiniteit van Nederland. Overwegende dat zaken zoals het aanleggen van intercontinentale zeekabels, het verkleinen van strategische digitale afhankelijkheden en het bouwen van een AI faciliteit direct bijdragen aan de nationale veiligheid.
+
+[00:41]
+Verzoekt de regering om het ministerie van Defensie structureel te betrekken bij de digitaliseringsopgave van de rijksoverheid, waaronder besluitvorming ter bevordering van de digitale soevereiniteit en cyber security en gaat over tot orde van de dag mede ondertekend door het lid Noordkamp. De kamer hoort de beraadslaging constaterende dat het het Ministerie van Defensie per uitzondering zaken single source kan aanbesteden, waardoor projecten van nationaal belang met vertrouwde partijen kunnen worden uitgevoerd.
+
+[01:08]
+Overwegende dat digitale infrastructuur de nationale veiligheid en weerbaarheid vergroot, waarin het huidige aanbestedingsbeleid te vaak de keuze valt bij niet-Europese bedrijven. Van mening dat dit schadelijk is voor onze digitale soevereiniteit. Verzoekt de regering om waar nodig gebruik te maken van uitzondering in aanbestedingsregelgeving om projecten rond IT-infrastructuur single source aan te besteden met als doel om de digitale soevereiniteit te bevorderen. En gaat over tot orde van de dag mede ondertekend door het lid Noordkamp.
+
+[01:36]
+En ik wil eh de staatssecretaris graag bedanken voor het debat. Het is heel fijn dat we naar aanleiding van eh NAVI breder konden spreken over de digitale infrastructuur van Nederland, maar vooral over de veiligheid daarvan. En eh daar horen deze twee eh moties bij. Dank u wel. En degene die zich afvragen waar NAVI voor staat, dat is Netherlands Armed Forces Integrated Network. In goed Nederlands is het eigenlijk niet, hè? Ja, en dan is het voor de mevrouw Heite van eh het nieuw sociaal contract.
+
+[02:10]
+Ja, dank u wel voorzitter. En ook eh vanuit mij een hartelijk dank aan de staatssecretaris voor het debat. Eh ik heb twee moties. De kamer gehoord de beraadslaging overwegende dat in tijden van veelvuldige sabotage op vitale infrastructuur op land en op zee het noodzakelijk is om de digitale defensie-infrastructuur weerbaarheid te maken tegen cyberrisico. Overwegende dat als het netwerk uitvalt de maatschappelijke gevolgen groot zijn.
+
+[02:34]
+constaterende dat het NAVI netwerk niet volledig military owned is waardoor Defensie afwijkt van de gestelde randvoorwaarden. constateren dat Defensie momenteel onderzoek doet naar de toekomst van het NAVI netwerk.
+
+[02:45]
+Verzoekt de regering om in dat onderzoek mee te nemen wat en op welke wijze Defensie cyclisch kan rapporteren aan de Tweede Kamer over de veiligheid van het NAVI netwerk en verzoekt de regering om te onderzoeken hoe kan worden voldaan aan de randvoorwaarden dat Defensie in elke situatie zelfde regie moet hebben over NAVIN en daarbij te bepalen welke bescherming mensen en middelen nodig zijn zodat NAVIN voldoet aan de veiligheidseisen van een vitaal netwerk en gaat over tot de orde van de dag samen ingediend met Katman.
+
+[03:13]
+De Kamer gehoord beraadslaging constaterende dat er op dit moment onvoldoende capaciteit is op het gebied van IT en cyberspecialisten om de regie van het NAVIN netwerk volledig bij Defensie te brengen. constaterende dat Defensie hierdoor geen volledige controle heeft over het netwerk waardoor sabotage risico's niet zijn uitgesloten. Overwegende dat opschaling van de IT's capaciteit noodzakelijk is voor het bevorderen van een veilig en goed werkend netwerk.
+
+[03:39]
+Overwegende dat Defensie al bezig is met de versterking van het aantal cyber reservisten binnen het cyber eh Defensie Cyber Commando conform de aangenomen motie van omzicht van 5 maart jongstleden, verzoekt de regering om binnen de personeelsstrategie van Defensie zo snel mogelijk met de strategisch plan te komen over de opschaling van IT en cyber specialisten en reservisten ten behoeve van Nafin en haar gehele organisatie. Hij gaat over tot de orde van de dag samen met Katman en Elian. Dank u wel. Dank u wel.
+
+[04:08]
+En dan is het woord aan de heer Elian van de VVD.
+
+[04:19]
+Eh dank u wel, voorzitter. Eh ik sta namens de VVD onder een motie van collega Heite. Ik zie ook dat er andere interessante moties zijn ingediend. Ik wil de staatssecretaris bedanken voor het prettige debat dat wij eh gehad hebben. Wat ik er prettig aan vond is dat we op een rustige manier met elkaar konden bespreken hoe veel kwetsbaarheden het NAVI netwerk kent, maar ook wat wordt eraan gedaan. Ik was wat kritisch tijdens het debat voorzitter op eh nou de kwestie van onderaannemers en dat daar ook verantwoordelijkheden liggen.
+
+[04:48]
+Ik ben daar wat dieper ingedoken. Ook contact gehad. Ik moet zeggen eh ik begrijp de woorden van de staatssecretaris voorzitter dat ehm iedereen die betrokken is bij NAVI ook echt eh zich maximaal in het spap om het netwerk veilig te houden. Ik vond het goed om dat hier eh te melden. Wel heb ik nog twee vragen, voorzitter.
+
+[05:06]
+Ehm, volgens mij zit dat ook in de moties van de andere collega's, maar maak maakt het voor de staatssecretaris verschil of dit netwerk, dus het NAVI netwerk, zeg maar, als vitaal wordt gekwalificeerd, zeg maar, verandert dat dan iets in ehm hoe de staatssecretaris en hoe defensie dan tegen het netwerk aankijkt?
+
+[05:27]
+Maar een andere vraag, voorzitter, die voor mijn fractie wat belangrijker is, mij is gebleken dat op het NAVI netwerk eh eigenlijk heel veel gebruikers zijn aangesloten, om het zo te zeggen. En je kunt je afvragen: Is dat helemaal de bedoeling van van dit netwerk? En met name dan heb ik het met name, voorzitter, over de civiele eh gebruikers.
+
+[05:46]
+En wat ik de staatssecretaris zou willen vragen, voorzitter, is het niet te moeite waard om eens te onderzoeken, te bekijken en dat heb ik niet in de motie gegoten, want ik vind ook dat we moeten proberen dat een beetje eh eh te matigen. Is het een idee om te kijken of je het netwerk splitst in een civiel deel en een militair deel, omdat de enorme hoeveelheid partijen die nu gebruik maken, dat is eigenlijk teveel en je kunt je afvragen of dat ook allemaal nog te maken heeft met het hoofd beveiligde status van het netwerk. Dank u wel. Dank u wel.
+
+[06:15]
+Dan is het woord aan de heer Paul van de PVV.
+
+[06:26]
+Ja, voorzitter, dank u wel. De PVV heeft nog één duidelijke vraag en dat is: waarom is het NAVI nog niet als vitale infrastructuur aangemerkt? Tijdens het debat hebben we uitgehaald naar het getreuzel van deze staatssecretaris. Hij zegt dat hij het gaat onderzoeken. zoeken dat het tot de zomer allemaal mag duren. Dat vinden wij te lang. Onze vraag daarom: is het al gebeurd? En zo nee, waarom niet? Dank u wel, voorzitter. Dank u wel.
+
+[06:52]
+Dan heeft de staatssecretaris aangegeven ongeveer 5 minuten te willen schorsen. Dus ik schors dat even voor 10:30.
+
+[07:12]
+3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 2 9 0 6 3 0 9 0 6 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Oh ja, goed.
+
+[14:06]
+Ik heropen de vergadering en het woord is aan de staatssecretaris van Defensie voor de oordelen over de vier moties en nog drie vragen die wij Ja, dank u wel voorzitter. En die drie vragen die vat ik even samen. Het gaat namelijk over het eh het eh meest veilige netwerk eh wat we in Nederland hebben, dat NAVNET netwerk.
+
+[14:35]
+En ehm dat vitaal verklaren betekent eigenlijk dat het systeem onder de aanpakbescherming vitale infrastructuur valt van de NCTV. En dat betekent ook dat andere ministeries zeggenschap gaan krijgen over ons netwerk. En dat beperkt eigenlijk de autonomie. En we doen eigenlijk zoveel mogelijk in de geest van die aanpak, dus dat vullen we wel degelijk in.
+
+[14:54]
+En ehm de heer Eliane die had nog een vraag over civiel medegebruik van eh van het netwerk en wat we met civiel medegebruik bedoelen dat zijn het eigenlijk alleen andere overheidsinstanties, dus andere ministeries. Er zitten geen eh private gebruikers op. En wel als defensie we stellen hele strikte eisen aan die andere eh eh ministeries waar ze aan moeten voldoen op het gebied van service levels en welke voorwaarden ze daar moeten moeten inregelen.
+
+[15:20]
+En hoe dat ook werkt is dat het militair gebruik eigenlijk zit op de bovenste laag Dat betekent dat het altijd voorrang krijgt. Zowel op capaciteit, maar ook bijvoorbeeld stel nou dat er toch iets gebeurt met het netwerk, dan eh dan gaat het militaire gebruik uiteindelijk altijd voor al die eh anderen en wat we ook hebben is het is dan wel software die eh op basis van software er zitten eigenlijk hekken tussen die verschillende stromen, zodat er goed inzicht in hebben dat het ook makkelijk is om op en af te schalen.
+
+[15:48]
+En dan ook om het vitaal verklaren dan samen te vatten met de vitaal verklaring als als je wat we dus nu aan het onderzoeken zijn, dan levert de fancy een deel van zijn eh autonomie, hè, de beleidsruimte, die lever je dan eigenlijk in door dat toezicht, regie, maar ook in de casus even in het geval van crisis dat van een groot deel extern buiten het ministerie belegd wacht belegd wordt en dan zeker in relatie tot de militaire autonomie. Juist waar eh mevrouw Katman ook op aangaf is het juist eigenlijk niet eh de bedoeling.
+
+[16:18]
+Wat een interruptie van de heer Po. Dank u wel eh voorzitter, want de staatssecretaris zegt dat ze nog steeds nog steeds nog steeds aan het onderzoeken zijn. Wij vragen ons echt af waar blijft dan de urgentie? Het is zo'n belangrijk onderdeel. Het is echt ons eerste wapensysteem. Dit moet gewoon duidelijk zijn. Waarom duurt het nu nog maanden nadat het de wat is geweest om tot de conclusie te komen, vraag ik aan de staatssecretaris. De staatssecretaris.
+
+[16:42]
+Ja, voorzitter, wat ik eh net ook al eh had aangegeven is dat het vitaal verklaren an sich is uiteindelijk een beleidskeuze dat je de verantwoordelijkheid bij het NCTV legt en dat je daar uiteindelijk dan een hele hoop van eh je militaire autonomie juist in verlies, terwijl het netwerk juist gericht is op die militaire autonomie en ik dat ook vanuit de kamer terugkrijg dat men dat belangrijk vindt. Kijk, wat wij wel doen, wij kijken wat uiteindelijk in dat eh dat pakket zit van eh die eh vitale infrastructuur en dat zijn we nu aan het doen.
+
+[17:12]
+Dus in dat onderzoek kijken we stuk voor stuk. Oké, wat hebben we nog niet geregeld? Heel veel van die randvoorwaarden die zitten in dat vitaal verklaren. Dat doen we op dit moment al en daar is waar we goed naar kijken. En eh goed, wat ik wel wil bijzeggen is waar ik ook sterk naar kijk is rapportage druk. Dus ik probeer die rapportage druk en die onderzoeksdruk minimaal te krijgen, want dat is ook eh belangrijk, die deregulering. Dus daarom kijk er wel eh wel strak naar en eh voor eh volgens mij volgens mij net na eh het zomerreces kom ik met het onderzoek naar buiten.
+
+[17:40]
+Kan de heer Poll, een hele kamer, kan ik verzekeren dat op elke dag elke dag elk uur van de dag dat we eh teams klaar hebben staan die eh op de veiligheid eh zitten. En wat ik ook heb aangegeven in het debat is dat wij continu eh nou digitale penetratie testen doen op dat systeem. En waar we eh zaken vinden die eh verbetering nodig hebben, dan gaan we zeker niet wachten. Die zijn eh vaak zijn die software en die hebben we binnen een aantal uur hebben we die gepatcht. Dank u wel. Tot slot de heer Poll op dit punt. Ja, voorzitter, dan wordt het helemaal mooi.
+
+[18:10]
+Want de staatssecretaris had toegezegd dat het voor de zomer klaar zou zijn het onderzoek en nu hoor ik dat het na de zomer komt. Vanwaar die vertraging? De staatssecretaris. Voorzitter, als ik eh voor de zomer heb eh heb eh eerder heb gezegd dan zeg ik het toe dat het voor de zomer rest dan eh dan zal de heer Pol er gelijk in hebben. Gaat u verder met de beantwoording van de vragen of is u daarmee klaar? Dan kunnen we over naar de moties. Ja, voorzitter, dit waren eh de vragen en dan wil ik nu overgaan naar de moties.
+
+[18:35]
+Eh, de eerste motie van eh mevrouw mevrouw eh Katman om defensie structureel eh meer te betrekken bij de digitale digitaliseringsopgave van de Rijksoverheid en ook eh eigenlijk uw hele dictum, daar kan ik mee in mijn lezen en schrijven. Dat is eh precies de lijn die we ook volgen. En dan ook wil aangeven, je had het ook over de Nederlandse eh AI faciliteit. Nou goed, ook eh defensie eh stapt erop in en ik denk dat het een hele mooie stap is ook om daar in eh stappen vooruit te zetten. Dus die krijgt de Orde Kamer.
+
+[19:03]
+De tweede motie van mevrouw Katman over de aanbestedingsregels. Ja, dat klopt. Eh we We redigeren die eh die is sterk. En eh ik kom nog eh voor het eind voor voor het zomerreces met een aanvullende brief waar we nog een verdergaande stap maken op het gebied van eh vereenvoudiging. Dus die krijgt ook Oordelkamer. Eh de ehm derde motie van eh mevrouw Heite die krijgt Oordelkamer en de vierde motie van mevrouw Heite die krijgt ook Oordelkamer. Dank u wel.
+
+[19:31]
+Dan zijn we dan meegekomen aan het einde van dit twee minuten debat. Dank aan de staatssecretaris en dan gaan wij zo over naar het Volgende 2 minuten debat gasmarkt en leveringszekerheid.

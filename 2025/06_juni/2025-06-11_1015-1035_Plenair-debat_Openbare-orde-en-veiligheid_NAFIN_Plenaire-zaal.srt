@@ -1,0 +1,959 @@
+1
+01:47:42,840 --> 01:47:45,400
+Zoals ik al zei zijn er een
+aantal tweeminutendebatten.
+
+2
+01:47:53,240 --> 01:47:58,459
+Het eerste tweeminutendebat gaat over
+het NAFIN. Ik heet de staatssecretaris
+van Defensie natuurlijk welkom.
+
+3
+01:47:58,500 --> 01:48:00,600
+Er hebben zich vier sprekers
+aangemeld. De eerste spreker is
+
+4
+01:48:00,600 --> 01:48:02,699
+mevrouw Kathmann van GroenLinks-PvdA.
+Voorzitter, ik heb twee moties.
+
+5
+01:48:02,780 --> 01:48:04,890
+De Kamer, gehoord de beraadslaging,
+constaterende dat het ministerie van Defensie
+
+6
+01:48:04,890 --> 01:48:07,000
+beschikt over ruime kennis en ervaring op het
+gebied van digitale infrastructuur, maar niet
+structureel wordt betrokken bij besluitvorming...
+
+7
+01:48:07,600 --> 01:48:11,160
+over de digitale soevereiniteit van
+Nederland; overwegende dat zaken zoals het
+aanleggen van intercontinentale zeekabels,
+
+8
+01:48:11,399 --> 01:48:15,900
+het verkleinen van strategische
+digitale afhankelijkheden en
+het bouwen van een AI-faciliteit...
+
+9
+01:48:16,279 --> 01:48:18,300
+direct bijdragen aan de nationale veiligheid;...
+
+10
+01:48:18,819 --> 01:48:22,080
+verzoekt de regering om het ministerie
+van Defensie structureel te betrekken...
+
+11
+01:48:22,400 --> 01:48:24,760
+bij de digitaliseringsopgave
+van de rijksoverheid,
+
+12
+01:48:25,040 --> 01:48:29,459
+waaronder besluitvorming ter bevordering van
+de digitale soevereiniteit en cybersecurity,
+
+13
+01:48:29,559 --> 01:48:30,779
+en gaat over tot de orde van de dag.
+
+14
+01:48:31,180 --> 01:48:32,860
+De Kamer,
+
+15
+01:48:34,419 --> 01:48:35,900
+gehoord de beraadslaging,
+
+16
+01:48:35,959 --> 01:48:40,819
+constaterende dat het ministerie
+van Defensie per uitzondering zaken
+"single-source" kan aanbesteden,
+
+17
+01:48:41,120 --> 01:48:44,760
+waardoor projecten van nationaal belang met
+vertrouwde partijen kunnen worden uitgevoerd;...
+
+18
+01:48:45,340 --> 01:48:49,820
+overwegende dat digitale infrastructuur de
+nationale veiligheid en weerbaarheid vergroot,
+
+19
+01:48:50,139 --> 01:48:54,620
+maar in het huidige aanbestedingsbeleid te
+vaak de keuze valt op niet-Europese bedrijven;...
+
+20
+01:48:55,100 --> 01:48:58,059
+van mening dat dit schadelijk is
+voor onze digitale soevereiniteit;...
+
+21
+01:48:58,540 --> 01:49:03,120
+verzoekt de regering om waar nodig
+gebruik te maken van de uitzondering
+in aanbestedingsregelgeving om...
+
+22
+01:49:03,380 --> 01:49:07,820
+projecten rond IT-infrastructuur single-source
+aan te besteden, met als doel om de...
+
+23
+01:49:07,820 --> 01:49:09,760
+digitale soevereiniteit te bevorderen,
+
+24
+01:49:10,180 --> 01:49:11,400
+en gaat over tot de orde van de dag.
+
+25
+01:49:11,760 --> 01:49:13,680
+Ik...
+
+26
+01:49:13,840 --> 01:49:16,480
+wil staatssecretaris graag
+bedanken voor het debat.
+
+27
+01:49:17,040 --> 01:49:20,320
+Heel fijn dat we naar aanleiding
+van NAFIN breder konden spreken...
+
+28
+01:49:20,719 --> 01:49:22,439
+over de digitale infrastructuur van Nederland,
+
+29
+01:49:22,480 --> 01:49:24,680
+maar vooral over de veiligheid daarvan.
+
+30
+01:49:25,180 --> 01:49:27,180
+Daar horen deze twee moties bij.
+
+31
+01:49:28,139 --> 01:49:30,680
+Dank u wel. Voor degenen die zich
+afvragen waar NAFIN voor staat: het...
+
+32
+01:49:30,719 --> 01:49:31,419
+is "Netherlands Armed
+Forces Integrated Network".
+
+33
+01:49:31,620 --> 01:49:35,419
+Eigenlijk is dat niet in goed Nederlands, hè?
+
+34
+01:49:36,199 --> 01:49:39,199
+Dan is het woord aan mevrouw
+Heite van Nieuw Sociaal Contract.
+
+35
+01:49:47,480 --> 01:49:52,360
+Dank u wel, voorzitter. Ook van
+mijn kant hartelijk dank aan de
+staatssecretaris voor het debat.
+
+36
+01:49:53,240 --> 01:49:55,340
+Ik heb twee moties.
+
+37
+01:49:55,379 --> 01:49:57,300
+De Kamer, gehoord de
+beraadslaging, overwegende dat in...
+
+38
+01:49:57,300 --> 01:49:58,400
+tijden van veelvuldige...
+
+39
+01:49:58,479 --> 01:50:02,039
+sabotage op vitale
+infrastructuur op land en op zee...
+
+40
+01:50:02,319 --> 01:50:06,539
+het noodzakelijk is om de digitale
+defensie-infrastructuur weerbaarder te maken
+tegen cybersecurityrisico's; overwegende...
+
+41
+01:50:06,559 --> 01:50:11,080
+dat als het netwerk uitvalt, de
+maatschappelijke gevolgen groot zijn;...
+
+42
+01:50:11,539 --> 01:50:15,039
+constaterende dat het NAFIN-netwerk
+niet volledig "military owned" is,
+
+43
+01:50:15,479 --> 01:50:17,960
+waardoor Defensie afwijkt van de
+gestelde randvoorwaarde; constaterende...
+
+44
+01:50:18,559 --> 01:50:22,279
+dat Defensie momenteel onderzoek doet
+naar de toekomst van het NAFIN-netwerk;...
+
+45
+01:50:22,640 --> 01:50:26,420
+verzoekt de regering om in dat onderzoek
+mee te nemen wat en op welke wijze...
+
+46
+01:50:26,439 --> 01:50:30,640
+Defensie cyclisch kan rapporteren aan de Tweede
+Kamer over de veiligheid van het NAFIN-netwerk;...
+
+47
+01:50:31,200 --> 01:50:35,499
+verzoekt de regering om te onderzoeken hoe
+kan worden voldaan aan de randvoorwaarde...
+
+48
+01:50:35,520 --> 01:50:39,219
+dat Defensie in elke situatie zelf
+de regie moet hebben over NAFIN en...
+
+49
+01:50:39,559 --> 01:50:42,800
+daarbij te bepalen welke bescherming,
+mensen en middelen nodig zijn zodat NAFIN...
+
+50
+01:50:42,879 --> 01:50:46,180
+voldoet aan de veiligheidseisen
+van een vitaal netwerk,
+
+51
+01:50:46,240 --> 01:50:49,460
+en gaat over tot de orde van de dag.
+
+52
+01:50:50,840 --> 01:50:55,800
+De Kamer, gehoord de beraadslaging,
+constaterende dat er op dit moment
+onvoldoende capaciteit is op het gebied...
+
+53
+01:50:55,840 --> 01:51:00,659
+van IT- en cyberspecialisten om de
+regie van het NAFIN-netwerk volledig
+bij Defensie onder te brengen;...
+
+54
+01:51:01,620 --> 01:51:05,439
+constaterende dat Defensie hierdoor geen
+volledige controle heeft over het netwerk,
+
+55
+01:51:05,860 --> 01:51:08,400
+waardoor sabotagerisico's
+niet zijn uitgesloten;...
+
+56
+01:51:09,240 --> 01:51:14,120
+overwegende dat opschaling van de
+IT-capaciteit noodzakelijk is voor
+het bevorderen van een veilig en...
+
+57
+01:51:14,140 --> 01:51:15,340
+goed werkend netwerk;...
+
+58
+01:51:16,059 --> 01:51:20,039
+overwegende dat Defensie al bezig is met de
+versterking van het aantal cyberreservisten...
+
+59
+01:51:20,340 --> 01:51:24,680
+binnen het Defensie Cyber Commando, conform
+de aangenomen motie van het lid Omtzigt van 5...
+
+60
+01:51:24,939 --> 01:51:26,219
+maart jongstleden;...
+
+61
+01:51:26,599 --> 01:51:31,620
+verzoekt de regering om binnen de
+personeelsstrategie van Defensie zo snel
+mogelijk met een strategisch plan te...
+
+62
+01:51:31,640 --> 01:51:32,860
+komen voor de opschaling van
+IT- en cyberspecialisten en...
+
+63
+01:51:32,900 --> 01:51:33,580
+-reservisten,
+
+64
+01:51:33,900 --> 01:51:39,020
+ten behoeve van NAFIN en
+zijn gehele organisatie,
+
+65
+01:51:39,499 --> 01:51:40,860
+en gaat over tot de orde van de dag.
+
+66
+01:51:41,080 --> 01:51:42,800
+Dank u wel.
+
+67
+01:51:43,740 --> 01:51:45,240
+Dank u wel.
+
+68
+01:51:45,939 --> 01:51:48,740
+Dan is het woord aan de heer Ellian van de VVD.
+
+69
+01:51:56,460 --> 01:52:01,659
+Dank u wel, voorzitter. Ik sta namens de
+VVD onder een motie van collega Heite.
+
+70
+01:52:01,700 --> 01:52:04,200
+Ik zie dat er ook andere
+interessante moties zijn ingediend.
+
+71
+01:52:04,260 --> 01:52:09,080
+Ik wil de staatssecretaris bedanken voor
+het prettige debat dat wij gehad hebben.
+
+72
+01:52:09,140 --> 01:52:12,840
+Wat ik er prettig aan vond, is dat we op een
+rustige manier met elkaar konden bespreken...
+
+73
+01:52:13,679 --> 01:52:16,799
+hoeveel kwetsbaarheden het NAFIN-netwerk kent,
+
+74
+01:52:16,859 --> 01:52:18,359
+maar ook wat eraan wordt gedaan.
+
+75
+01:52:18,960 --> 01:52:23,900
+Tijdens het debat was ik wat kritisch op de
+kwestie van onderaannemers; bij hen liggen ook...
+
+76
+01:52:23,940 --> 01:52:24,979
+verantwoordelijkheden.
+
+77
+01:52:25,380 --> 01:52:27,039
+Ik ben daar wat dieper ingedoken
+en ik heb ook contact gehad.
+
+78
+01:52:27,580 --> 01:52:32,060
+Ik moet zeggen dat ik de woorden
+van de staatssecretaris begrijp.
+
+79
+01:52:32,900 --> 01:52:38,219
+Hij zegt dat iedereen die betrokken is
+bij NAFIN, zich er ook echt maximaal voor
+inspant om het netwerk veilig te houden.
+
+80
+01:52:38,640 --> 01:52:40,440
+Ik vond het goed om dat
+hier te melden. Voorzitter.
+
+81
+01:52:40,719 --> 01:52:41,820
+Ik heb wel nog twee vragen.
+
+82
+01:52:41,880 --> 01:52:42,539
+Volgens...
+
+83
+01:52:45,380 --> 01:52:48,419
+mij zit het ook in de moties van de collega's,
+
+84
+01:52:49,239 --> 01:52:54,239
+maar maakt het voor de staatssecretaris
+verschil of het NAFIN-netwerk wel of...
+
+85
+01:52:54,679 --> 01:52:58,479
+niet als vitaal wordt
+gekwalificeerd? Verandert dat iets in...
+
+86
+01:52:59,820 --> 01:53:03,539
+hoe de staatssecretaris en Defensie
+tegen dit netwerk aankijken?
+
+87
+01:53:03,960 --> 01:53:06,760
+Voorzitter. Een andere vraag is
+voor mijn fractie wat belangrijker.
+
+88
+01:53:07,099 --> 01:53:09,239
+Mij is gebleken dat...
+
+89
+01:53:10,619 --> 01:53:13,400
+heel veel gebruikers op het
+NAFIN-netwerk zijn aangesloten.
+
+90
+01:53:13,440 --> 01:53:18,779
+Je kunt je afvragen of dat wel helemaal
+de bedoeling is van dit netwerk.
+
+91
+01:53:18,859 --> 01:53:21,299
+Ik heb het dan met name over de civiele...
+
+92
+01:53:22,320 --> 01:53:23,279
+gebruikers.
+
+93
+01:53:24,200 --> 01:53:25,779
+Wat ik de staatssecretaris wil vragen,
+
+94
+01:53:25,840 --> 01:53:28,010
+is of het de moeite waard is om eens
+te onderzoeken of het een goed idee
+
+95
+01:53:28,010 --> 01:53:30,179
+is om het netwerk te splitsen in een
+civiel deel en een militair deel.
+
+96
+01:53:30,239 --> 01:53:33,580
+Ik heb dit niet in een motie gegooid,
+want ik vind dat we moeten proberen
+om dat een beetje te matigen.
+
+97
+01:53:34,679 --> 01:53:35,539
+Nu maken enorm veel partijen
+gebruik van dit netwerk.
+
+98
+01:53:35,859 --> 01:53:39,580
+Het zijn er eigenlijk te...
+
+99
+01:53:40,060 --> 01:53:41,060
+veel.
+
+100
+01:53:41,400 --> 01:53:46,200
+Je kunt je...
+
+101
+01:53:46,219 --> 01:53:50,960
+afvragen of dat allemaal nog in lijn is met
+de hoogbeveiligde status van het netwerk.
+
+102
+01:53:51,099 --> 01:53:52,619
+Dank u wel. Dank u wel.
+
+103
+01:53:52,960 --> 01:53:55,020
+Dan is het woord aan de heer Pool van de PVV.
+
+104
+01:54:03,380 --> 01:54:04,700
+Voorzitter, dank u wel.
+
+105
+01:54:04,820 --> 01:54:08,500
+De PVV heeft nog één
+duidelijke vraag: waarom is...
+
+106
+01:54:09,000 --> 01:54:12,679
+het NAFIN nog niet als vitale
+infrastructuur aangemerkt?
+
+107
+01:54:13,140 --> 01:54:17,659
+Tijdens het debat hebben we tegen deze
+staatssecretaris uitgehaald over het getreuzel.
+
+108
+01:54:18,080 --> 01:54:21,580
+Hij zegt dat hij het gaat onderzoeken en
+dat het allemaal tot de zomer mag duren.
+
+109
+01:54:21,700 --> 01:54:23,700
+Dat vinden wij te lang.
+
+110
+01:54:23,739 --> 01:54:26,380
+Onze vraag is daarom: is dat al
+gebeurd? En zo nee, waarom niet?
+
+111
+01:54:26,479 --> 01:54:27,400
+Dank u wel, voorzitter.
+
+112
+01:54:28,560 --> 01:54:33,119
+Dank u wel. De staatssecretaris
+heeft aangegeven een schorsing van
+ongeveer vijf minuten te willen.
+
+113
+01:54:33,599 --> 01:54:36,200
+Ik schors daarom tot even voor half elf.
+
+114
+02:01:42,759 --> 02:01:51,080
+Ik heropen de vergadering.
+
+115
+02:01:53,599 --> 02:01:58,859
+Het woord is aan de staatssecretaris
+van Defensie voor de...
+
+116
+02:01:59,280 --> 02:02:02,879
+oordelen over de vier moties en een reactie
+op de drie vragen die nog zijn gesteld.
+
+117
+02:02:03,099 --> 02:02:09,560
+Dank u wel, voorzitter. Die drie vragen
+vat ik even samen. Dit gaat over het
+NAFIN-netwerk, het meest veilige netwerk dat we...
+
+118
+02:02:09,800 --> 02:02:10,820
+in Nederland hebben.
+
+119
+02:02:10,899 --> 02:02:12,340
+Dat netwerk...
+
+120
+02:02:12,680 --> 02:02:16,660
+vitaal verklaren, betekent
+dat het systeem zal vallen...
+
+121
+02:02:16,660 --> 02:02:17,859
+onder de aanpak bescherming...
+
+122
+02:02:17,920 --> 02:02:18,960
+vitale infrastructuur van de NCTV.
+
+123
+02:02:18,999 --> 02:02:23,979
+Dat betekent ook dat andere ministeries
+zeggenschap gaan krijgen over ons
+netwerk, en dat beperkt onze autonomie.
+
+124
+02:02:24,320 --> 02:02:29,420
+We doen zo veel mogelijk
+in de geest van die aanpak.
+
+125
+02:02:29,440 --> 02:02:30,639
+We vullen dat dus wel degelijk in.
+
+126
+02:02:31,780 --> 02:02:36,259
+De heer Ellian had nog een vraag over
+het civiel medegebruik van het netwerk.
+
+127
+02:02:36,479 --> 02:02:42,899
+Wat bedoelen we met civiel medegebruik?
+Dat is alleen gebruik door andere
+overheidsinstanties, dus andere ministeries.
+
+128
+02:02:43,540 --> 02:02:48,460
+Er zitten dus geen private
+gebruikers op het netwerk.
+
+129
+02:02:48,499 --> 02:02:51,119
+Defensie stelt aan die andere
+ministeries heel strikte eisen...
+
+130
+02:02:51,859 --> 02:02:57,340
+op het gebied van servicelevels
+en de voorwaarden die zij moeten
+inregelen. Daar moeten zij aan voldoen.
+
+131
+02:02:57,859 --> 02:03:01,879
+Het militair gebruik zit
+'m in de bovenste laag.
+
+132
+02:03:01,899 --> 02:03:06,119
+Dat betekent dat dit altijd voorrang krijgt.
+Dat geldt niet alleen voor de capaciteit,
+
+133
+02:03:06,379 --> 02:03:09,399
+want stel dat er iets gebeurt met het netwerk,
+
+134
+02:03:09,639 --> 02:03:13,700
+dan gaat het militaire gebruik altijd
+voor het gebruik door al die anderen.
+
+135
+02:03:13,759 --> 02:03:17,999
+In de software...
+
+136
+02:03:18,200 --> 02:03:20,840
+zitten in feite "hekken" tussen
+de verschillende stromen,
+
+137
+02:03:21,160 --> 02:03:26,519
+zodat we daar een goed inzicht in hebben en
+het ook makkelijk is om op en af te schalen.
+
+138
+02:03:26,560 --> 02:03:31,420
+Om het "vitaal verklaren" samen te vatten:...
+
+139
+02:03:31,859 --> 02:03:36,899
+Defensie levert bij een vitaalverklaring
+een deel van haar autonomie, van haar
+beleidsruimte in doordat het toezicht en de...
+
+140
+02:03:37,180 --> 02:03:42,340
+regie voor...
+
+141
+02:03:42,700 --> 02:03:45,119
+een groot deel extern, buiten het ministerie,
+worden belegd, ook in het geval van een crisis.
+
+142
+02:03:45,479 --> 02:03:50,340
+Zeker in relatie tot de militaire
+autonomie, is dat juist niet de bedoeling.
+
+143
+02:03:50,859 --> 02:03:52,899
+Mevrouw Kathmann gaf dat ook al aan.
+
+144
+02:03:52,960 --> 02:03:57,180
+Nog een interruptie van de heer Pool.
+
+145
+02:03:57,780 --> 02:04:01,479
+Dank u wel, voorzitter. De
+staatssecretaris zegt dat ze nog steeds,
+
+146
+02:04:01,479 --> 02:04:03,920
+nog steeds, nog stééds,
+aan het onderzoeken zijn.
+
+147
+02:04:04,460 --> 02:04:06,780
+Wij vragen ons echt af waar
+de urgentie dan blijft.
+
+148
+02:04:06,840 --> 02:04:10,099
+Het is zo'n belangrijk onderdeel.
+Het is echt ons eerste wapensysteem.
+
+149
+02:04:10,440 --> 02:04:16,759
+Dit moet gewoon duidelijk zijn. Waarom
+duurt het nu nog maanden nadat het debat
+is geweest om tot een conclusie te komen,
+
+150
+02:04:16,820 --> 02:04:20,139
+zo vraag ik aan de staatssecretaris.
+
+151
+02:04:20,219 --> 02:04:22,019
+Wat ik net ook al heb aangegeven,
+
+152
+02:04:22,160 --> 02:04:23,840
+is dat het vitaal verklaren...
+
+153
+02:04:23,940 --> 02:04:27,259
+an sich uiteindelijk een beleidskeuze
+is: dat je de verantwoordelijkheid...
+
+154
+02:04:27,499 --> 02:04:31,599
+bij de NCTV legt en dat je daar
+uiteindelijk dan een hele hoop van je...
+
+155
+02:04:31,940 --> 02:04:34,420
+militaire autonomie in verliest,
+
+156
+02:04:34,519 --> 02:04:39,099
+terwijl dat netwerk juist gericht
+is op die militaire autonomie en ik
+ook vanuit de Kamer terugkrijg dat...
+
+157
+02:04:39,440 --> 02:04:40,460
+men dat belangrijk vindt.
+
+158
+02:04:40,759 --> 02:04:41,780
+Kijk, wat wij wel doen,
+
+159
+02:04:41,840 --> 02:04:45,920
+is kijken wat er uiteindelijk in dat
+pakket zit van die vitale infrastructuur.
+
+160
+02:04:46,219 --> 02:04:50,780
+Dat zijn we nu aan het doen. Dus in dat
+onderzoek kijken we stuk voor stuk naar...
+
+161
+02:04:51,099 --> 02:04:52,439
+wat we nog niet geregeld hebben.
+
+162
+02:04:52,540 --> 02:04:55,800
+Heel veel van die randvoorwaarden
+zitten in dat vitaal verklaren.
+
+163
+02:04:56,080 --> 02:04:58,740
+Dat doen we op dit moment al;
+dat is waar we goed naar kijken.
+
+164
+02:04:59,280 --> 02:05:02,280
+En wat ik daar nog bij wil zeggen: waar
+ik ook sterk naar kijk, is rapportagedruk.
+
+165
+02:05:02,459 --> 02:05:07,280
+Dus je probeert die rapportagedruk en
+die onderzoeksdruk minimaal te krijgen.
+
+166
+02:05:07,359 --> 02:05:11,619
+Want dat is ook heel erg
+belangrijk: deregulering. Daarom
+kijken we daar wel strak naar.
+
+167
+02:05:11,679 --> 02:05:14,060
+Volgens mij...
+
+168
+02:05:14,119 --> 02:05:17,240
+kom ik net na het zomerreces
+met dat onderzoek naar buiten.
+
+169
+02:05:17,599 --> 02:05:22,220
+Ik kan de heer Pool en de hele Kamer verzekeren
+dat we elke dag, elk uur van de dag,
+
+170
+02:05:22,300 --> 02:05:26,820
+teams klaar hebben staan
+die op de veiligheid zitten.
+
+171
+02:05:26,939 --> 02:05:28,419
+Wat ik ook heb aangegeven in het debat,
+
+172
+02:05:29,199 --> 02:05:30,260
+is dat we nu continu digitalepenetratietesten
+doen op dat systeem.
+
+173
+02:05:30,840 --> 02:05:32,139
+En als...
+
+174
+02:05:32,520 --> 02:05:36,040
+we zaken vinden die...
+
+175
+02:05:36,240 --> 02:05:37,320
+verbetering nodig hebben,
+
+176
+02:05:37,500 --> 02:05:38,540
+gaan we zeker niet wachten.
+
+177
+02:05:38,580 --> 02:05:42,679
+Die zijn er dan vaak in die software en hebben
+we dan binnen een aantal uren gebatcht.
+
+178
+02:05:42,959 --> 02:05:44,419
+Tot slot, de heer Pool op dit punt.
+
+179
+02:05:45,119 --> 02:05:46,780
+Ja, nou wordt het helemaal mooi.
+
+180
+02:05:47,080 --> 02:05:50,619
+De staatssecretaris had toegezegd dat dat
+onderzoek vóór de zomer klaar zou zijn,
+
+181
+02:05:50,679 --> 02:05:52,679
+en nu hoor ik dat dat na de zomer komt.
+
+182
+02:05:53,000 --> 02:05:53,899
+Vanwaar die vertraging?
+
+183
+02:05:54,699 --> 02:06:00,000
+Als ik eerder "voor de zomer" heb gezegd,
+dan zeg ik toe dat het voor de zomer is.
+
+184
+02:06:00,080 --> 02:06:05,439
+Daar zal de heer Pool gelijk in hebben. Gaat
+u verder met de beantwoording van de vragen.
+
+185
+02:06:05,760 --> 02:06:09,699
+Of was u daarmee klaar? Dan kunnen we over naar
+de moties. Ja, voorzitter. Dat waren de vragen.
+
+186
+02:06:10,020 --> 02:06:15,280
+Dan wil ik nu overgaan naar de
+moties. De eerste motie, die op
+stuk nr. 18 van mevrouw Kathmann,
+
+187
+02:06:15,740 --> 02:06:17,119
+om Defensie structureel...
+
+188
+02:06:17,980 --> 02:06:22,639
+meer te betrekken bij digitaliseringsopgaven
+van de rijksoverheid.
+
+189
+02:06:22,879 --> 02:06:27,859
+Ook uw hele dictum, daar kan ik
+mee lezen en schrijven; dat is
+precies de lijn die we volgen.
+
+190
+02:06:27,919 --> 02:06:31,679
+Ik heb al aangegeven dat je het dan ook
+hebt over de Nederlandse AI-faciliteit.
+
+191
+02:06:32,000 --> 02:06:35,740
+Nou, ook Defensie stapt daarop in. Ik
+denk dat dat een hele mooie stap is...
+
+192
+02:06:36,139 --> 02:06:38,260
+om daarin stappen vooruit te zetten,
+
+193
+02:06:38,480 --> 02:06:39,580
+dus die krijgt oordeel Kamer.
+
+194
+02:06:40,020 --> 02:06:43,879
+De tweede motie van mevrouw Kathmann, die
+op stuk nr. 19, over aanbestedingsregels.
+
+195
+02:06:44,500 --> 02:06:50,060
+Het klopt dat we die sterk reduceren.
+Ik kom nog voor het zomerreces...
+
+196
+02:06:50,399 --> 02:06:55,720
+met een aanvullende brief waarin
+we een nog verder gaande stap maken
+op het gebied van vereenvoudiging.
+
+197
+02:06:55,919 --> 02:06:58,540
+Dus die krijgt ook oordeel Kamer.
+
+198
+02:06:59,520 --> 02:07:00,540
+De derde motie, die op stuk nr.
+
+199
+02:07:00,980 --> 02:07:07,760
+20 van mevrouw Heite, krijgt oordeel Kamer. De
+vierde motie, die op stuk nr. 21 van mevrouw
+Heite krijgt ook oordeel Kamer. Dank u wel.
+
+200
+02:07:07,959 --> 02:07:12,500
+We zijn daarmee gekomen aan het einde van dit
+tweeminutendebat. Dank aan de staatssecretaris.
+
+201
+02:07:12,639 --> 02:07:13,599
+Wij gaan zo over naar het
+volgende tweeminutendebat:
+Gasmarkt en leveringszekerheid.
+
