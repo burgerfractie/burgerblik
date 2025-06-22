@@ -1,0 +1,20 @@
+1
+07:56:09,800 --> 07:56:10,080
+Op de tafel van de Griffier ligt
+een lijst van ingekomen stukken.
+
+2
+07:56:10,120 --> 07:56:10,260
+Op die lijst staan voorstellen voor
+de behandeling van deze stukken.
+
+3
+07:56:10,340 --> 07:56:10,800
+Als voor het einde van...
+
+4
+07:56:13,880 --> 07:56:14,760
+de vergadering daartegen geen
+bezwaar is gemaakt, neem ik aan
+dat daarmee wordt ingestemd.
+
