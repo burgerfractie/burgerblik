@@ -1,0 +1,15 @@
+1
+05:40:06,660 --> 05:40:09,959
+Op de tafel van de Griffier ligt
+een lijst van ingekomen stukken.
+
+2
+05:40:10,659 --> 05:40:11,390
+Op die lijst staan voorstellen voor
+de behandeling van deze stukken. Als
+
+3
+05:40:11,390 --> 05:40:12,119
+voor het einde van de vergadering
+daartegen geen bezwaar is gemaakt,
+
