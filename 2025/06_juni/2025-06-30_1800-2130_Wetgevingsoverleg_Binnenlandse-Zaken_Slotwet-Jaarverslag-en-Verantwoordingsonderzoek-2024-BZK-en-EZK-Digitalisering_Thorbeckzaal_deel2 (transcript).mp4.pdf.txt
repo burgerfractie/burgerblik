@@ -1,0 +1,644 @@
+[00:02]
+Goede avond. Ehm, ik zou heel graag de vergadering willen heropenen. Eh, ik heb begrepen dat eh de heer van Maren, onze staatssecretaris voor Binnenlandse Zaken en Koninkrijksrelaties eh als eerste het woord zal nemen. Dus graag aan u het woord eh, meneer van Maren. Dank u wel, voorzitter. Eh, dank aan de Kamerleden voor de bijdrage in de eerste termijn en ook dank voor het welkomheeten bij deze commissie. Het is een bijzonder moment voor mij om deze portefeuille over te nemen. Digitaliseringsvraagstukken.
+
+[00:30]
+zijn, zoals u zeker weet, eh ook urgenter dan ooit. Dat heb ik ook wel gemerkt eh in mijn eerste weken als staatssecretaris op dit thema. Die urgentie komt door de razendsnelle ontwikkelingen op het gebied van eh AI, cloud en het gebruik van data. Waarbij het natuurlijk hartstikke mooi is dat ik eh in het eerdere deel wat ik al deed, het herstel Groningen, ook heel hard gelopen heb voor een eh AI factory.
+
+[00:52]
+En eh ja, daar hebben we natuurlijk eh met diverse collega's van eh Defensie, eh OCW, eh EZ Zet ehm LVVN en eh VWS hebben natuurlijk eh eh mooie stappen kunnen maken bij het bot wat we kunnen doen in de richting van Europa. En daarbij moeten we niet vergeten dat ook de regio een eh een substantiële stap heeft gezet om het ook mogelijk te maken, dus dat is wel heel mooi.
+
+[01:18]
+Ehm daarnaast eh is door de veranderde geopolitieke context onze autonomie en weerbaarheid eh onder druk eh komen te staan en dus ook het digitale domein daarbij. Voor mij is het helder dat we vol door moeten op dit dossier, samen met uw kamer en als één overheid. En daarmee ga ik ook doorpakken op de ingezette koers met de digitale Nederlandse digitaliseringstrategie.
+
+[01:39]
+Mijn voorganger, zoals ze wou, eh waar ik hele fijne contacten mee had eh die heeft hier goed eh mee samengewerkt met eh andere departementen. Ook alle complimenten daarvoor. En eh hij heeft ook met de medeoverheden en een team binnen het departement heel hard gewerkt. Waarvoor nogmaals heel veel dank en ik ben van plan om dit harde werk zo snel mogelijk in te kopen, om hem zomaar te zeggen. De heer Valise vraagt zojuist eh wanneer de NDS gepubliceerd zal worden.
+
+[02:07]
+Ik zet erop in om nog voordat de zomerekses deze in de ministerraad eh voor te leggen en daarna te publiceren. De kamer, de medeoverheden en publieke dienstverleners die vroegen ook al eerder om snelle publicatie en ik hoop dat ik hiermee op deze manier ook gehoor kan geven daaraan. Ik ben ervan overtuigd dat we met de NDS goede dingen doen. Het gaat niet alleen over de einddatum van de NDS. Het gaat ook over de hoognodige acties om bijvoorbeeld onze digitale weerbaarheid in autonomie te versterken.
+
+[02:36]
+Maar vooral ook over de manier waarop samen met de medeoverheden en de dienstverleners als één overheid en daar zie ik ook een hele sterke verbinding met mijn rol als staatssecretaris des stel Groningen waar ik ook heel erg sterk eh stuur op een één overheidsaanpak. Beleid moet met gemeente, provincies, waterschappen en publieke dienstverleners gemaakt worden zodat we samen dezelfde prioriteiten hebben in het verschil maken voor de mensen in de samenleving. Samenkom je immers altijd verder dan alleen.
+
+[03:04]
+En ik hoor ook de wens van de Kamer om defensie structureel aan te haken bij digitaal digitaliseringsbeleid. Dit gebeurt uiteraard al, maar om het verder te verstevigen heb ik direct ingezet op nog stevige samenwerking. Zo heb ik eh de staatssecretaris van Defensie afgelopen vrijdag al gesproken over onze digitale weerbaarheid en autonomie in het gebruikmaken van de infrastructuur voor AI.
+
+[03:26]
+Ik ga graag met uw Kamer in gesprek eh over eh digitale digitaliseringsbeleid en ik zie er ook naar uit om de komende maanden met u samen te werken. En dan wil ik eh ook overgaan eh op de beantwoording van uw vragen en dat zal ik doen in de volgende blokjes. Eh één strategie, twee financiën, drie ICT-kennis en vier diversen.
+
+[03:55]
+Dan ga ik nu naar blok één. Dan had ik vragen van eh Kamerlid Katman. Wat zijn de prioriteiten voor de komende eh tijd van beide bewindspersonen? Wat wordt voorgezet, wat niet? Worden de digitaliseringsstrategieën en digitale autonomie voortgezet? Wat kan de Kamer de komende maand nog verwachten op digitalisering? Het demissionair kabinet ziet zet de ingezette eh zet het ingezette eh digitaliseringsbeleid voort.
+
+[04:23]
+Mijn voornaamste inzet is om de Nederlandse digitaliseringsstrategie zo snel mogelijk aan te bieden aan de Kamer en te starten met de uitvoering daarvan. Dat betekent namelijk dat we door kunnen op de prioritaire thema's als digitale weerbaarheid, cloud, artificiële intelligentie en data.
+
+[04:39]
+Dan had ik eh een aantal vragen van eh ook eh Kamerlid Katman en waarbij we eigenlijk een beetje gemerkt hebben dat mevrouw Katman heel veel woorden en heel weinig tijd kan zeggen en ook heel veel vragen kan stellen en heel weinig tijd waardoor mijn team eigenlijk AI nodig heeft om dat bij te benen, maar dat is dan even een andere kant van het verhaal. Ehm, hoeveel geld heeft de voorbereiding van de NIF gekost? Hoeveel geld is het nodig voor het vervolg en heeft dit vertraging opgelopen door de kabinetsval. De voorbereiding van de N-IS heeft geen additionele middelen gekost.
+
+[05:07]
+Dit is een onderdeel van de kerntaak van het ministerie en de samenwerkende partners. starten met de uitvoering van de NDS met de bestaande middelen in werking eh als eerder genoemd toe naar de NDS investeringsagenda. Het is mijn inzet dat dit niet wordt vertraagd door de val van het kabinet. Die investeringsagenda volgt dan ook dit jaar nog. Dan eh de vraag ook van Kamerlid Katman. Hoe zijn de prioriteiten van de NDS? In van de Marum, even een punt van orde.
+
+[05:35]
+Ehm ik stel voor dat we eerst de blokjes doen en dat we dan de vragen doen, want er is nu een interruptie van mevrouw Katman, maar ik stel voor dat u gewoon per blokje even uw eh vraag beantwoord en dan eh de gelegenheid te bieden aan de kamerleden. Prima. Gaat u voor. Ehm, hoe zijn de prioriteiten van de NDS uitgewerkt? Eh, de prioriteiten van de NDS zijn samen met de ministeries, medeoverheden en de publieke dienstverleners uitgewerkt en daarvoor is een uitgebreid proces doorlopen. Dit gaat dus ook ook om eerder gedeelde onderwerpen eh als bijvoorbeeld cloud, data en AI.
+
+[06:05]
+Aangezien NDS nog niet in de ministerraad is behandeld, kan ik u nog niet meenemen in de inhoudelijke uitwerking daarvan, maar ik verwacht het op zeer korte termijn wel te kunnen doen. Dan eh de vraag eh ook van een eh mevrouw Katman van eh worden de NDS doelen smart opgeschreven met meetbare en afrekenbare doelen. Ik moet erbij zeggen van niet 100% smart, maar wel op basis van een eh uitvoeringsprogramma en dat proberen we wel zo smart mogelijk te doen.
+
+[06:31]
+Eh in de NDS worden per prioriteit specifieke versnellingen opgenomen waar we als overheid mee aan de gang kunnen en die concrete resultaten opleveren. Hiermee wordt snel duidelijk of we de gewenste versnelling binnen met het met de NDS kunnen realiseren. En als eh genoemd hoop ik de NDS zeer binnenkort met uw kamer te kunnen delen. Ehm dan de vraag van wat de stad gaat doen om zijn collega's aan te spreken op hun eh verantwoordelijkheid. Nou ja, streng als altijd natuurlijk, maar ik ga hier op dezelfde eh voet mee door als mijn eh voorganger.
+
+[07:00]
+En dat betekent dus eh in elk geval dat we eh met de een Nederlandse digitaliseringstrategie gezamenlijk strakker sturen op onze prioriteiten. Onder meer via een nieuw bestuurlijk overleg digitalisering met de medeoverheden en de publieke dienstverleners. En daarnaast ga ik eh uiteraard als dat nodig is met mijn collega's in gesprek over digitalisering. Dan de vraag van mevrouw Katman van denk de staatssecretaris zijn positie de komende tijd waar te kunnen maken? Hoe gaat hij zo'n coördinerende taken vervullen?
+
+[07:29]
+Eh en hoeveel tijd heeft de staatssecretaris voor zijn gecombineerde portefeuille? Eh nou, vraag één: Ja. Ehm twee: Hoe gaat hij die vervullen? Nou, dat is gewoon eh zorgen dat ik eh deze de portefeuille verder gaan brengen. Er ligt natuurlijk al heel veel klaar, dus daar ga ik ook gewoon mee verder. En ehm hoeveel tijd ik voor deze eh gecombineerde portefeuille heb. In Groningen loopt een hele hoop. Dat zijn ook een hele hoop zaken waar ik gewoon heel goed in zit.
+
+[07:55]
+Ik heb in de ehm eh sta eh hoe heet dat de vergaderingen de stafvergaderingen heb ik altijd erbij gezeten waar eh mijn collega eh Zoel Sapo ook eh aanwezig was. Dus een grote lijn van het verhaal heb ik wel te pakken. Ik word nu gewoon op eh op detail bijgepraat en eh daar heb ik een heel goed team voor die dat eh uitstekend doet. Dan eh welke plannen komen er nog naar de kamer en wat is de tijdslijn? Eh allereerst kom ik zo snel mogelijk met de NDS.
+
+[08:22]
+Eh nadat ik deze in de eh nadat deze in de ministerij is goedgekeurd. Ehm 4 juli is ook de inzet om hem daar eh te brengen. Hieruit volgen een aantal beleidstukken zoals onder andere de soevereine cloud en eh het nationaal webbeleid. En wanneer die precies komen, laat ik eerst de NDS aan u sturen, dan zetten we daarna de vervolgstappen. Dan van Kamerlid van der Werf. Waarom staan we toe dat algoritmes deze verwoestende effecten hebben zoals TikTok die mensen naar zelfmoord duwt?
+
+[08:50]
+Duwt eh nou ja, als uit oud uitvaartverzorger weet ik eh heel goed wat deze ellende met eh met mensen doet. Dus ehm ik deel de zorg over de algoritmes en de negatieve effecten op minderjarigen en op gebruikers in het algemeenheid. Op allerlei fronten werken we aan wetgeving en beleid om digitale diensten veiliger te maken. Eh dit kabinet brede beleid is verwoord in de strategie online kinderrechten die deze zomer nog naar uw kamer gestuurd zal worden.
+
+[09:17]
+En onderdelen van die strategie zijn het beter reguleren van verslavende algoritmen, eh multi eh mediale publieke campagne over de kansen en de risico's eh van digitale diensten voor kinderen en het in kaart brengen hoe de Europese White Label App voor leeftijdsclassificatie eh voor Nederland kan werken. Dan eh de vraag van KMR Buis Buisen: eh hoe moeten we de digitale dienstverlening in de overheid vanuit één dienst gaan aanbieden.
+
+[09:45]
+Bijvoorbeeld door diensten als dictologieus, SSC, ICT, eh RVIG eh samen laten gaan. Met de Nederlandse digitaliseringstrategie willen we op prioritaire onderwerpen als één overheid gaan werken. In de uitvoering van de NDS gaan we daarom nauwe samenwerking om concrete problemen op te lossen die vaak te groot zijn om per organisatie aan te pakken.
+
+[10:09]
+En dat doen we onder meer door eh alle, door uw kamer genoemde dienstverleners die hier ook een flinke bijdrage eh aan moet leveren ook eh ook samen daarmee aan de gang te gaan. Ik zie deze praktische samenwerking eh op dit moment als de meest effectieve manier om versnippering tegen te gaan. Dat was blokje één. Dank u wel eh meneer de staatssecretaris. Ehm ja, dan nu eh aan de kamer de vragen.
+
+[10:34]
+Ik sta drie eh interrupties eh drie vragen per kamerlid toe eh voor de hele de gehele eerste termijn beantwoording door eh het kabinet. Mevrouw Katman als eerste. Ja, als eerste ik had eh eh dank voor de voor de antwoorden en fijn dat er dus die die investerings agenda of hoe we dat ook mogen noemen komt.
+
+[10:57]
+Alleen ja, is het echt iets waar we nu al meer dan een jaar om vragen en elke keer is het ja, dat komt Q4, dan komt in januari, dan komt het bij de NDS in april, dan vervolgens komt het bij de NDS eh eh maand geleden. En nu is het dit jaar nog.
+
+[11:12]
+Dus ik zou wel heel graag eh wat explicieter horen wanneer we nou iets van investeringen kunnen verwachten, zodat we weten als die NDS eh eh nog voor het recessie naar de kamer wordt gestuurd Of dat niet alleen maar een soort ambitiedocument is waar niemand op tegen kan zijn of dat we ook echt al weten wat gaan we hier nou waar van maken of niet. En ik weet dat deze staatssecretaris is begonnen en ik hoor zijn ambitie aan hem, maar we vragen hier al zo lang om en het is echt een keertje nodig dat we hier duidelijkheid bij hebben.
+
+[11:41]
+Dus ik hoop dat we een iets dichter time frame kunnen krijgen. Ook bedankt voor de beantwoording over welke stukken nou nog op ons afkomen. Heel fijn dat al genoemd werd dat die eh dat dat eh actieplan webbeleid eraan komt, maar ik had ook gevraagd naar die gesprekken met van die informatiepunten digitale overheid en hun financiering. Dus ik weet niet of dat bij het blokje financiering komt of ehm dat ik nu gewoon moet vragen of die vragen nog beantwoord komen.
+
+[12:10]
+Dat komt bij financiering. Volgens mij komt hij bij financiering. Oké, perfect. Ja, dank.
+
+[12:19]
+Zijn er nog vragen? Mevrouw van der Werf.
+
+[12:25]
+Eh ja, voorzitter, eh allereerst dank voor eh de heldere beantwoording op mijn vragen en ook het eh het standpunt dat de staatssecretaris daar ook als oud uitvaartondernemer eh op innam. Ehm eh hoorde ik hem nou goed zeggen even eh ter check eh dat deze staatssecretaris dus ook die Europese waterdichte leeftijdsverificatie wil ehm en dat hij ook Europese regelgeving wil tegen verslavend ontwerp. Stadssecretaris.
+
+[12:57]
+Ik heb hier concreet gezegd van dat onderdelen van deze strategie kunnen zijn beter reguleren van eh het Europees beter Europees reguleren van eh verslavende eh algoritmen. Een multimedia campagne over de kansen en de risico's van de digitale diensten voor kinderen en het in kaart brengen hoe de Europese white label app voor leeftijdfverificatie in Nederland kan werken. Dat zijn de concrete zaken die ik op dit moment kan toeleggen. Vervolgvraag voor mevrouw van der Werff.
+
+[13:27]
+Ja voorzitter en en gaat deze staatssecretaris daar dan ook proactief stappen op naar voren zetten? Gaat Nederland dan de kar daarop trekken en in Europa de boer op? Of wachten we tot andere mensen dat gaan regelen en sluiten wij ons daar dan bij aan? Staatssecretaris. Nou ik ik ben gemiddeld weg niet zo van het achter op elkaar zitten eh dus eh ik zal mijn eh mijn best eh zelf wel doen, maar dat betekent natuurlijk wel dat we eh dat in samenwerking moeten doen.
+
+[13:54]
+Dus als er een andere andere eh eh landen of eh binnen Europa al eh zaken lopen. Dan kan het best zijn dat we daarbij aansluiten die als dat eh zaken zijn die goed lopen. Dus ehm eh ik ga mij goed informeren. Ik vind het belangrijk dat hier wat aan gedaan wordt en waar we kunnen trekken of waar we kunnen duwen. Dan gaan we dat doen. Er zijn geen vragen meer, dus u kunt uw eh beantwoording vervolgen.
+
+[14:29]
+Blok 2 financiën. Ehm mevrouw Katman en de heer Buis stellen mij verschillende vragen over het inzicht van de beantwoording eh in de verantwoording over digitalisering, waaronder eh over verbetering in de financiële huishouding en wat ik vanuit mijn rol kan doen om het inzicht in de verantwoording te verbeteren. Heer Buis vroeg mij ook of ik wellicht kansen zie in het gebruik van het programma Toekomst financiële administratie eh van het eh ministerie van financiën. Ik snap dat u die vraag stelt.
+
+[14:58]
+Mijn voorganger was van plan eh om u nog voor dit debat te informeren hierover. Ehm, maar dat is door vertragingen eh helaas niet gelukt. Ehm, ik vind het wel belangrijk om die informatievoorziening naar de Kamer te verbeteren. Eh, het eerlijke verhaal is dat dit een traject is van lange adem. Ehm, ik zie zeker kansen in het eh programma Toekomst Financiële Administratie.
+
+[15:21]
+Het Ministerie van Financiën zet hier in mooie stappen voor het uniformiseer uniformeren en het standaardiseren van de financiële administraties waar ik vanuit mijn verantwoordelijkheid graag ook aan bijdraag aan lever. Maar ik weet ook dat dit tijd nodig heeft en dat het niet op korte termijn nieuw boek behoefte kan voorzien. Dus ik heb ook gekeken naar de stappen die ik wel kan zetten met de CO kolom en ik wil daar inzetten op de volgende twee sporen. Eén: duidelijk maken wat we verstaan onder digitalisering.
+
+[15:50]
+We starten met dit scherper te maken voor de IT-middelen zoals hardware, software, zodat de organisaties dit op dezelfde manier gaan registreren en bijhouden. We ondernemen actie om u voor af beter te informeren over de voorgenomen grote ICT-activiteiten en verwachte uitgaven daarvan. aan. Eh, dan denk ik aan een overzicht dat ik u kan sturen aan de start van het parlementaire jaar.
+
+[16:13]
+Dat zal dit jaar nog niet lukken, maar ik ga eraan werken dat dit vanaf 2026 eh wel zal lukken.
+
+[16:23]
+Dan ehm had ik de vraag van de hier eh valise van de PVV. De fractie van de PVV wil graag weten of de niet uitgeputte ehm 4,1 miljoen van het kas eh budget dekkend zijn voor de uitgestelde facturatie en wat ten grondslag ligt aan de lagere uitgaven in verplichtingen op het centraal apparaat. En dat is 9,3 miljoen. Miljoen of miljard? Wat staat daar? Miljoen. Miljoen.
+
+[16:52]
+Ehm, er is voldoende budget om de uitgestelde facturatie te dekken. Eh, per 1 mei 24 is de nieuwe organisatie Rijksdienst voor de informatiehuishouding voorheen eh Docdirect van start gegaan. En tijdens de opstellen van de begroting was er nog weinig bekend over de invulling van bijvoorbeeld de nieuwe eh unit innovatie en vernieuwing, behalve dat de programma's kostendekkend moesten zijn. De oorzaken waren onder meer eh de vertraging in de afschaling van de programma's en minder uitbesteding.
+
+[17:22]
+Dan eh de vraag van de PVV ehm bij BZK werd geconstateerd dat logisch kampt met onrechtmatige uitgaven van eh 66,6 miljoen veroorzaakt door de vertraagde migratie naar een nieuw infrastructuur platform, waardoor de oude contracten zonder aanbestedingsprocedures tijdelijk werden verlengd. De PVV wil graag horen of er nog financiële consequenties hangen aan deze onrechtmatigheden.
+
+[17:48]
+Eh, de onrechtmatigheid bij Logisch getroffen in eh 2024 geconstateerde inkoopfout die was tijdelijk en heeft verder geen financiële gevolgen.
+
+[18:01]
+En dan heb ik nog eh hoe verlopende gesprekken met de informatiepunten digitale overheid in de financiën Ik wil krijgen de kamer te horen hoe deze loketten de steun krijgen die ze nodig hebben, ook als de uitkering waar ze op vertrouwen wordt gekort door het ministerie. Ik eh ik voer op dit moment constructieve gesprekken met de belangrijkste samenwerkende partners VNG eh Koninklijke Bibliotheek op Vereniging Openbare Bibliotheken en uitvoeringsorganisatie over de over het kabinetsbesluit om de specifieke uitkering Ido af te schaffen.
+
+[18:31]
+En over te hevelen naar het gemeentefonds. Uw kamer wordt conform de toezegging eh van mijn voorganger ook ook hierover geïnformeerd voor de zomer in de volgende verzamelbrief.
+
+[18:45]
+Dit waren de antwoorden in dit tweede blokje. Dank u wel. Zijn er vragen vanuit de kamer? Geen vragen? Ja. Nou, mevrouw Katman. Ik eh wil je soms als je iets te zeggen hebt, moet het ook iets goeds zijn vind ik. Ik mag wel vaker in dit huis. Heel veel dank voor de beantwoording over het overzicht wat we krijgen eh qua financiën in 2026. Dus als ik het goed begrijp Want dit is echt voor ons baanbrekend en mindblowing.
+
+[19:11]
+Krijgen we dus een eigenlijk een duidelijker overzicht van wat verstaan we nou eigenlijk onder digitalisering en daarbij ook een overzicht voor als er grote uitgaven wordt gedaan. Waarin dan? Grote uitgaven ja, vooruitkijken. Ja. Ja, grote uitgaven vooruitkijken. Dus ehm we we zijn gewoon van plan om ehm helder te maken van waar waar het eh hè wat waar eh ICT onder verstaan wordt en eh eh zodat dat ook op een goede manier geanalyseerd kan worden.
+
+[19:42]
+Eh en eh dat ook eh ook breed. Dus eh dat is eh is echt de bedoeling om dat eh goed helder aan te leveren. Dankjewel. Ja, ik heb er zelf een vervolgvraag op eh op het punt van want ik ben op zich ook tevreden dat u eh eh aankondigt om met een lijst te komen vanaf volgend jaar.
+
+[19:59]
+Eh maar in die zin eh zit ik te overwegen om eh toch een motie in te dienen om ehm in gesprek te gaan met het ministerie van Financiën om dat programma eh Toekomst Financiële Administratie eh echt te gebruiken om uiteindelijk tot die lijst van u te komen. Ehm kunt is het niet een een een idee om met Ministerie van Financiën in overleg te treden om want uiteindelijk heeft u getallen nodig. U heeft cijfers nodig. Financiële data heeft u nodig voor die lijsten.
+
+[20:26]
+En het het zal een een hell of job worden als ehm ja als als u elke keer weer elk jaar opnieuw naar de departementen moet en zij moeten dan weer opnieuw gaan inventariëren wat dan op dat lijstje moet komen. Is het niet gewoon handig om in de financiële administratie alvast kenmerken toe te voegen aan uitgaven dat deze bedoeld zijn voor digitalisering en dat die dat die nodig zijn voor de voor de eh begrotingsrapportages eh richting de Tweede Kamer, de vaste Kamercommissie voor digitaal zaken.
+
+[20:55]
+Mijn informatie is van dat Financiën dit op dit moment nog niet toe wil zeggen, maar ik wil wel in gesprek gaan met Financiën om te kijken welke mogelijkheden daar wel zijn. Dank u wel. Ik kijk naar de kamer of er nog vragen zijn. Geen vragen, kunt u doorgaan met uw beantwoording. Derde blokje. ICT kennis.
+
+[21:15]
+Dank u voorzitter. Eh daar had ik eh eh de volgende vraag van PVDA Groen Links en en PVV. Eh, hoe komt het dat de regering er niet inslaat om goed eh ICT eh personeel in vaste dienst te nemen? En daarnaast heeft de PVV ook gevraagd van hoe het komt dat de externe inhuur van Logius en SSC ICT niet is afgenomen en wat zij en eh gaan doen om dit eh in 2025 omlaag te krijgen? In het algemeen zijn er drie oorzaken voor hoge ICT-inhuur.
+
+[21:43]
+Eén, dat is de concurrentie op de arbeidsmarkt, die is groot. Private werkgevers bieden vaak hogere salarissen en snellere doorgroei mogelijkheden. voor topspecialisten. Twee, sommige voor sommige specialistische functies is het lastig om kandidaten via de reguliere wervingskanaal te vinden. Externe inhuur is dan tijdelijk nodig om de uitvoering te waarborgen. Dit was bij Logies en SSC ICT het geval.
+
+[22:10]
+En daarnaast vraagt het aannemen van schaars personeel in vaste dienst vaak om een snelle procedure in maatwerk. Binnen de overheid duurt die sollicitatieprocedure soms langer. Logisch en SSC eh ICT zijn hard aan het werk om de externe inhuur om eh omlaag te krijgen. Zo is in 2024 voor BZK en Fro met name ingezet op de aanpak van schijnzelfstandigheid. Als gevolg hiervan neemt de externe inhuur ook af in omvang.
+
+[22:37]
+Voor meer grip eh op externe inhuur wordt op dit moment ook een aanpak geïmplementeerd om eh de inhuur BZK en Fro Breed eh voor de komende 3 jaar substantieel terug te brengen in de richting van de Rome norm met ruimte voor differentiatie per organisatie. En hiervoor stelt elke organisatie een eigen plan op hoe de inzet van externe stapgewijs wordt afgebouwd.
+
+[23:05]
+Dan ehm de vraag van eh de VVD: Wat er voldoende inspanning gepleegd bij agentschappen om externe inhuur terug te dringen? Ik ben het met de VVD eens dat digitalisering eh belangrijk is in de dat we hiervoor goed personeel zelf in huis moeten hebben. Departementen en agentschappen werken daarom ook toe naar de Rome norm. Zo zijn ze actief bezig met het werven van eigen personeel in het verampelen van hun eigen externe inhuur.
+
+[23:33]
+Er wordt geïnvesteerd in het vergroten van de eh interne ICT capaciteit en het behouden van de ICT talent via de gerichte arbeidsmarktcommunicatie en het bieden van ontwikkelmogelijkheden bij binnen de Rijksdienst. Maar en dat blijft toch al altijd een eh een echter eh er Blijft een zekere mate van externe inhuur noodzakelijk en gewenst om als overheid je taken goed uit te kunnen voeren.
+
+[23:56]
+Externe inhuur biedt namelijk ook een flexibiliteit bij piekbelasting, ziekte, moeilijk vervulbare vacatures en innovatieve of specialistische werkzaamheden met name op ICT-gebied.
+
+[24:10]
+Dan eh heb ik nog een vraag van PvdA GroenLinks. Welke concrete doelen zijn er om de komende jaren het aandeel externe inhuur terug te dringen en meer experts in vervaar dienst te nemen. Iedere organisatie is zelf aangezet om de inzet van externe strafgewijs terug te brengen. Daarbij wordt gestuurd op zowel de roemenorm als op structurele kennisborging.
+
+[24:31]
+De voorgang wordt periodiek besproken in de ministeriële commissie taakstelling voor de rijksdienst en gemonitord via begrotingen, jaarverslagen en de jaarrapportage van de bedrijfsvoering rijk. Eh dan heb ik de vraag ook van eh PVDA GroenLinks: Kan de staatssecretaris reflecteren op de gevolg van de grote mate van externe inhuur voor het ICT personeel en voor de cyberveiligheid van het personeel. Cyberveiligheid is een cruciaal aandachtspunt binnen de overheid.
+
+[25:01]
+Externe inhuur brengt risico's met zich mee op het gebied van kennisborging in continuïteit. Tegelijkertijd is externe inhuur soms ook noodzakelijk bij moeilijk vervulbare functies ook op het gebied van cybersecurity. Om afhankelijkheid te verminderen worden onder andere interne ICT-pools uitgebreid. structurele taken verankert en wordt gewerkt aan een aantrekkelijk werkgeverschap. Daarnaast wordt ICT expertise actief geborgd via de ICT personeels eh strategie.
+
+[25:33]
+Dan eh heb ik Ehm dan heb ik nog een vraag van eh PVDA GroenLinks. Hoe gaan we de ICT kennis opbouwen binnen de overheid als we de mensen niet eens binnen de overheid in vaste dienst komen? Ehm er komt continu ICT personeel in vaste dienst bij de Rijksoverheid. We stimuleren dit ook door gericht te investeren in aantrekkelijk werkgeverschap, arbeidsmarktcommunicatie en het bieden van eh doorontwikkelmogelijkheden.
+
+[26:02]
+Zo hebben we ook eh één loopbaanpaarden of één loopbaanpaarden eh één leerkaarten en zo wordt meer ICT eh talent aangetrokken en behouden. Structurele werkzaamheden worden zoveel mogelijk verankerd zodat deze door rijksambtenaren worden uitgevoerd in plaats van door externe. Ook hier geldt weer dat ook ehm extern in u soms gewoon noodzakelijk is bij moeilijk vervulbare functies bij piekbelasting.
+
+[26:30]
+Ehm dan weer een vraag van eh PvdA GroenLinks. In welke specifieke domeinen zijn er tekort aan ICT'ers? Zijn dat softwareontwikkelaars, project managers of andere soorten experts? Die tekorten die doen zich met name voor in de domeinen als softwareontwikkeling, informatiebeveiliging, dataanalyse, cloudbeheer en digitale eh architectuur.
+
+[26:53]
+Ook de behoefte aan projectleiders en functioneel beheerders is groot, met name voor het realiseren van digitaliseringsprojecten bij de uitvoeringsorganisaties. De komt complexiteit van technologische ontwikkelingen zoals generatieve AI maakt dat nieuwe specialismen snel opkomen waarvoor nu nog weinig aanbod is op de arbeidsmarkt. Daarmee ben ik aan het einde gekomen van dit plakje. Dank je wel. Ik kijk naar de kamer. Mevrouw Katman.
+
+[27:20]
+Eh ja, ehm eigenlijk was het eh de antwoorden op de andere vragen precies waarom ik moeite had met het antwoord op de eerste vraag als het gaat over ICT personeel. Want die eerste vraag daarvan was het antwoordt, voorzitter. Van ja, eigenlijk staat ieder ministerie eh zelf aan de lat voor zijn personeelsbeleid als het gaat over de targets rondom inhuur. Maar dat is nou juist het grote probleem als het gaat specifiek over eh IT-personeel.
+
+[27:48]
+Dat moeten we juist centraal aansturen en centraal willen bundelen zodat we weten, precies bijvoorbeeld waar het ook over ging, bij het antwoord over cyberveiligheid van de overheid, dat heeft gewoon te maken hoeveel met hoeveel vakkundige mensen we rijksbreed in huis hebben. En daarom zou ik toch heel graag willen pleiten voor een nog meer centralere aanpak ook op de sturing van inhuur en kunnen we dat niet zomaar aan al die ministeries eh eh overlaten.
+
+[28:13]
+Ze staan misschien wel voor aan de lat, maar er moet wel centraal op gestuurd worden en de staatssecretaris had het eerder ook over dat eh overleg wat er nu is binnen de eh binnen de ehm hoe heet het binnen het kabinet. Misschien kan dit daar ook een plek hebben. Dat zou me echt een liefding waard zijn. Wordt dan is aan staatssecretaris.
+
+[28:42]
+Wij eh wij zijn eh druk bezig om ook die centrale pools eh wel eh wel eh wel vorm te geven. En ehm eh wat we daar ook bij doen dat is eh In de ministeriële commissie taakstelling het monitor. Ja, dat wordt in de in de ministeriële commissie taakstelling wordt het ook eh ook gemonitord. Dus dus eh het heeft wel aandacht, maar eh ja, we zijn ook in wording. Dus het is nog niet eh niet direct allemaal eh gisteren klaar.
+
+[29:08]
+Ja, ik heb zelf ook nog een vraag eh over de ja, inzet van externe personeel. Want ja, hoe lukt het en hoeveel vacatures heeft u eh op dit moment openstaan? Want ehm ik heb begrepen dat eh en dat wil ik toch even schetsen dat eh op de circa 4000 4500 medewerkers die de vier agentschappen hebben. Eh de agentschappen ACI zit of eh Sorry, SSC, ICT, Logius, Dictum eh en de andere die ik heb van RVIG, sorry.
+
+[29:38]
+Dat daarnaast nog eens 3000 vacatures zijn voor ICT eh voor voor deze diensten. Ehm, ik maak me daar echt ernstig zorgen over dat als je dat niet centraal aanpakt of dat je niet tot eh iets gemeenschappelijks komt dat dat ja, dat dat de de digitalisering ons over het hoofd gaat eh groeien. Dus hoe denkt u dat dat u uiteindelijk die grote hoeveelheid heel even vacatures gaat opvullen.
+
+[30:05]
+Er worden op dit moment worden er ook gezamenlijk eh eh ja, wel eh campagnes gevoerd om eh om eh personeel te werven. Ook gezamenlijke campagnes wel. Eh maar het is inderdaad een eh een eh een eh substantieel aantal. Maar eh we proberen wel om eh om eh ook gezamenlijk dat personeel binnen te krijgen. Oké, dank u wel. Verder nog vragen aan de keerzijde van de kamer? Oké, dan gaan we door naar de het blokje diversen. Gaat u gang.
+
+[30:32]
+Dank u voorzitter. Dan had ik de vraag van eh GroenLinks PVDA. Wat gaat de Rijksoverheid doen om te voorkomen dat als op 14 oktober 2025 de ondersteuning van Microsoft Exchange afloopt en het mailverkeer van de overheid in eigen beheer blijft?
+
+[30:51]
+In het kader van de reeds door u gestelde kamervragen wordt momenteel onderzocht wat de status is bij de departementen in een ICT-dienstverlenersontrent Microsoft exchange. Daarbij moet ik u wel meegeven dat hoewel de technische ondersteuning van bepaalde versies van exchange stopt op 14 oktober 25, leverancier al nieuwere on permis versies heeft aangekomen omdat die logische wijs wel ondersteund blijven.
+
+[31:18]
+Feitelijk is de situatie dat er voor Microsoft Exchange 2016 en Microsoft Exchange ehm 2019 vanaf 14 oktober 2025 geen support of beveiligingsupdates meer worden geleverd. En de maildienst houdt dan niet direct op eh met functioneren en gaat ook niet automatisch uit eigen beheer. Voor blijven en betrouwbaar functioneren van de maildienst zijn enkele opties door Microsoft benoemd. Deze zijn bekend bij de dienstverleners van de rijksoverheid.
+
+[31:48]
+Dan had ik een vraag van eh NSC en GroenLinks PVDA. Wat gaat er nu gebeuren met alle aangenomen en deels ontrane moties omtrent cloud? Kan de Kamer erop rekenen dat het richtgetal van 30% gewoon wordt nageleefd? Er wordt op dit moment hard gewerkt aan de herziening van de rijksprijs cloudbeleid, evenals aan de visie op digitale autonomie voor de overheid. Vooralsnog ben ik voornemens met kracht door te gaan op deze ingeslagen weg.
+
+[32:16]
+In dat kader zal verder gewerkt worden aan de uitvoering van de moties even eh als aan de verdere besluitvorming eh van de NDS. Ik hoop op uw begrip dat het opvolgen van dergelijke moties wel degelijk tijd kost.
+
+[32:29]
+Eh, ten aanzien van de onderrade maar aangenomen motie om eh als doel te stellen dat per eh 2029 minstens 30% van alle cloud opslagdiensten en applicaties die de rijksoverheid afneemt van Nederlandse bodem komt, kan ik u toezeggen dat ik u voor het reces, dus deze week, zal later weten op welke wijze ik voornemens ben om die motie uit te voeren.
+
+[32:56]
+Dan eh had ik een vraag van D66. Kunnen zich aansluiten bij de hieronder genoemde punten van D66. D66 pleit voor drie dingen: grip op de cloud, investeren in Europese alternatieven, deze eh die gaat even naar eh mijn collega van EZ en herpak de komt controle eh over de digitale infrastructuur. Eh ik kan u bevestigen dat wij het met elkaar eens zijn op de punten 1 en 3.
+
+[33:24]
+Eh en bij punt 2 daar komt mijn collega van EZ eh eh bij u terug. Via onder andere de NDS pakken wij door om grip te krijgen op beweging eh naar de cloud. En de controle op de digitale infrastructuur wordt ook meegenomen in het aangescherpte cloudbeleid en eh op de autonomie van de rijksoverheid. Dan had ik nog eh een vraag van de PVDA van eh komt het actieplan eh webbeleid nog voor de zomer zoals toegezegd?
+
+[33:52]
+Eh het nationaal actieplan eh webbeleid wordt nog deze week verzonden naar uw kamer. Dan had ik nog een vraag van Kamerlid Verlies van de PVV. Eh hoe wordt het kabinet een centrale aansturing van de IDO's ter voorkoming dat de gemeente deze aansturing overnemen en daarmee haar uniformiteit aantast? Ehm ik zet in op een regierol van de gemeente.
+
+[34:17]
+Zij weten als geen ander waar de Ido dienstverlening lokaal het beste kan worden belegd en daar hoeft niet per definitie een bibliotheek te zijn. Daarnaast zet ik in op beter inzetten van de Ido dienstverlening in het lokale netwerk zodat mensen meer gebruik kunnen maken van de dienstverlening. En ik bord het landelijke ondersteuning als opdrachtgever van het landelijk programma op het gebied van deskundige bevordering deskundigheidsbevordering monitoring en marketing. Dan had ik een vraag van NRC.
+
+[34:44]
+Wat is Momenteel de stand van zaken wat betreft eh de vulling van het algoritmeregister. Sinds eh begin maart zijn 168 nieuwe algoritmen geregistreerd in het eh algoritmeregister waarvan 39 door de departementen. Van de 39 nieuwe registratie door departementen vielen er 38 in de categorie impactvol. Dat is een toename van 30% in deze categorie.
+
+[35:09]
+Via de jaarrapportage bedrijfsvoering rijk hebben departementen uw kamer laten weten of en hoe hoeveel registratie dit jaar nog bijkomen in deze categorieën. Dan eh weer een vraag van NRC. Eh, mensgerichte digitale overheid kunnen we een aantal zaken wettelijk vastleggen zoals uniformiteit, adresgegevens, maar ook beschikbaarheid loketten, begrijpelijke taal en eenduidig online aanspreekpunt. Eh, er zijn uniforme regels voor briefadressen.
+
+[35:39]
+Tegelijkertijd is het ook belangrijk dat gemeenten de ruimte houden om maatwerk te leveren. Juist om te voorkomen dat mensen tussen wal en schip blijven vallen. Het recht op een niet digitaal alternatief is reeds wettelijk verankerd. De Wet Digitale Overheid en bestuursorganen hebben ook een wettelijke zorgplicht. Om die passende ondersteuning in het contact eh met dat bestuursorgaan. Een verdere wettelijke verankering maakt digitale overheid mijns inzien niet mensgericht.
+
+[36:09]
+Dan heb ik nog een vraag van NRC ehm het lid Sikkesta vroeg naar de status van een aangenomen motie over de algoritme register. Hij gaf aan dat nog van nog een aantal departementen geen planningsbrief hebben ontvangen. Hij riep mij zojuist op om deze motie uitvoering te geven bij de departementen en bij de departementen aan te dringen op een spoedige verzending van de nog niet verzonden planningsbrieven. Een aantal departementen heeft mij eh hebben reeds eh planningsbrieven verstuurd, zoals u ook opsomt in uw eh bijdrage.
+
+[36:38]
+Mijn departement staat in eh nauwe verbinding met de departementen en eh is bekend dat ehm departementen nog deze week hun planningsbrieven zullen versturen. Ik heb dan ook geen signaal ontvangen dat er departementen zijn die knel lopen met betrekking tot de uitvoering van deze motie. Dan eh had ik nog een vraag ook van de heer Sik Dijkstra van dat de overheid meer met soevereine modellen moet werken. Hij heeft vroeg een update hierover.
+
+[37:08]
+Ik sluit mij ook aan bij het belang om in de komende periode echt werk te maken van AI en van Europese Nederlandse bodem. Het streven naar open AI modellen uit Europa of Nederland maakt dan ook onderdeel uit van de AI prioriteiten in de aanstaande Nederlandse digitaliseringsstrategie. Ook worden in het kader van de overheid overheidsbrede van het overheidsbrede standpunt eh generatieve AI dat u eh in april met uw kamer is gedeeld, de inzet van de Europese Nederlandse open taalmodellen aangemoedigd.
+
+[37:39]
+Dan een weer een vraag van NRC: Kan de generatieve AI gebruikt worden als om als hulpmiddel eh complexe wetgeving te vereenvoudigen door de onderlinge samenhang te versimpelen en voor eh stellen te doen ter vereenvoudiging? Dat was best moeilijk. Ehm Bij het inzetten van eh generatieve AI om complexe wetgeving te vereenvoudigen is de grootste zorgvuldigheid eh nodig.
+
+[38:05]
+We denken na eh over deze mogelijkheden, maar we zijn nog niet zo ver dat we daarmee van start kunnen gaan. Hier zijn mijn eh collega's, de minister van BZK en de staatssecretaris Rechtbescherming eh bezig om om hier ehm ehm vorm aan te geven. Vanuit mijn rol ga ik van start met een doorbraakfaciliteit waar bewezen initiatieven op AI-gebied kunnen worden doorontwikkeld. ontwikkelen. We kijken ook naar initiatieven op gebied van de wetgeving. Aan het eind van dit jaar wil ik u hier ook verder over informeren.
+
+[38:36]
+Dan had ik nog een vraag van eh D66. Bevat het inwerkdossier dossier van de staats ook het kinderwetje? En heeft u een eerste reactie? Van dit kabinet horen we weinig voorstellen. Gaat er in Europa echt werk maken van het aanpakken van dit eh soort schadelijke functies zoals verslaving van de algoritmes en gaat deze staats de middenmoot verlaten? en hierin voorop lopen. Ik heb ook kennis genomen van uw kinderwetje, maar ik ben mezelf nog wel aan het inlezen daarop.
+
+[39:06]
+Ik zal samen met de betrokken bewindspersoon ingaan op uw specifieke voorstellen. Dat zullen we doen in een gebundelde reactie op uw initiatiefnota en de initiatiefnota van de Kamerleden Seder en Six Dijkstra. Deze brief zal ik in het najaar in de Kamer zenden. Wat betreft het verslavend onderwerp kan ik al wel melden dat ik momenteel in samenwerking met mijn collega van EZ bekijk wat nodig is om dit probleem aan te pakken. Hierbij wordt onder andere gekeken naar een huidig wetgevend kader en mogelijke lang kundes daarbinnen.
+
+[39:36]
+Ehm, ik zal uw kamer even eens dit jaar eh dit najaar informeren over de inzet van de verdere aanpak van verslavend ontwerp en leeftijdsverificatie mede in het licht van de eh aangekondigde Digital Fairness Act. Dan had ik nog een vraag van eh de heer Six Dijkstra. Wil het kabinet het initiatief nemen om code wetgeving nader tot elkaar te of code en wetgeving nader eh tot elkaar te brengen.
+
+[40:04]
+Eh, het is van belang dat we eh om om bij eh Nee, het is het is van belang om al bij het ontwerpen van de wetgeving zicht te hebben op de digitale uitvoering in het sturen op ICT uitvoerbaarheid. En dat is staand eh kabinetsbeleid. In de kabinetsbrede agenda wetgevingskwaliteit die op 6 juni jongstleden is verzonden door de staatssecretaris Rechtsbescherming is opgenomen.
+
+[40:27]
+dat de komende tijd wordt ingezet op eh het bij de departementen vergroten van de bekendheid van de werkmethode ICT uitvoeringsgericht wetgever. Hiermee wordt bij de voorbereiding van wetgeving die mede wordt uitgevoerd door ICT vroegtijdig samengewerkt met kennis modeleurs en ICT ontwikkelaars. Hiermee ben ik aan het einde gekomen van mijn blokje vier. Dank u wel. Ik kijk naar de kamer en ik zie een vraag van de heer van Liessel.
+
+[40:56]
+Eh, ja, voorzitter Dank voor het woord. Ik hoor de staatssecretaris hier over de Idopunten spreken dat hij het wil beleggen, hè, de de centrale regie wil of ja, niet een centrale regie wil. Hij wil het beleggen bij eh eh bij de gemeente, omdat zij kijken en dergelijke hebben, maar we hebben hè, u heeft in de beantwoording over twee verschillende punten gesproken. Er waren de Idopunten waren de eerste waren de eerste punt. En dan had je nog het eh het loket, hè, het gemeenteloket. Dat was Breder. Eh, dat is voor de specifieke hulp, voor de specifieke hulpaanvraag in die regio.
+
+[41:23]
+Maar wanneer we het hebben over de Idopunten, dan gaat het vaak veel algemener en dan gaat het over Bijvoorbeeld de hulp bij aanvraag voor een DigiD. Dan gaat het om eh toeslagen. De mensen die komen daar als eerste bij het loket. Dat dat zijn basisvragen. Het zijn standaardvragen en dat is eh eh beter om dat gewoon uniform te houden en daarbij dus ook een uniforme aansturing te houden en dit niet te beleggen bij de gemeente lijkt ons.
+
+[41:47]
+En ik vraag of u die eh die inzichten wilt delen, want ik maak mij er wel zorgen over hoe de uitvoering gaat zijn wanneer de gemeente hier de regie op gaan voeren. Want dat zijn hè dat zijn dus twee verschillende dingen, twee verschillende loketten. En mijn vraag richt zich specifiek op de IDOP-punten. De staatssecretaris. Ehm ik snap uw zorg en toch eh zit er eh bij de diverse eh gemeenten in de diverse regio's zitten daar verschillen in.
+
+[42:13]
+Ehm eh we zullen er in elk geval zorg voor dragen dat we daar ehm eh ook ook eh nog weer over terugkoppelen in eh in uw richting. Eh zorg willen daar in meenemen, maar we vinden toch dat die gemeente daar eh goed zicht op hebben van eh hè waar dit het beste eh plaats kan vinden. En ehm ik weet van vanuit mijn ervaring in eh in de regio van eh dat dat soms ook op andere plaatsen kan zijn dan eh dan een bibliotheek of een eh of een gemeente.
+
+[42:40]
+omdat je gewoon een betere bereikbaar hebt van een eh van een dergelijk plan.
+
+[42:48]
+Eh meneer van Liessel met een vervolgvraag. Dank voor zijn toch inderdaad een vervolgvraag eh met betrekking, want wij wij vernemen het uit het veld. Het gaat om die bibliotheken. Het dat iDeal punt dat is ontwikkeld vanuit de bibliotheek. Het is eh eh hun kindje. Zij hebben daar het zicht op. Eh u geeft aan dat de gemeenten eh eh daar ook zicht op hebben dat het toch weer verschilt hè, ook met DigiD. Nou, dat lijkt me niet, want DigiD dat is gewoon een een Nederlands ding. Ehm, maar u geeft ook aan dat u daar nog even terugkoppeling op gaat geven.
+
+[43:15]
+Mag ik dat zien als een toezegging dat u toch nog even in gesprek gaat om te kijken in hoeverre dat daadwerkelijk een impact heeft en dat teruggekoppeld aan de Kamer voor dat er eh onomkeerbare stappen gezet worden. Staatssecretaris. Ja, die toezegging kan ik wel doen.
+
+[43:31]
+Ik ook. Eh ja, eh voorzitter, ik mis nog de beantwoording op mijn vraag over de IDO's. Eh ik had namelijk gevraagd wanneer eh de kamer te horen krijgt hoe deze loketten allemaal de steun krijgen die ze nodig hebben. Want we hebben de toezegging vanuit het kabinet dat never ever er nooit niet hun serviceniveau naar beneden kan gaan. En ze zitten nu nog wel te wachten hoe dan dat op te lossen als ze toch nu nog steeds gekort dreigt te worden.
+
+[43:57]
+Ehm dus wanneer horen we dan eh dat ze toch niet gekort worden en hoe anders het kabinet gaat zorgen dat hun serviceniveau niet naar beneden gaat? Staatssecretaris.
+
+[44:15]
+Daar gaan we met gemeente over naar een gesprek en wij houden wel de vinger aan de pols daarbij. Vervolgvraag van mevrouw Katman. Ja, dat dat is precies wat ik net al zei. De de wat in deze commissie heel vaak aan de hand is is dat we best wel fijne antwoorden krijgen. Maar als uiteindelijk dan het gaat over de boter bij de vis, dus eigenlijk wat voor geld wordt er voor uitgetrokken, dan wordt het altijd weer naar voren geschoven.
+
+[44:38]
+En er zijn heel veel loketten in Nederland want die eh ongelooflijk veel werk doen voor 2,5 miljoen Nederlanders die structureel niet uit zaken doen met de overheid komen. 4,5 miljoen Nederlanders hebben er af en toe moeite mee. De Idos is de enige plek, de last resort waar deze mensen zich kunnen melden. En er moet gewoon duidelijkheid komen over hun functioneren.
+
+[44:57]
+En dit kabinet heeft gezegd: "We gaan dat functioneren dat serviceniveau dus niet naar beneden brengen." En dan is het in ieder geval fijn om te horen: "Wanneer hebben we dan zekerheid?" Dus ik heb nu het antwoord van: "Ja, daar komen we op terug." Dat is Dat is gewoon niet meer genoeg. Daarvoor duurt de onduidelijkheid nu gewoon te lang. Dus wanneer hebben we de duidelijkheid? Staatssecretaris.
+
+[45:24]
+Een staat in het coalitieakkoord. En eh op dit moment kan ik daar nog eh geen eh geen datum aanhangen. Maar eh het is in elk geval wel één van de zaken waar we waar we scherp op zijn.
+
+[45:38]
+Dank u wel. Geen vragen meer vanuit de kamer zie ik. Ehm, dit waren uw eh antwoorden. Dank daarvoor. Ik kijk naar de heer Carmans voor zijn beantwoording eerste termijn. Ja, dank u wel eh voorzitter. En eh goed en ook leuk om hier te zijn bij inderdaad de leukste commissie van Den Haag. Het werd al even gememoreerd. Ik vind het altijd leuk om hier te zijn. Er werd al even gerefereerd aan de Social Media richtlijnen. Heb ik als staatssecretaris met veel plezier gedaan, maar ere wie ere toekomt.
+
+[46:03]
+Dat heeft natuurlijk ook mevrouw van der Werffrees en de hele commissie heer Six Dijkstra, een aantal anderen die dat hebben geagendeerd en op de eh eh hebben aangejaagd al die tijd. Dus dat was een mooi eh staaltje samenwerking eh denk ik. Eh goed, nu als minister van EZ mooi om hier eh terug te zijn. Eh eh zeker als het gaat om de digitale economie is het iets wat mij aan het hart gaat. Als ik mevrouw Katman in de wandelgangen spreek, zegt ze altijd: "Je moet vaker vertellen dat je ondernemer bent geweest." Dus dat ga ik ook nu weer doen.
+
+[46:31]
+Eh ik ben inderdaad ondernemer geweest in het digitale domein. Eh dus eh ook eh ehm eh daar heb ik ervaring mee. Eh heb ik veel geluk mee gehad en ik heb dat ook kunnen doen, omdat de digitale infrastructuur in Nederland zo is als die is en tot tot de beste ter wereld behoort.
+
+[46:49]
+Daar mogen we ook best wel trots op zijn en dat ehm als je kijkt naar hoeveel ondernemingen zijn ontstaan eh ook omdat er ooit op een gegeven moment voor het eerst internet werd aangeboden op universiteiten, Coolblue, Just Eat Takeaway zijn zomaar voorbeelden die daardoor zijn eh gegroeid op Nederlandse bodem tot miljarden bedrijven. En en dat heeft allemaal ook mee te maken met eh de de randvoorwaarden die de overheid daarvoor heeft eh gecreëerd destijds.
+
+[47:14]
+Ehm, dus dat is mooi en dat is daar is veel om ook trots op te zijn, maar er zijn natuurlijk ook zorgen geuit ehm over verschillende zaken. En die zorgen zijn terecht. Die snap ik ook. En die heb ik zelf ook, want als het gaat om de economie is er praktisch geen onderscheid te maken tussen de echte economie, zeg ik maar even, en de digitale economie. Dat loopt totaal door elkaar heen. Daarom heb ik altijd een beetje ook moeite te gelijk Ik zeg het zelf natuurlijk eh met de term digitale economie, omdat dat nou eenmaal ook gewoon de economie van vandaag is.
+
+[47:42]
+En dat maakt het ook zo belangrijk om het op heel veel aspecten ook te beschermen. Eh, want het staat onder druk op een aantal aantal punten. Meer dan we zouden zouden willen. En daar zijn natuurlijk ook een aantal vragen over gesteld en die ga ik eh beantwoorden eh voorzitter in de volgende blokjes, namelijk innovatie en Human Capital. Het zijn er drie in totaal. Dan het eh ARK, Algemene Rekenkamer, rapport en eh kopje overig.
+
+[48:08]
+Ik begin bij een vraag van mevrouw eh Katman van de Partij van de Arbeid of van GroenLinks Partij van de Arbeid. Eh over wat zijn de prioriteiten eh in dit geval voor mij eh voor de komende komende tijd. Nou, ik zit inderdaad eh vers anderhalve week op Economische Zaken. Eh, maar ik ben van plan voor komende woensdag eh een brief aan de commissie te sturen, commissie eh EZ en als commissie digitale zaken daar prijs opstelt kunnen we natuurlijk ook eh doorgeleiden naar deze commissie.
+
+[48:34]
+Wat mijn prioriteit prioriteiten zijn in de komende tijd op economisch gebied en dat houdt natuurlijk vanzelfsprekend in ook eh digitale economie, omdat het voor mij gewoon totaal door mekaar eh heen loopt. Eh, dus eh als daar prijzen op wordt gesteld dan kunnen wij dat eh kunnen we dat doen. Ehm, dan wat kan de Kamer de komende maanden nog verwachten op digitalisering ging eigenlijk een beetje eh van hetzelfde laken een pak.
+
+[48:55]
+Eh we we zijn Ik ben nou bij de IJ-fabriek is natuurlijk één voorstel wat we natuurlijk afgelopen vrijdag eh eh hebben voortgebracht met mekaar ehm waar de Kamer ook lang en goed heeft getrokken, denk ik. Nu zaak Hm om dat zo snel mogelijk te gaan realiseren, omdat dit ook weer raakt aan het precies een punt wat mevrouw van der Werff maakte, namelijk die afhankelijkheid en nou en overigens ook andere Kamerleden, maar die afhankelijkheid van cloud diensten die uit Amerika komen. Dat komt simpelweg.
+
+[49:20]
+Kijk, eh eh het het Gegeven dat dat nu het geval is, hè, dat 90% van die clouddiensten door Amerikaanse bedrijven worden aangeboden en dat we daar zeer afhankelijk van zijn geworden. Maar eh eh dat komt omdat we natuurlijk destijds gewoon de boot gemist hebben. Dat heeft heel veel oorzaken. Eh alleen al het feit dat in Europa er wel op papier sprake is van een interne markt, maar natuurlijk niet echt sprake is van een echte interne markt. Dat is voor voor eh start-ups, scale-ups ontzettend lastig om op te schalen in Europa, omdat je gewoon heel veel verschillende regelgevingen hebt.
+
+[49:50]
+Heel veel verschillende eh fiscale eh aspecten, maar ook cultuur. Eh de taal is natuurlijk niet overal hetzelfde. Daar hebben die Amerikaanse eh eh scaleups gewoon zo ontzettend veel meer profijt van. Eh dus daar ligt voor ons echt, dat is natuurlijk ook wat Draghi natuurlijk in het rapport ook zegt, maar wat ik zelf ook heb ervaren als ondernemer die heeft proberen uit te breiden in Europa, het is verdomd ingewikkeld. Eh zelfs als je denkt we spreken dezelfde taal of ehm ehm nou hoe groot kan het verschil tussen Noord-Brabant en en Brabant in België nou zijn?
+
+[50:19]
+Nou, daar kan je je flink op verkijken als Nederlands ondernemer. Nee, maar er zijn natuurlijk succesvolle voorbeelden waarbij het wel lukt, maar talloze voorbeelden waar het waar het in feite strandt. En je hebt dan in feite, nou ze zijn er niet, maar in feite heb je gewoon te maken met exporttarieven, eh handelstarieven eh die er zijn tussen lidstaten als je die regelgeving doorvertaalt naar economische eh negatieve consequenties. Dus daar ligt echt nog een eh enorme opgave.
+
+[50:43]
+Europese Commissie is is met veel druk van ons en Nederland bezig om zoveel mogelijk belemmeringen eh eh weg te halen. Je kent allemaal de EU terrible ten en nog een aantal van dat soort voorbeelden. Eh, maar ook dan zijn we er nog niet en zijn we echt nog niet op het niveau van Amerika. Dus dat is goed om te realiseren dat we dus niet alleen kijken naar naar wat nu hè dat dat dat er een sterke afhankelijkheid is, maar ook goed begrijpen wat de dynamiek is die eronder zit waardoor dat kan gebeuren. En we dreigen met AI natuurlijk ook weer in een zelfde fuik te zwemmen.
+
+[51:13]
+Vandaar die dat die investering heel belangrijk is en wij investeren vergelijk in vergelijking met andere EU-landen echt relatief heel veel al in artificial intelligence. doen we het echt veel beter dan de rest. Maar uiteindelijk heb je ook te maken met landen als Amerika en China die natuurlijk gewoon ja, een veelvoud eh eh investeren dan wat wij investeren als EU. En als Nederland gaan we natuurlijk nooit getalsmatig nooit winnen van China, nooit winnen van eh van Amerika. Dus daar moet je vervolgens ook slim in zijn. Keuzes in maken, welke niche pak je?
+
+[51:41]
+Eh eh waar kies je voor om om sterk in te zijn? Dus dat vergt de komende tijd echt nog veel meer eh strategisch eh denkwerk en ook vervolgens executie om om om daar te komen. We hebben laten zien al ons land dat we dat kunnen. In het verleden met waanzinnig mooie bedrijven die hier zijn ontstaan. Ook met ASML zeg ik er maar bij. Eh hè waar genoeg uitdagingen nu ook geopolitiek aan aan kleven. Maar wat waar we natuurlijk wel mega trots op kunnen zijn dat dat eh uit die Brainport regio is ontstaan.
+
+[52:08]
+Ook door eh goede eh ehm ehm goede randvoorwaarden die door zowel lokale als landelijke overheid eh zijn geschetst. En in dat licht ehm eh brengen wij natuurlijk ook de komende tijd meer beleid uit die allemaal ook altijd een digitale component in zich hebben. Dat is onvermijdelijk het geval. Ehm eigenlijk is dat ook ook mijn vraag op eh of het antwoord op de vraag die mevrouw van der Werf had over de Europese cloud eh alternatieven. Ja, we moeten het sti Ja, we moeten het aanjagen.
+
+[52:37]
+Het is belangrijk, maar het is ook belangrijk om te leren van de lessen die we hebben geleerd van het feit dat we zo afhankelijk zijn geworden van die clouddiensten in Amerika en dat is precies de dynamiek eh waar ik het net over had eh die ja, waar we dat we wat we nu voor kunnen zijn.
+
+[52:56]
+Ja, eh dus dan nog eh vraag wat zijn de dan nog vraag van mevrouw Katman welke innovatiemmogelijkheden voor innovatie en subsidies zijn er voor ICT-ondernemers Nederland? Nou, een een een scala aan eh ehm ehm aan instrumenten WBSO eh is gebruiken heel veel start-ups scale-ups gebruiken dat is zijn is is de sector ook zeer positief over. Was ik zelf ook vroeger als ondernemer.
+
+[53:18]
+MMT allerlei subsidiemogelijkheden uit de MIT-regeling, eh topsector, eh ICT eh biedt ondersteuning ehm ehm en er zijn natuurlijk ook diverse mogelijkheden die de commissie biedt, waaronder Digital Europe Program. Eh dan wat zijn de gevolgen van de informatie innovatievermogen van ICT-sector nu er geen groeifonds meer is. Nou ja, goed, afgelopen jaren zijn er meerdere grote innovatieprojecten mogelijk gemaakt. Ehm, dus ik denk dat dat mooi is.
+
+[53:44]
+En overigens is dat ook die trantjes zijn nog niet uitgeput, dus daar wordt nog steeds in verder geïnvesteerd. Het is altijd moeilijk te zeggen van nou ja, wat heb je dan gemist als je er niet mee verder gaat? Dus eigenlijk praktisch onmogelijke vraag om te beantwoorden. Eh, maar ik denk dat het mooi is dat we eh dat we er echt heel veel goede zaken mee hebben kunnen doen en we nog steeds doen. Hè, dus er gaan nog steeds trantjes doorheen door nog steeds mee geïnvesteerd. En het zal een nieuw kabinet zijn om daar vervolgens weer andere keuzes in te maken mocht dat ehm mocht dat wenselijk zijn.
+
+[54:12]
+Ehm, want ook daar geldt natuurlijk bij eh dat zei de heer Buijs denk ik ook terecht van ja, je moet in in financiële uiteindelijk is het aan de politiek om keuzes te maken en lastenverlichting ook voor het bedrijfsleven is ook gewoon heel belangrijk voor onze economie. Dus eh eh en ons ondernemersklimaat hier. Ehm, dus dan even kijken, in welke specifieke domeinen zijn het tekort aan IS-ers? Nou inderdaad zo'n beetje in elke sector Hè, dus ehm eh daar is ontzettend veel eh krapte eh aan.
+
+[54:39]
+Ehm, zowel in de overheid als in de zakelijke financiële dienstverlening, handel of industrie. Dat zit echt overal. En wat doen de ministeries eraan om samen het tekort eh eh aan te pakken? Nou, mevrouw Katman refereerde zelf wel even aan het Actieplan Groene en Digitale Banen. Daar wordt eh samengewerkt om het tekort aan ISDE'rs en technische in heel Nederland aan te pakken. Is niet eenvoudig, zeg ik er gelijk bij. Hebben we ook niet morgen opgelost. Eh, dat dat vergt echt een lange adem. Dat begint natuurlijk ook vaak bij interesse te wekken. Eh, op de basisschool.
+
+[55:06]
+Ik weet nog dat we in het coalitieakkoord eh nieuwe energie voor Rotterdam, dat we mevrouw Katman en ik samen hebben gesloten. Eh, wat is het? 8 jaar geleden zo'n beetje. Ehm, eh hadden we ook een belangrijk onderdeel daarvan was het stimuleren van ehm eh interesse onder eh jongeren. Dat begint al op de basisschool voor coderen, voor ICT.
+
+[55:26]
+En eh nou, zo vergt dat natuurlijk op ja, eigenlijk eh van jongs af aan tot tot wat ouder goede eh investeringen en ook in het kader van beter het hoofdeproject zijn we daar natuurlijk mee bezig. Ehm, dan hoe staat het met de ambitie van de rijksoverheid om per 2030 1 miljoen e-steers op te leiden? Ehm, deze week komt het eh voortgangsraportaage nog eh eh naar de kamer, dus ik verwijs gemakshalve daaraan.
+
+[55:50]
+Ehm, eh recente cijfers laten overigens zien dat we nu 670.000 eh digitale professionals in Nederland hebben, maar dat is nog steeds te weinig om die digitale transitie daadwerkelijk te realiseren. Dat was de laatste vraag uit het blokje Innovatie en Human Technology. Waarvoor dank. Dan kijk ik naar de kamer en ik meen dat mevrouw van der Werff haar hand al had opgestoken eerder, dus mevrouw van der Werff. Ja, dank eh voorzitter. Ik word wel enthousiast eh van dit antwoord.
+
+[56:14]
+Ehm, want eh ik denk dat de ondernemers die hier naar luisteren dan ook wel iets mogen verwachten van deze ehm minister. En ik ben benieuwd naar wat dat dan eh gaat betekenen. Gaan we dan ook eh die innovatie mogelijk maken door bijvoorbeeld vraag articulatie vanuit de overheid eh in te zetten? Gaan we dan welke concrete stap minister Ja kijk voorzitter er zitten natuurlijk heel veel kanten aan.
+
+[56:42]
+Kijk ik heb geen 5 miljard in mijn achterzak waarmee ik nu eventjes eh AI investeringen kan doen. Dat dat heb ik gewoon dat heb gewoon niet. Maar er zitten natuurlijk heel veel eh zaken aan en ook daar is het weer zorgen voor een goede Europese markt. Die moet je ook zorgen natuurlijk eh en daar moet je ook strategisch in zijn. Dus daar moet je met andere landen afspraken over maken, net zoals we ook doen met die semicon industrie. Ehm omdat het anders gewoon van Europa wegloopt.
+
+[57:05]
+Hè, dus je je ziet dat dat bij in Azië en ehm eh in Amerika hebben ze natuurlijk zowel is de vraag veel groter en wat je dan wat je dan ziet is dat het aanbod dan ook meegroeit. Hè dus dat probeert het bij te benen. In in Europa hebben we gewoon te weinig vraag daarnaar nog. Dus je dus ook als je wilt produceren voor Europa moet je ook zorgen dat die vraag is. Ik denk dat de overheid daar een rol in kan spelen als het gaat om regie. Ik ben wel huiverig als het gaat om een soort en ik weet dat mevrouw van der Ver daar mee mee eens is hoor. Maar om een soort centrale planning te organiseren dat je dat je dat teveel uit de overheid overheid laat komen.
+
+[57:32]
+Want uiteindelijk moet dat wel een economie op zichzelf worden hier in Europa die op op zijn of haar eigen benen kan staan. Eh want anders gaat het uiteindelijk ook niet vliegen want dan ben je er achteraan aan het aan het rennen en en en en heeft dat op in de toekomst ook eh beperkte meerwaarden. Dus ik denk eh dat dat heel belangrijk is. Er zijn verschillende Europese initiatieven om dat te doen. Dus er wordt ook heel doelgericht geïnvesteerd.
+
+[58:00]
+Ik denk voor ons dat de de komende tijd en en eh de commissie komt binnenkort ook weer met meer natuurlijk voorstellen voor het meerjarig financieel kader om te zorgen dat we dat we eh onze belangen daarin zoveel mogelijk geborgd zien. Eh omdat we natuurlijk eh die niet alleen al hebben met die semicondustrie en die high-tech sector maar ook met een potentiële nieuwe sector als het gaat om eh artificial intelligence. Dankjewel. Ehm mevrouw Katman. Ja, dank voorzitter.
+
+[58:26]
+Blij met de beantwoording en ook blij met de ambitie dat er woensdag al een brief ligt over eh de ambities eh als het gaat op het gebied van de economie en ook heel blij. We hebben één wereld. We hebben niet een echte wereld en een digitale wereld, dus we hebben ook één economie. Niet een economie en een digitale economie, maar dat gezegd hebben, dan ga ik het toch ook even over de digitale economie hebben. Ehm ik hoop wel dat we daar iets in terugvinden vinden, want dat is zo'n belangrijk punt, want ik begrijp dat dat dit kabinet niet miljarden heeft eh eh om eh om hier tegenaan te kletteren.
+
+[58:55]
+Maar alleen al als grootste IT-inkoper van alles, de overheid van van van van alles wat wat IT behelst, kan je gewoon die lancerende leidende klant zijn van Nederlands Europees. En dat zou in ieder geval ja, hoop ik toch dat we daar woensdag iets van terug gaan zien. Eh, heel veel ondernemers die ik spreek, zeker toen ik samen met de heer Siks Dijkstra Die Cloudnota's schreef, die zeiden eigenlijk: "We hoeven niet eens geld als we maar weten dat het dat dat we afgenomen gaan worden.
+
+[59:24]
+Als we maar weten dat we ingekocht gaan worden." En dat is op heel veel terreinen. Zo is het eigenlijk ook met al groot bedrijfsleven in Nederland wat bezig is met AI. We waren met deze commissie ook op bezoek vrijdag bij eh eh Kickstart AI waar bijvoorbeeld NS en eh Bol en eh eh KLM eh in samenwerken. Mevrouw Kalma, kunt u naar uw vraag Ja, antwoord dus het gaat erom van het gaat erom dat dat die overheid mee moet doen met dat aanjagen.
+
+[59:49]
+Als de rijksoverheid het goede voorbeeld gaat geven aan ondernemend Nederland laat zien: "We hebben jullie nodig en wij gaan ook afnemen wat jullie maken." Daar gaat al zoveel vanuit. Minister. Ja, kijk daar kan daar kan mogelijk een kans liggen hè. Dat je een beetje als overheid een soort launch and customer eh eh een rol rol pakt in sommige eh in sommige eh ehm eh op sommige treinen of in som bij sommige initiatieven daar kan ik me van alles bij voorstellen. Of dan denk ik dat inkoopbeleid daar kan eh kan de staatssecretaris nog wel wat wat over zeggen.
+
+[01:00:18]
+Ehm, eh want het het het rijksbrede inkoopbeleid is is daar belegd.
+
+[01:00:24]
+Ehm, kijk ja, ik denk dat overheid hier en daar een rol kan spelen, maar ook als je kijkt naar het succes wat we gehad hebben op techgebied, heeft daar ook niet heeft gezorgd voor en en dat dat meen ik oprecht hè, is dat je zorgt voor goede randvoorwaarden, goed internet, goede beschikbaarheid, talent eh eh toegang tot talent eh en dat dat leidt tot een tot een ecosysteem wat ervoor gezorgd heeft die de WeTransfer, eh de de Coolblue, de de Adyen, eh dat soort dat soort bedrijven de bookings, noem maar op, heeft voortgebracht, waar we gewoon ontzettend veel economisch eh voordeel van van hebben gezien de afgelopen jaren.
+
+[01:01:01]
+Alleen wat eh wat ehm eh wat gevaarlijk is is als je is mijn mening als je daar teveel een rol van de overheid in fietst. Dus je moet zorgen dat die randvoorwaarden er zijn. Eh omdat je op een gegeven moment en waarom zeg ik dat? Als je als overheid daar teveel in gaat zitten, op een gegeven moment zal je als overheid er ook weer uit moeten. Om die economie goed te laten draaien. En dan wil je niet een te groot gat hebben ingenomen waardoor eigenlijk een een deel van die boel eh inklapt. Je wil dus dat die economie volwassen wordt.
+
+[01:01:27]
+Je wil dat dat er investeringen ontstaan, dat er vanuit de private sector een sector die vele malen meer kan investeren dan de publieke sector. Hoeveel geld je ook hebt, de private sector die wint het altijd van de publieke sector. Daar zit gewoon veel en veel en veel meer geld. Die moet erin stappen. Overheid moet zorgen voor goede randvoorwaarden en eh en dan kan de economie op gang komen. Dus ik ik ik snap het punt over dat je als overheid misschien soms als launch je customer of strategisch kan inkomen om het een beetje te helpen.
+
+[01:01:52]
+Uiteindelijk moet die economie wel goed zijn werk doen en moet je ook die eh tucht van de markt zijn werk laten doen. Ook om ervoor om ervoor te zorgen en dat is zeker hier een belangrijk punt, dat talent niet gaat vastzitten eh bij StarHubs of ScaleHubs die het niet gaan redden. Dat hebben we in coronatijd veel te lang gezien. Daar is eigenlijk met met met met veel geld hè dus dus de staat heeft natuurlijk heel veel bedrijven gefund en nou ik was blij dat ik ondernemer was in Nederland eh in ter tijd en van corona, is echt supergoed gedaan.
+
+[01:02:19]
+Maar omdat geld natuurlijk best wel vrij beschikbaar was en heel veel businesses doorgegaan terwijl die eigenlijk niet eh toekomsthobstendig waren. En dat zie je nog steeds. Terwijl ook die creatieve destructie dat af en toe een beetje bedrijf. En ik vind dat we daar ook anders daaraan moeten kijken eh dan dat we vinden dat iemand faalt bijvoorbeeld ofzo. Wat dat typisch een beetje is hoe je daar de die hoe je daar naartoe kijkt. In Amerika doen ze dat echt op een heel andere manier. Maar die creatieve destructie is belangrijk om ervoor te zorgen dat talent niet ergens vast gaat zitten.
+
+[01:02:45]
+Want talent is hier nou eenmaal een hele belangrijke bouwsteen voor die economie van de toekomst. Dus ja, ik snap ik snap het punt. Tegelijkertijd ben ik voorzichtig voor een rol van de overheid omdat die markt zelf volwassen moet worden. Mevrouw Kalman, ik wil een punt voor orde maken, want u heeft vier interrupties gehad, terwijl ik drie had eh toegezegd. Ik geef u de allerlaatste kans, maar dan is het wel de laatste voor deze ronde, oké? En één van de interrupties was een vraag die niet beantwoord was. Maar dit is nou net de kruks, de tucht van de markt.
+
+[01:03:12]
+En wat we nou weten als het gaat over eh ehm eh deze markt dat die markt gewoon compleet faalt. Omdat er vijf grote spelers zijn die er al voor hebben gezorgd dat er geen level playing field meer is. En dat alle talent wat we opleiden wordt opgegroeid opgevoed met eigenlijk alleen maar het enige wat ze kunnen is is wat die big tech's kunnen. En dat moeten we heel snel gaan voorkomen. Willen we ook in het kader van onze nationale veiligheid eh meer gaan diversificeren, ons meer afhankelijk maken van big tech.
+
+[01:03:40]
+Dus ze hebben het juist nodig om heel snel partijen gewoon te stimuleren omdat die markt niet functioneert. Omdat die die die big tech partijen die hebben het gewoon eigenlijk al overgenomen en ook eh de de de startups, maar ook scheeps die succesvol kunnen zijn, die kunnen met dat leading en launching customerschap van de overheid niet functioneren, omdat Big Tech by far het altijd zou winnen. Net als dat de investeringsbudgetten, zoals de minister net zelf al zei, van de Amerikanen en de Chinezen, daar zullen wij het ook nooit van winnen.
+
+[01:04:10]
+De minister. Ja, ik ben er niet eens hier dat de markt faalt. Dat is een beetje hetzelfde als je zegt van ik ik verlies een wedstrijd eh ehm eh voetbal. Ehm, maar ik vind dat de de de de spelregels niet deugen. Ja, zo de de de markt die werkt. Alleen wat die markt is namelijk keihard. Alleen die Amerikanen hebben het gewonnen. En het is niet dat de markt faalt. Het is dat dat wij als Europa hebben liggen slapen al die tijd terwijl terwijl eh zij door eh door gingen.
+
+[01:04:38]
+Dit is precies het verhaal van Draghi. Dat de concurrentiepositie van van Europa gewoon door ontzettend veel bureaucratie intern allemaal verschillende regelingen eh in een interne markt gewoon niet ehm eh heeft kunnen concurreren met de Amerikaanse markt. Als je het vergelijkt met met 25 jaar geleden. Toen gingen Europese bedrijven gelijk kop aan kop met Amerikaanse bedrijven als het gaat om de meest waardevolle bedrijven in eh de wereld. En met het meest waardevolle betekent het ook meeste banen, meeste welvaartscreatie voor betrekkelijke of eh betreffende economieën. Noem maar op.
+
+[01:05:08]
+Inmiddels zijn die Amerikanen totaal weggelopen van ons in positieve zin voor hen. Het BBP van eh van Amerika is 20% harder gegroeid dan het BBP in Europa. Ze hebben dus de techstrijd totaal gewonnen. Niet met 1-0, 2-0, 3-0, maar met 17 of 20, 21-0. Dus en dat is de reden waarom wij tot de op deze positie staan. Dus we kunnen dan vervolgens niet blij zijn met de uitkomst. Ben ik ook niet. Ben ik ook niet, maar ik ga niet de schuld geven aan het feit dat het dat het dat het eenmaal zo gelopen is.
+
+[01:05:35]
+We moeten denk ik ook kritisch zijn op onszelf dat we het zover hebben laten komen. En er ligt nu een kans op dat er een volgende disruptieve technologie zich aan aan dient. Gaan we dan weer hetzelfde doen? Eh en eh eh en en over 20 jaar concluderen dat we te laat waren of gaan we nu handelen? Dat is de keuze die nu voorligt. En natuurlijk moet je kijken wat je kan doen ten aanzien van het minder eh eh afhankelijk maken van eh eh Amerikaanse bedrijven. Maar het is heel belangrijk om de dynamiek die erachter zit wel te begrijpen.
+
+[01:06:03]
+En dat heeft er eentje te maken met het feit dat die Europese markt, interne markt feitelijk niet werkt als een echte interne markt, maar dat er teveel beleeningen in zitten, dat er teveel bureaucratie is. En als je dat probleem niet oplost, kan je als overheid stimuleren, aanjagen wat je wil, maar dan ga je het alsnog niet winnen. Ik denk dat u door kunt met eh uw tweede blokje. Algemeen Rekenkamer.
+
+[01:06:28]
+Dank voorzitter. Dan ehm Hm. Twee vragen over de ehm eh inderdaad het rapport Algemene Rekenkamer eh van allebei van de PVV. Eh dat de eerste gaat over de specifieke ICT gerelateerde zaken dat dat niet werd benoemd voor EZK. Ja, dat is natuurlijk ook weer het lastige om een beetje een soort rode draad in mijn betoog. Van ja, dat is niet met een draadje te knippen. Eh ja, natuurlijk heel veel is digitaal.
+
+[01:06:53]
+Dus ja, zeg maar als wij computerschermen kopen, is dat dan een digitale aangelegenheid of eh ja, dus er zit al er zitten zoveel digitale componenten aan wat we doen op SK of in elke eh begroting. Eh dus dat is heel lastig om die ICT uitgave daar uit te knippen. Ehm dus ja, dat is de het simpele antwoord op eh op die vraag. Eh en dan eh vraag twee over het probleem met autorisatiebeheer. En wat we daaraan doen.
+
+[01:07:21]
+Ehm nou, maak maak zal ik niet al te veel hoog over blijven ehm eh over eh nou ja, hoe hoe je dat in enig enig perspectief concretief kan plaatsen die aanbeveling van de algemene rekenkamer, maar concreet wordt nu gewerkt aan de aanpassing in software waar de logging van wijzigingen wordt geregistreerd in het inrichten van tweedelijns toezicht op de beheerprocedure. Dus dat dat zijn we er nu concreet. mee aan het doen. Ehm, en dat was het kopje ARK. Waarvoor dank ook weer.
+
+[01:07:48]
+Kijk even naar in specifiek de heer Valise of hij vragen heeft. Ik zie hem twijfelen. Ja, heer Valise. Ja, voorzitter, dank voor het woord. Dank voor het balletje. Ehm, ja, u u u geeft aan het is heel moeilijk op te knippen, maar ja, op het moment dat dat dus aanbeveling worden gedaan eh ook al is het maar een monitor eh eh eh het wordt wel in de eh eh hè in de in in de journaalposten opgenomen en daar kan die knipjaar gemaakt worden. Dus het kan wel inzichtelijk gemaakt worden vanuit de boekhouding.
+
+[01:08:17]
+Minister. Nee, dus dus kijk dat als je dat zou willen doen, dan zou je dat eh dat gezamenlijk met alle departementen op dezelfde manier moeten doen. Kijk, ik zeg ik kijk één van de dingen die ik van mevrouw Katman vroeg mij ook ehm ja, wat wat ga je de komende tijd doen? Ik vind dat dat is eigenlijk een hele terechte vraag hè, dus van de economie is ook ja, die eh het bedrijfsleven heeft geen boodschap aan een demissionair kabinet. Economie gaat ook gewoon volle toeren door. Eh dus dus Ja, die hebben er niet zoveel eh aan. Dus eh we moeten daar blijven handelen.
+
+[01:08:46]
+Ehm één van de dingen die ik ga doen in dat licht, nou dat kan ik alvast verklappen, is eh aanpakken van regeldruk. Regeldruk, kijk ondernemers werken hard, maar hebben ook maar 24 uur in een dag. En als zij meer uren moeten besteden aan formulieren invullen en en compliance zijn aan een bepaalde wetgeving, dat is allemaal uren die ze niet kunnen besteden aan ondernemen, aan groei, personeel aannemen, noem maar op. Allemaal zaken die belangrijk zijn voor de Nederlandse economie om uiteindelijk ook onze publieke voorzieningen eh eh eh eh van te betalen. Maar die regeldruk, die geldt ook voor ons departement.
+
+[01:09:16]
+Ik heb 1100 ambtenaren op het ministerie van Economische Zaken die keihard werken om die economie in de benen te houden, bedrijven te helpen die het lastig hebben, eh innovatie kredieten te ontwikkelen voor voor ondernemers. Allemaal dingen waar de Kamer om vraagt. Maar tegelijkertijd vraagt de Kamer ons ook heel veel over wat je zou kunnen scharen onder regeldruk of wat vergelijkbaar is eh van ondernemers. Want dezelfde mensen die dit allemaal aan kaart moeten brengen, moeten werken aan betere ICT eh eh bij de overheid, betere dienstverlening, voor ondernemers en noem hem maar op. Dus die spiegel wil ik wel voorhouden.
+
+[01:09:46]
+Van we willen met alle liefde alles in kaart brengen, allemaal prima, want de Kamer is uiteindelijk de baas eh eh eh in dit land. Maar het is belangrijk om te realiseren dat dezelfde mensen die elke dag werken voor ondernemers en voor de economie in dit land dit soort rapporten moeten gaan maken voor de Kamer. Dus het is goed om goed om dat eh in het achterhoofd te houden, want het is echt inmiddels ontzettend veel wat wij elke keer een rapportage aan de Kamer moeten sturen.
+
+[01:10:08]
+Eh, uiteindelijk eh luisteren we natuurlijk altijd naar wat de Kamer doet, maar ik wil dat de Kamer die natuurlijk de economie eh eh en de digitale economie een warm hart toedraagt eh wel even meegeven. Oké, vervolgvraag van de heer Valise. Eh ja, voorzitter, dank eh eh eh minister voor deze beantwoording echter. Ik heb daar toch een heel ander beeld bij wanneer het gaat om hè bonnetjes worden ingeboekt hè. Er wordt ergens aan gekoppeld, er wordt aan de journalpost gekoppeld, die journalpost die kun je gewoon bij elkaar filteren.
+
+[01:10:36]
+Dat Dat ver Dat is niet zo'n uitgebreide exercitie. Het Het Het moet allemaal verantwoord worden. Het zit allemaal in het systeem. Het is een uitdraai, waar je op kunt filteren. Eh het het hoeft niet zo gecompliceerd te zijn. Dat is alles wat ik ermee wil zeggen. Dus als je iets koppelt aan een project, dan is dat een project, dan kun je dat daaraan koppelen en dan zet je dat in de journaalpost. Eh op het moment dat het is een een een aanbesteding met betrekking tot een specifiek onderdeel in het eh in het systeem, ja, dan is dat ook gekoppeld aan het systeem. Het is gelieerd. Alles is gelieerd aan elkaar. Alles zit in de journaalposten. Alles zit dus in het systeem.
+
+[01:11:06]
+Dat Het kan niet zo moeilijk zijn om die dingen gewoon even uit te filteren. Minister. Kijk, je kan je kan natuurlijk zeggen alles wat waar de term ICT in voorkomt, dat doen we. Maar dan heb je natuurlijk en dan en dan dan doe je dat. Maar dan heb je natuurlijk by far geen overzicht van wat de daadwerkelijke ICT-uitgaven zijn. Dus wat heb je dan aan die informatie? Dat vraag ik me dan af. Want er zit in zoveel zaken zit een ICT-component. Die moet je dan eigenlijk wat je dan zou moeten doen is elke elk bonnetje zou je moeten beoordelen, zit daar een ICT-component aan. Nou, ik zou niet weten hoeveel mensen ik daarvoor zou moeten inhuren.
+
+[01:11:36]
+Eh ja, het lijkt me niet verstandig om dat te doen. En als we zeggen van nou, we zoeken het op een we doen een query en we zeggen nou, alles overal waar ICT in voorkomt of IT. Ehm eh dat dat dat dat gaan we dan optellen. Nou en dat kost ook al heel veel heel veel werk. Maar stel dat zou kunnen, wat heb je dan vervolgens aan als je weet dat er heel veel andere uitgaven zijn die allemaal in steek componenten hebben? Dus dan dan is het wel even de vraag waar zijn we met elkaar naar op zoek?
+
+[01:12:03]
+Laatste vervolgvraag van de heer Verliezen. Ja, het is geen interesse zich sprongen heeft kleine opheldering, want ik heb hier over journalpost. Het gaat niet over een kasboek rekening, maar wat specifiek rekeningnummer. Het het Het is op eh op op een eh een lage structuur. Het is op een laag level, niet op het allerhoogste level. Dus daar zit die uitsplitsing wel in voor een groot deel. Daarvan zeg ik: dat kan niet zo moeilijk zijn. Yes. Ja, voor ja, en dat is het dus wel.
+
+[01:12:28]
+Want want ook daar je kan niet door met een dun lijntje scheiden wel wat wel een ICT component heeft of niet, want al alles heeft in feite een ICT component. Dus dan nogmaals is de vraag: waar zijn we dan met elkaar naar op zoek? En het is niet alsof wij eh proberen te frustreren of of dat moeilijk probeer te doen. Ik probeer alleen wel te zorgen dat de mensen die beperkt aantal mensen hè, 1100 is geen groot departement economische zaken.
+
+[01:12:51]
+Ehm, het dat die werken aan aan het werk voor ondernemers, voor de economie, voor innovatie, voor onze toekomstige welvaart. Dat is wat ik graag wil. Dus ook daarvoor, kijk, ik ik ben me van bewust dat ik dat het niet de bedoeling is dat ik de kamer een spiegel voor hou, maar uiteindelijk willen we met z'n allen wel hetzelfde. Namelijk een sterke innovatieve veerkrachtige economie. En daar sta ik voor ook voor mijn mensen die daar elke dag aan werken.
+
+[01:13:15]
+En ja, op het moment dat ik het idee heb eh eh eh dat ze eh een tijd beter kunnen besteden aan ander dingen zal ik dat ook zeggen. En het is dus niet zo ingewikkeld het is niet zo simpel als het lijkt op die manier, omdat je ook als je het op die manier doet niet ja, niet een beeld krijgt wat we in de verste verte aan ICT in totaal uitgeven, omdat die componenten gewoon door elkaar heen lopen. Maar volgens mij val ik in herhaling eh voorzitter. Dank u wel.
+
+[01:13:41]
+En u kunt volgens mij, ik kijk naar de kamer, doorgaan met uw laatste blokje. Dan eh de nog een aantal ehm uit de categorie overig. Eh hoe staat het met de motie van de GroenLinks partij van de Arbeid eh om samen met Telecom bedrijven een plan te maken voor betaalbaar internet. Komen er nog de de nog de uitkomsten nog steeds in het derde kwartaal van dit jaar? Ja, die komen nog steeds in het derde kwartaal van dit eh van dit jaar. Ehm, dan eh even kijken hoor.
+
+[01:14:11]
+De een brief dat er rond de zomer zou er nog een een een laatste stand van zaken komen. Eh, even kijken eh en de vraag was of dat voor de zomer is, maar dat is inderdaad dat dat had te maken met de motie Katman. Dat is inderdaad nog steeds rond de zomer. Dus niet voor de zomer, maar vlak na het zomerreces zal dat zijn.
+
+[01:14:31]
+En dan tot slot implementatie pauze AI verordening over de telecomraad en waarom ik de motie van de leden Mart America en Vermeer weiger uit te voeren. Nou ja, die motie die wordt natuurlijk gewoon uitgevoerd vanzelfsprekend tijdens de telecomraad is een oproep gedaan aan de commissie om de voortgang te maken met de reeds aangekondigde omnibus voor digitale wetgeving. Daar wordt AI dus in meegenomen. En ik verwacht dat deze omnibus in oktober klaar is.
+
+[01:14:57]
+Ehm en het kabinet houdt de verlaging, ik had het daarnet wel even van last druk hoog op de agenda, niet alleen nationaal, maar ook Europees. En de motie vraagt daarnaast waar relevante pleit voor implementatiepauze, waarbij ook expliciet aandacht moet worden besteed aan de AI verordening. Nou, een aantal lidstaten hebben tijdens de telecomraad gepleit voor het verkennen van de implementatiepauze, maar ook een flink aantal lidstaten hebben daar zich fel tegen uitgesproken. En het het kabinet acht het nu niet relevant om te pleiten voor implementatie pauze zoals voor de AI bevordering.
+
+[01:15:26]
+En ik zal ook uitleggen waarom, omdat er ook risico's kleven aan een implementatie pauze. Eh niet alleen kan het belangrijke voorbereiden voorbereidende werkzaamheden vertragen. Het zorgt ook voor rechtsonzekerheid, wat juist vertrouwen in en innovatie in AI kan eh verlagen. Je hebt duidelijke kaders nodig. Dat is belangrijk ook voor het bedrijfsleven om duidelijke kaders te hebben. En daarnaast is het ook zo eh dat heb ik ook gemerkt rondom de berichtgeving eh rondom de AI fabriek. Het is ook belangrijk om draagvlak voor investeringen in AI te behouden. houden.
+
+[01:15:56]
+Eh, en daar zitten namelijk ook gewoon gevaren aan AI. Er zitten ook mindere kanten aan AI zoals dat ook het geval is met technologie. Dus het is belangrijk ook om voor eh hè de de brede maatschappelijke draagvlak ehm om dat eh in te kaderen. Dus daar ben ik op zichzelf niet voor, maar waar het gaat om ehm eh nou ja, een een een omnibus waarbij er gekeken wordt naar onnodige lasten of waar we het kunnen verminderen. Dat is natuurlijk precies het pad waar we nu eh nu op zitten. Dank u wel.
+
+[01:16:25]
+Kijk naar de kamer of er nog vragen zijn, geen vragen. Ik zie de heer van Liesse gaat nu wel richting zijn laatste vraag, maar goed. Ik ben Coulan ik sta toe. Ja, het is pas mijn derde interruptie. Een vervolgvraag telt niet als interruptie. Dat eh maar dat is een andere discussie. Nee, toch eh even nog even terugkomend op het feit van die eh eh pauzeknop in de AI dus wordt nu ook opgeroepen door de eh eh ministerpresident van Zweedse om een pauzeknop eh eh in te drukken.
+
+[01:16:53]
+Eh de oproep wordt steeds groter. Niet alleen vanuit het veld, maar ook vanuit de diverse regering. En nog staat deze minister eh niet voor zo'n pauze. Ehm waarom gaat u dit niet steunen? Minister. Dat heb ik net gezegd waarom ik het eh niet ga steunen. Kijk, dus eh ja, ik kan het nog een keer herhalen, maar dat kijk ja, en dat de minister-president van Zweden wat zegt, ja, dat dat is vooral voor zijn rekening. Die zegt wel andere wel meer dingen die waar wij niet per se altijd eh mee eens zijn.
+
+[01:17:23]
+Wij maken altijd onze eigen afweging. En dat doen we hier ook. Meneer Valies, dit is echt uw afrondende vraag. Ja, het is een afrondende vraag en een constateren, want de kamer heeft gewoon breed aangegeven van luister, er moet even een pauzeknop ingedrukt worden. En dit wordt gewoon eh door dit kabinet naast zich neergelegd en dat vind ik toch wel een eh een een eh bijzondere eh eh kwestie en eh ja, ik ga me nog even verder nog op bezinnen. Minister.
+
+[01:17:49]
+Ja, dan dan kijk, ik heb heel goed naar dat dictum gekeken en we hebben hem gewoon eh uitgevoerd binnen de de kaders ook die die motie heeft gegeven. En die zegt niet: "Druk nu een pauzeknop in." Dat stond niet in de dikte. Dank u wel voor de beantwoording eh eerste termijn. Dan zijn wij eh op het einde gekomen van de eerste termijn en Ehm, gaan wij door naar de tweede termijn. Ik stel voor, omdat we ook goed op tijd zitten, dank aan de kamerleden en dank aan de winstpersonen om eh goed en snel te beantwoorden.
+
+[01:18:19]
+Ehm, sta ik toe om 3 minuten spreektijd eh u aan te bieden voor de tweede termijn, zodat u eh moties kunt indienen of nog reacties kunt vragen. Ik kijk eerst aan mijn linkerhand mevrouw Katman. Excuses, de heer van Maaren. Kan ik twee 2 minuten schorsing krijgen? U kunt 2 minuten schorsing krijgen. Dan schorsen we tot eh nou laten we er eh 5 minuten van maken, dan is het 45. 20 uur 45 8:45.
+
+[01:19:07]
+3 9 1 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 2 3 9 4 1 3 9 1 4 1 3 9 4 2 0 3 9 4 1 3 9 4 2 0 3 9 1 4 1 3 9 4 2 0 3 9 4 1 3 9 4 2 0 3 9 1 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 2 3 9 4 1 3 7 1 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 3 9 4 1 2 3 9 4 1 2 3 9 4 1 3 7 1 2 1 3 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 7 1 2 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 9 1 4 1 5 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 1 3 7 1 2 9 0 6 3 9 6 Oké, we gaan weer verder met de vergadering.
+
+[01:24:25]
+Dames en heren, mag ik even aandacht? We gaan weer verder met de met de vergadering en we zijn geëindigd en we gaan nu beginnen eh met het constateren dat we aan de tweede termijn gaan beginnen. Ehm en ehm sorry, dat kwam er heel raar uit. Maar mevrouw Katman die heeft het eerste woord. Gaat u gang. Ja, dank voorzitter. Ook dank voor dit debat. Dank voor de beantwoording. Ik heb een viertal moties, dus laat ik snel beginnen.
+
+[01:24:50]
+De Kamer hoort de beraadslaging constaterende dat de Rijksoverheid in grote mate afhankelijk is van Microsoft Exchange voor haar mailverkeer, maar technische ondersteuning voor deze dienst op 14 oktober 2025 afloopt. Overwegende dat dit tot gevolg kan hebben dat de Rijksoverheid straks haar mailverkeer niet meer in eigen beheer heeft als er geen keuze wordt gemaakt over het vervangen van deze dienst.
+
+[01:25:09]
+Verzoekt de regering om het mailverkeer van alle overheidsorganisaties in eigen beheer te houden met als uitgangspunt dat de afhankelijkheid van Amerikaanse techleveranciers niet groeit en gaat over tot de orde van de dag, mede ondertekend door het lid Six Dijkstra. Ik heb gemeend deze motie met mijn collega toch te moeten indienen, omdat ik het eens ben met de beantwoording van de staatssecretaris, maar ook in dat antwoord geen keuzes geldt. Dus we weten dat het misschien nog om on premise kan dat bepaalde diensten doorlopen, maar dat betekent ook dat je er meer geld aan uit moet geven en je moet al dingen voorbereiden.
+
+[01:25:37]
+En dat loopt al 14 oktober af, dus die keuzes moeten nu gemaakt worden. En daarom toch de motie al was ik blij met het deel van het antwoord van de staatssecretaris. De Kamer goedgekeurd op beraadslaging overwegende dat het uitvoeren van digitaal digitaliseringsbeleid vraagt om een investeringsagenda voor de coördinerend bewindspersoon. constaterende dat een samengevoegde investeringsagenda is toegezegd als onderdeel van de Nederlandse digitaliseringsstrategie. Verzoekt de regering om nog voor de verkiezing met een voorstel te komen voor een investeringsagenda voor digitalisering en gaat over tot de orde van de dag.
+
+[01:26:07]
+En deze kan misschien ook nog wel gewoon aangehouden worden, want volgens mij komt hij misschien mogelijk ook nog wel in de toezeggingenlijst voor. Ehm de Kamer hoort de beraadslaging constaterende dat uit het onderzoek van de Algemene Rekenkamer blijkt de Rijksoverheid voor een groot deel afhankelijk is van externe inhuur van ICT-personeel, overwegende dat er reeds maag regels worden genomen om voldoende ICT'ers op te leiden onder andere in het actieplan goede en digitale banen en de Nederlandse digitaliseringsstrategie.
+
+[01:26:32]
+Verzoekt de regering om een plan uit te werken voor het gefaseerd verhogen van het aantal ICT-personeel en vaste dienst binnen de Rijksoverheid en duidelijk te maken hoe loopend beleid bijdraagt aan het opleiden van het soort ICT'ers waar het grootste tekort aan is en gaat over tot orde van de dag mede ondertekend door het lid Siks Dijkstra.
+
+[01:26:46]
+De Kamer goedgekeurd raadslaging constateren dat informatiepunten digitaal overheid volgens onderzoek van het ministerie van Binnenlandse Zaken enorm worden gewaardeerd, maar ook kampen met structurele onderfinanciering, overwegende dat door het afschaffen van specifieke uitkeringen aan gemeente en de bezuiniging van 10% op gemeentelijke subsidies IDO's eerder zullen verdwijnen dan dat er nieuwe loketten bijkomen. Verzoekt de regering om structureel extra middelen beschikbaar te stellen voor de informatiepunten digitale overheid en dit voor de komende jaren te dekken uit de vrij te besteden middelen ten behoeve van betere overheidsdienstverlening.
+
+[01:27:15]
+Verzoekt de regering om een voorstel uit te werken dat tenminste tegemoetkomt aan de daadwerkelijk gemaakte de kosten van Ido's en dit te verwerken in de begroting voor het komende jaar en gaat over tot de orde van de dag.
+
+[01:27:28]
+Dankjewel. En nog binnen de tijd ook. Het is goed gedaan. Heer Sik Sikstra. Dank u wel, voorzitter. Ook van mijn kant vier moties. De eerste motie gaat over een mensgerichte digitale overheid. Daarvan zei de staatssecretaris: "Dat is voor een deel al eh staand beleid." Maar horende hoeveel burgers nog steeds last hebben met deze specifieke aanbevelingen die ook terugkomen in de petitie van de Hogeschool van Amsterdam, denk ik dat een wettelijke versteviging wel op zijn plek plaats is.
+
+[01:27:51]
+Daar met deze motie de Kamer gehorde beraadslaging verzoekt de regering om de principes van een mensgerichte digitale overheid wettelijk te verankeren en daarbij aansluitend op de aanbevelingen uit de petitie van de Hogeschool van Amsterdam 1. Te zorgen voor uniforme regels voor briefadressen zodat dak- en thuislozen niet op voorhand worden uitgesloten van sociale voorzieningen. Twee, te zorgen voor bemenste overheidsloketten waarbij de één loket belofte niet alleen digitaal, maar ook fysiek kan worden gerealiseerd. Drie, te zorgen dat taalniveau en beheersing geen drempel zijn. En vier, te zorgen dat digitale loketten eenvoudig te benaderen zijn en dat gaat over tot de orde van de dag.
+
+[01:28:19]
+Bij de ingenieur door de heer van Nispen, van der Werff, Seder en Katman. De Kamer hoort de beraadslaging overwegen dat de wijze waarop wetgeving wordt vertaald in programmeercode in de praktijk een vorm van wetsuitleg is waarop niet of nauwelijks gestuurd wordt door de wetgever. De zaakjes code is Overwegen dat de wetgever vaak nog te weinig overziet wat de ICT uitvoerbaarheid van wetgeving is. Overwegen dat er al meerdere initiatieven bestaan die voorstellen om ICT implementatie een onderdeel uit te laten maken van wetgeving zoals wendbaar wetgeving of leg-ops.
+
+[01:28:45]
+Verzoekt de regering met een voorstel te komen hoe het component ICT implementatie beter en structureel geïmplementeerd kan worden in het wetgevingsproces van de regering en het parlement. Zodanig dat het zowel bijdraagt aan de kwaliteit van wetgeving als dat het recht doet aan de werkelijkheid van de uitvoering. En gaat over het orde van dag mede ingediend door mevrouw Katman. De Kamer gehoord de beraadslaging overwegen dat veel wet en regelgeving totaal onaanvolgbaar is voor burgers en de complexiteit bovendien ten kosten gaat van de effectiviteit en wendbaarheid van uitvoering.
+
+[01:29:08]
+Verzoekt de regering samen met uitvoeringsinstanties te verkennen hoe of en hoe generatieve AI gebruikt kan worden om complexe wet en regelgeving substantieel te vereenvoudigen en de Kamer over de bevin bevinningen te informeren. Het gaat over de orde van dag mede ingediend door mevrouw Katman. De Kamer gehoort de beraadslaging overwegen dat als de overheid gebruik maakt van soeverein en generatieve AI in plaats van Big Tech oplossingen. Dit ten gunste komt van onze weerbaarheid, onze strategische autonomie, de privacy van onze burgers en de volwassenheid van de Nederlandse Europese markt.
+
+[01:29:33]
+Overwegen dat de gezamenlijke inkoop van soevereine AI tools bovendien in veel gevallen significante goedkoper uitpakt dan het afnemen van pakketten van hyperscanners. Verzoekt de staatssecretaris tenminste jaarlijks aan de Kamer te rapporteren via de voortgangsraportage van de NDS, hoe de overheidsbrede samenwerking op de soevereine AI vordert en daarbij specifiek inzichtelijk te maken hoe gehoord gegeven aan het NDS uitgangspunt om zoveel mogelijk gebruik te maken van in in Europa ontwikkelde toepassingen en open source oplossingen en gaat over tot orde van de dag mede ingediend door van de Werf Zeder en Katman. Dank u wel.
+
+[01:30:02]
+Ook dank. Eh, ik ga door naar de heer van Liessel. Ja, voorzitter, dank voor het woord. Eh, dank aan de staatssecretaris en de minister voor de beantwoording van de vragen aan mij en aan zijde. Eh, vragen van de staatssecretaris eh zijn al voldoende beantwoord. Eh, dank ook voor de toezegging met betrekking tot de aansturing van de IDOP-punten. Dat eh wordt gewaardeerd.
+
+[01:30:22]
+Eh, de eh minister ehm daar ben ik nog niet helemaal mee uit, want dat gaat volgens mij een kleine spraakverwarring zijn omdat de minister uitging van een al gehele pauzeknop waar ik niet over gesproken heb, want ik heb het gesproken over een pauzeknop op de inactieve delen. Dus dat zit op onderdelen van die eh AI act wellicht tot u daar nog even aan komt reflecteren en voor ons zover mijn inbreng voor de tweede termijn. Dank. Dank je wel, mevrouw van der Werf. Dank eh voorzitter. Ik ben goed gemutst na dit debat.
+
+[01:30:51]
+Ik zie een eh nieuwe Disa ploeg zitten die er eh eigenlijk wel zin in heeft. Eh met een staatssecretaris die zegt dat hij niet zo van op karren eh zitten is, maar die ze liever trekt. Eh en een minister of moet ik zeggen ondernemer die werk wil maken van AI eh start-ups en scale-ups en ook met veel passie spreekt eh over de noodzaak van Europese innovatie. En dat zijn goede teksten, voorzitter.
+
+[01:31:13]
+Ik bestuur bespeur daar ook wel een klein kloofje met de VVD-fractie die toch vooral eh wat afhankelijker wil blijven van de Amerikaanse techbedrijven, maar daar gaan we het ongetwijfeld de volgende keer weer over hebben met de heer Buijen. Ehm eh voorzitter, ik wil nog één ander punt maken, want Big Tech hoort niet op het schoolplein en in in de pauzes. En leraren die moeten zich kunnen richten op hun geweldige lessen. Eh, niet op het eh oplossen van Snapchat ruzies.
+
+[01:31:40]
+En daarom heb ik één motie om scholen weer een plek te maken waar kinderen kunnen leren, groeien en sociaal contact hebben. Voorzitter, de Kamer gehoorde beraadslaging constaterende dat het toenemende smartphone gebruik onder jongeren leidt tot verminderde concentratie, leerprestaties en sociale interactie en dat scholen signaleren dat de constante aanwezigheid van telefoons in de buurt leidt tot afleiding stress en sociale onrust.
+
+[01:32:04]
+constaterende dat scholen sinds 2023 afspraken hebben gemaakt om telefoons te werpen uit de klas, maar dat deze afspraken leiden tot verschillen in uitvoering en nog steeds veel ruimte laten voor de invloed van grote techbedrijven in het schoolgeblauw. Overwegende dat jongeren op school nog steeds voortdurend worden blootgesteld aan verslavend ontworpen apps en algoritmes, terwijl juist daar rust, concentratie en goede sfeer centraal zouden moeten staan en dat een duidelijke landelijke norm scholen kan helpen die te waarborgen.
+
+[01:32:31]
+Overwegende dat voor voorbeelden in binnen- en buitenland laten zien dat het weren van mobieltjes gedurende de gehele schooldag positieve effecten heeft op het welzijn, de concentratie en de leerprestaties van leerlingen. Verzoekt de regering om de huidige afspraken voor mobieltjes op school aan te scherpen naar thuis of in de kluis waarbij mobiele telefoons gedurende de gehele schooldag niet toegankelijk zijn voor leerlingen, tenzij strikt noodzakelijk voor het onderwijs of op medische indicatie en gaat over tot de orde van de dag.
+
+[01:33:00]
+En deze motie is mede ondertekend door collega Six Dijkstra, collega Katman en collega Seder hier vanavond helaas niet aanwezig. Dankjewel. Ehm, zou mevrouw Katman opnieuw willen vragen of zij even tijdelijk het voorzitterschap willen overnemen. Ja, nu al een interruptie. We gaan eerst even netjes naar de inbreng van de heer Buizer van de VVD. Ja, dankjewel en ook mijn dank aan de bewindspersonen voor de goede beantwoording van de vragen.
+
+[01:33:28]
+Ik heb toch de behoefte ondanks goede beantwoorden om eh een aantal zaken toch eh wat te proberen verder te brengen samen met de regering. Eh dan zowel als het gaat over de toekomst van de financiële administratie en de manier waarop wij als eh Kamer de begroting eh tegemoet kunnen treden, maar ook over de manier van samenwerking tussen de vier hoofd kern eh agentschappen die met de digitalisering bezig zijn. Dus ik ga daar twee moties voor indienen.
+
+[01:33:54]
+De eerste: de Kamer gehoort de beraadslaging constaterende dat er voor voor de vaste Kamercommissie voor digitale zaken geen begroting beschikbaar is over de uitgaven voor digitalisering bij de hele rijksoverheid. Overwegende dat departementen niet gestandariseerd bijhouden wat zij uitgeven aan digitalisering, waardoor een overzicht ook onmogelijk te creëren is.
+
+[01:34:12]
+Overwegende dat de Kamer hierdoor zijn controlerende taak voor de rijksuitgaven op het gebied van digitalisering niet goed kan uitvoeren, overwegende dat er momenteel geen stelsel van afspraken is voor de financiële administratie van digitalisering bij departementen en dat het Ministerie van Financiën momenteel een programma toekomst financiële administratie ontwikkeld, overwegende dat de Kamer de regering verzocht heeft de de Kamer te informeren over de Nederlandse digitaliseringsstrategie en de en dat deze kaders zou kunnen bieden voor een stelsel van regels voor financiële administratie bij de departementen.
+
+[01:34:42]
+Verzoekt het kabinet voor prinsesdachten onderzoeken en de kamer te informeren of er gebruik makende van de NDS tot stelsel tot een stelsel van regels voor de financiële administratie bij departement gekomen kan worden, waarbij de digitalisering wel is meegenomen en gaat over tot de orde van de dag, Buizen en Katman.
+
+[01:35:00]
+De kamer gehoord de beraadslaging constateert dat er momenteel meerdere agentschappen actief zijn die gezamenlijk verantwoordelijk zijn voor de digitalisering van de Nederlandse overheid, zoals DICTU, SSC, ICT, Logius en RVIG, overwegende dat dit kan leiden tot versnippering en mogelijke inefficiënties in de dienst verlening aan inwoners en ondernemers. Overwegende dat er volgens de Algemene Rekenkamer nog 3.246 vacatures zijn voor ICT'ers binnen het rijk.
+
+[01:35:23]
+Overwegende dat bij een werkbezoek aan Estland is geconstateerd dat daar één centrale digitaliseringsdienst bestaat die de gehele overheid ondersteunt op het gebied van digitale identiteit, informatiehuishouding en digitale dienstverlening. Verzoekt de regering in samenwerking met de betrokken agentschappen te inventariseren welke mogelijkheden er zijn voor een meer geïntegreerde of gezamenlijke aanpak inclusief een mogelijke samenvoeging. Verzoekt de regering om de Kamer te informeren over de uitkomsten van deze inventarisatie en gaat over tot de orde van de dag. Buizen.
+
+[01:35:54]
+Dank u wel, voorzitter. En dan geef ik het voorzitterschap weer terug aan de heer Buizen. Ja, dank u wel, voorzitter. Ehm en gaan wij door. Ehm ik kijk even naar de bewindsplieten. Er zijn toch wel behoorlijk veel moties ingediend, merk ik op. Eh hoeveel tijd kan ik u Kwartiertje ongeveer. Kijk met schijnoog naar de klok.
+
+[01:36:22]
+Dan stel ik voor om 9:15 ruim en dan hebben we nog drie kwartier voor de afronding van deze vergadering, dus eh 9:15. Dank u wel.
+
+[01:36:45]
+100000
